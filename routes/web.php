@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\Admin;
+use App\Http\Controllers\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,4 +17,23 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::middleware('guest')->group(function () {
+
+    Route::get('/login', [Auth\AuthenticatedSessionController::class, 'create'])->name('login');
+    Route::post('/login', [Auth\AuthenticatedSessionController::class, 'store']);
+
+});
+
+Route::middleware('auth')->group(function () {
+
+    Route::post('/logout', [Auth\AuthenticatedSessionController::class, 'destroy'])->name('logout');
+
+});
+
+Route::prefix('admin')->middleware('admin.auth')->as('admin.')->group(function () {
+
+    Route::get('/', [Admin\DashboardController::class, 'index'])->name('dashboard');
+
 });

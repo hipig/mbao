@@ -18,7 +18,7 @@ class AdminAuthenticate
     public function handle(Request $request, Closure $next)
     {
         if (Auth::guest() || !Auth::user()->isAdmin()) {
-            abort(403);
+            return redirect('/');
         }
 
         return $next($request);

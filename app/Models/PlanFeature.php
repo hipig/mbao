@@ -14,4 +14,9 @@ class PlanFeature extends Model
         'key',
         'value',
     ];
+
+    public function plan()
+    {
+        return $this->belongsTo(Plan::class);
+    }
 }

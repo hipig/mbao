@@ -23,4 +23,14 @@ class Plan extends Model
     protected $casts = [
         'status' => 'boolean',
     ];
+
+    public function features()
+    {
+        return $this->hasMany(PlanFeature::class);
+    }
+
+    public function subscriptions()
+    {
+        return $this->hasMany(Subscription::class);
+    }
 }

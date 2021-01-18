@@ -56,4 +56,34 @@ class User extends Authenticatable
     {
         return $this->hasMany(Subscription::class);
     }
+
+    public function activeSubscriptions()
+    {
+        return $this->subscriptions->reject->active();
+    }
+
+    public function subscribedPlans()
+    {
+        $planIds = $this->subscriptions->reject->active()->pluck('plan_id')->unique();
+
+        return Plan::query()->whereIn('id', $planIds)->get();
+    }
+
+    public function subscribedTo($planId)
+    {
+        $subscription = $this->subscriptions()->where('plan_id', $planId)->first();
+
+        return $subscription && $subscription->active();
+    }
+
+    public function newSubscription(Plan $plan)
+    {
+        list($start, $end) =period($plan->interval, $plan->period);
+
+        return $this->subscriptions()->create([
+            'plan_id' => $plan->getKey(),
+            'starts_at' => $start,
+            'ends_at' => $end,
+        ]);
+    }
 }

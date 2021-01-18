@@ -22,6 +22,7 @@
       ],
       [
         'title' => '方案',
+        'href' => route('admin.plans.index'),
         'icon' => 'bookmark-alt',
       ],
       [

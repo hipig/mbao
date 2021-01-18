@@ -1,4 +1,5 @@
 @extends('layouts.admin')
+@section('title', '仪表盘')
 
 @section('content')
   <div class="flex justify-between items-center mb-4">
@@ -68,13 +69,17 @@
   <div class="flex flex-wrap -mx-4">
     <div class="w-full md:w-1/2 px-4 mb-4">
       <div class="bg-white rounded-md shadow-sm overflow-hidden">
-        <div class="border-b border-gray-50 px-5 py-3 text-gray-800">最新注册</div>
+        <div class="border-b border-gray-100 flex items-center justify-between px-5 py-3">
+          <span class="text-gray-800">最近注册</span>
+        </div>
         <div class="h-64"></div>
       </div>
     </div>
     <div class="w-full md:w-1/2 px-4 mb-4">
       <div class="bg-white rounded-md shadow-sm overflow-hidden">
-        <div class="border-b border-gray-50 px-5 py-3 text-gray-800">最新订阅</div>
+        <div class="border-b border-gray-100 flex items-center justify-between px-5 py-3">
+          <span class="text-gray-800">最近订阅</span>
+        </div>
         <div class="h-64"></div>
       </div>
     </div>

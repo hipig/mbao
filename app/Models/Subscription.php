@@ -22,7 +22,7 @@ class Subscription extends Model
 
     public function active()
     {
-        return $this->ended_at ? Carbon::now()->gte($this->ended_at) : true;
+        return is_null($this->ended_at) || Carbon::now()->lte($this->ended_at);
     }
 
     public function inactive()

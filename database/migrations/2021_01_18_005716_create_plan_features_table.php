@@ -15,6 +15,7 @@ class CreatePlanFeaturesTable extends Migration
     {
         Schema::create('plan_features', function (Blueprint $table) {
             $table->id();
+            $table->unsignedBigInteger('plan_id')->comment('方案ID');
             $table->string('name')->comment('名称');
             $table->string('key')->comment('标识');
             $table->text('value')->comment('值');

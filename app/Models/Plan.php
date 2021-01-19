@@ -9,6 +9,24 @@ class Plan extends Model
 {
     use HasFactory;
 
+    /**
+     * 周期
+     */
+    const INTERVAL_DAY = 'day';
+    const INTERVAL_MONTH = 'month';
+    const INTERVAL_YEAR = 'year';
+
+    public static $intervalMap = [
+        self::INTERVAL_DAY => '天',
+        self::INTERVAL_MONTH => '月',
+        self::INTERVAL_YEAR => '年',
+    ];
+
+    /**
+     * 默认方案标识
+     */
+    const DEFAULT_KEY = 'default';
+
     protected $fillable = [
         'name',
         'key',
@@ -21,6 +39,7 @@ class Plan extends Model
     ];
 
     protected $casts = [
+        'price' => 'float',
         'status' => 'boolean',
     ];
 
@@ -32,5 +51,10 @@ class Plan extends Model
     public function subscriptions()
     {
         return $this->hasMany(Subscription::class);
+    }
+
+    public function getIsDefaultAttribute()
+    {
+        return $this->getAttribute('key') === self::DEFAULT_KEY;
     }
 }

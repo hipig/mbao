@@ -9,7 +9,17 @@ class PlanFeature extends Model
 {
     use HasFactory;
 
+    const FEATURE_BLOCK_ADS = 'block_ads';
+
+    public static $featureMap = [
+        self::FEATURE_BLOCK_ADS => '去除广告',
+    ];
+
+    const VALUE_ENABLE = 'yes';
+    const VALUE_DISABLE = 'no';
+
     protected $fillable = [
+        'plan_id',
         'name',
         'key',
         'value',

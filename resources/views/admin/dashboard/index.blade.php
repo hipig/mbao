@@ -68,20 +68,14 @@
   </div>
   <div class="flex flex-wrap -mx-4">
     <div class="w-full md:w-1/2 px-4 mb-4">
-      <div class="bg-white rounded-md shadow-sm overflow-hidden">
-        <div class="border-b border-gray-100 flex items-center justify-between px-5 py-3">
-          <span class="text-gray-800">最近注册</span>
-        </div>
+      <x-card title="最近注册">
         <div class="h-64"></div>
-      </div>
+      </x-card>
     </div>
     <div class="w-full md:w-1/2 px-4 mb-4">
-      <div class="bg-white rounded-md shadow-sm overflow-hidden">
-        <div class="border-b border-gray-100 flex items-center justify-between px-5 py-3">
-          <span class="text-gray-800">最近订阅</span>
-        </div>
+      <x-card title="最近订阅">
         <div class="h-64"></div>
-      </div>
+      </x-card>
     </div>
   </div>
 

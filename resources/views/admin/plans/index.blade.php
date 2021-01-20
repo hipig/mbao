@@ -59,9 +59,9 @@
               <div class="flex items-center space-x-2">
                 <x-button to="{{ route('admin.plans.edit', $plan) }}" size="text-sm py-1 px-3" class="border-indigo-600 text-indigo-600 bg-transparent hover:text-white hover:bg-indigo-600 focus:ring-indigo-600">编辑</x-button>
                 @if(!$plan->is_default)
-                  <x-form action="{{ route('admin.plans.destroy', $plan) }}" method="delete">
-                    <x-button type="submit" size="text-sm py-1 px-3" class="border-red-600 text-red-600 bg-transparent hover:text-white hover:bg-red-600 focus:ring-red-600">删除</x-button>
-                  </x-form>
+                  <div x-data="{action: '{{ route('admin.plans.destroy', $plan) }}'}">
+                    <x-button size="text-sm py-1 px-3" class="border-red-600 text-red-600 bg-transparent hover:text-white hover:bg-red-600 focus:ring-red-600" x-on:click="$dispatch('open-delete-modal', {action})">删除</x-button>
+                  </div>
                 @endif
               </div>
             </td>
@@ -76,6 +76,7 @@
       <div class="px-5 py-2">
         {{ $plans->links('admin.partials.pagination') }}
       </div>
+      <x-table.action-delete title="删除方案" content="存在已生效的订阅记录时，将不能删除"></x-table.action-delete>
     </div>
   </x-card>
 @endsection

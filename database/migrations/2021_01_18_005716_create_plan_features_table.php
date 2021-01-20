@@ -19,6 +19,8 @@ class CreatePlanFeaturesTable extends Migration
             $table->string('key')->comment('标识');
             $table->text('value')->comment('值');
             $table->timestamps();
+
+            $table->unique(['plan_id', 'key']);
         });
     }
 

@@ -1,10 +1,6 @@
-@props(['showFooter' => true, 'showCancel' => true, 'showClose' => false, 'size' => 'sm:max-w-lg'])
+@props(['showCancel' => true, 'showClose' => false, 'size' => 'sm:max-w-lg', 'title', 'content', 'action'])
 
-<div class="inline-flex" x-data="{ open: false }" x-cloak>
-  <div x-on:click="open = !open" class="inline-flex cursor-pointer leading-none">
-    {{ $slot }}
-  </div>
-
+<div class="inline-flex" x-data="{ open: false, action: '' }" x-cloak>
   <div x-init="
     () => document.body.classList.add('overflow-hidden');
     $watch('open', value => {
@@ -12,7 +8,7 @@
       else { document.body.classList.remove('overflow-hidden') }
     });"
        x-show="open"
-       @open-modal.window="open = true"
+       @open-delete-modal.window="open = true; action = $event.detail.action"
        class="fixed z-10 inset-0 overflow-y-auto">
     <div class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
       <div x-show="open"
@@ -47,16 +43,29 @@
           </div>
         @endif
         <div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
-          {{ $content }}
+          @if($title ?? null)
+            <h3 class="text-lg leading-6 font-medium text-gray-900">
+              {{ $title }}
+            </h3>
+          @endif
+          @if($content ?? null)
+            <div class="mt-2">
+              <p class="text-sm text-gray-500">
+                {{ $content }}
+              </p>
+            </div>
+          @endif
         </div>
-        @if($showFooter)
-          <div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
-            {{ $action ?? '' }}
-            @if($showCancel)
-              <x-button x-on:click="open = false" name="cancel" class="mt-3 sm:mt-0 w-full sm:w-auto sm:text-sm border border-gray-300 text-gray-700 bg-white hover:bg-gray-50 focus:ring-indigo-500">取消</x-button>
-            @endif
-          </div>
-        @endif
+        <div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
+          <form :action="action" method="post">
+            @csrf
+            @method('delete')
+            <x-button type="submit" name="confirmDelete" class="w-full sm:w-auto sm:text-sm border border-transparent text-white bg-red-600 hover:bg-red-500 focus:ring-red-600 sm:ml-3">确认</x-button>
+          </form>
+          @if($showCancel)
+            <x-button x-on:click="open = false" name="cancel" class="mt-3 sm:mt-0 w-full sm:w-auto sm:text-sm border border-gray-300 text-gray-700 bg-white hover:bg-gray-50 focus:ring-indigo-600">取消</x-button>
+          @endif
+        </div>
       </div>
     </div>
   </div>

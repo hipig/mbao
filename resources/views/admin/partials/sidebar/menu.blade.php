@@ -23,11 +23,11 @@
       [
         'title' => '方案',
         'href' => route('admin.plans.index'),
-        'icon' => 'bookmark-alt',
+        'icon' => 'server',
       ],
       [
         'title' => '订阅记录',
-        'icon' => 'document-text',
+        'icon' => 'bookmark-alt',
       ],
       [
         'title' => '用户',
@@ -35,7 +35,7 @@
       ],
       [
         'title' => '页面',
-        'icon' => 'duplicate',
+        'icon' => 'document-text',
       ],
     ],
     '资源' => [
@@ -45,7 +45,7 @@
       ],
       [
         'title' => '卡片',
-        'icon' => 'duplicate',
+        'icon' => 'document-duplicate',
       ],
       [
         'title' => '学习报告',

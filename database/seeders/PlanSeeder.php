@@ -25,9 +25,8 @@ class PlanSeeder extends Seeder
         ]);
 
         $plan->features()->create([
-            'name' => '去除广告',
             'key' => 'block_ads',
-            'value' => PlanFeature::VALUE_DISABLE
+            'value' => PlanFeature::STATUS_DISABLE
         ]);
     }
 }

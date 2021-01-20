@@ -57,4 +57,9 @@ class Plan extends Model
     {
         return $this->getAttribute('key') === self::DEFAULT_KEY;
     }
+
+    public function getIntervalTextAttribute()
+    {
+        return self::$intervalMap[$this->getAttribute('interval')] ?? '未知周期';
+    }
 }

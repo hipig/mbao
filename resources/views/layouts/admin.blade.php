@@ -9,7 +9,7 @@
       @include('admin.partials.header')
       <div class="w-full md:max-w-6xl md:mx-auto py-8 px-4 sm:px-6 md:px-8 py-4">
         @yield('breadcrumb')
-
+        @include('admin.partials.alert')
         @yield('content')
       </div>
     </main>

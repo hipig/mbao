@@ -34,7 +34,7 @@
   </div>
 
   @isset($hint)
-    <div class="text-sm text-gray-500 my-2 leading-tight">{{ $hint }}</div>
+    <div class="text-sm text-gray-500 my-2 leading-tight">{!! $hint !!}</div>
   @endisset
 
   @error($name)

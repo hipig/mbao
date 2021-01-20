@@ -1,4 +1,4 @@
-<div class="bg-white rounded-md shadow-sm overflow-hidden">
+<div class="bg-white rounded-md shadow overflow-hidden">
   <div class="flex justify-between items-start p-5">
     <div class="flex-1 flex flex-col">
       <div class="mb-2 font-medium truncate text-gray-400">{{ $title }}</div>

@@ -13,7 +13,7 @@
 @section('content')
   <div class="flex justify-between items-center mb-4">
     <h1 class="text-3xl text-gray-900">方案</h1>
-    <x-button class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">添加</x-button>
+    <x-button to="{{ route('admin.plans.create') }}" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">添加</x-button>
   </div>
   <x-card title="方案列表">
     <div class="-m-5">
@@ -22,6 +22,7 @@
         <tr>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">名称</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">价格</th>
+          <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">时长</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">状态</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">操作</th>
         </tr>
@@ -34,16 +35,24 @@
             </td>
             <td class="px-5 py-3 border-b border-gray-100">
               @if($plan->price > 0)
-                {{ $plan->price }}
+                <span class="text-red-600">￥{{ $plan->price }}</span>
               @else
                 <x-label>免费</x-label>
               @endif
             </td>
             <td class="px-5 py-3 border-b border-gray-100">
-              @if($plan->status)
-                <x-label type="green">启用</x-label>
+              @if($plan->period === -1)
+                <x-label type="warning">永久</x-label>
               @else
-                <x-label type="red">禁用</x-label>
+                <span>{{ $plan->period }}</span>
+                <span>{{ $plan->interval_text }}</span>
+              @endif
+            </td>
+            <td class="px-5 py-3 border-b border-gray-100">
+              @if($plan->status)
+                <x-label type="success">启用</x-label>
+              @else
+                <x-label type="danger">禁用</x-label>
               @endif
             </td>
             <td class="px-5 py-3 border-b border-gray-100">
@@ -64,7 +73,9 @@
         @endforelse
         </tbody>
       </table>
-      {{ $plans->links() }}
+      <div class="px-5 py-2">
+        {{ $plans->links('admin.partials.pagination') }}
+      </div>
     </div>
   </x-card>
 @endsection

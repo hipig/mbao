@@ -47,7 +47,7 @@
           </tr>
         @empty
           <tr>
-            <td colspan="5" class="px-5 py-10 text-gray-500 text-center">暂无数据。</td>
+            <td colspan="4" class="px-5 py-10 text-gray-500 text-center">暂无数据。</td>
           </tr>
         @endforelse
         </tbody>

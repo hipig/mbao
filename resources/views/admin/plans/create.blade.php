@@ -35,7 +35,7 @@
           <x-form.input type="number" label="时长" name="period" placeholder="请输入时长" hint="<code>-1</code> 为不限制"></x-form.input>
         </div>
         <div class="col-span-6 sm:col-span-3">
-          <x-form.select label="周期" name="interval" placeholder="请输入周期">
+          <x-form.select label="周期" name="interval" placeholder="请选择周期">
             @foreach(\App\Models\Plan::$intervalMap as $key => $item)
               <option value="{{ $key }}">{{ $item }}</option>
             @endforeach

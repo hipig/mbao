@@ -40,4 +40,6 @@ Route::prefix('admin')->middleware('admin.auth')->as('admin.')->group(function (
 
     Route::resource('plans', Admin\PlansController::class);
 
+    Route::resource('subscriptions', Admin\SubscriptionsController::class)->except(['edit', 'update', 'destroy']);
+
 });

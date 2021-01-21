@@ -29,6 +29,7 @@
       ],
       [
         'title' => '订阅记录',
+        'href' => route('admin.subscriptions.index'),
         'icon' => 'bookmark-alt',
         'active' => if_route_pattern('admin.subscriptions.*'),
       ],

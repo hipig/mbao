@@ -26,5 +26,5 @@ function period($interval = 'month', $period = 1, $start = null)
         $end = $cloneStart->{$method}($period);
     }
 
-    return compact('start', 'end');
+    return [$start, $end];
 }

@@ -2,12 +2,13 @@
 
 namespace App\Models;
 
+use App\Models\Traits\StatusScope;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Plan extends Model
 {
-    use HasFactory;
+    use HasFactory, StatusScope;
 
     /**
      * 周期

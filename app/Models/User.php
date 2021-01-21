@@ -76,9 +76,9 @@ class User extends Authenticatable
         return $subscription && $subscription->active();
     }
 
-    public function newSubscription(Plan $plan)
+    public function newSubscription($plan, $start = null)
     {
-        list($start, $end) =period($plan->interval, $plan->period);
+        list($start, $end) =period($plan->interval, $plan->period, $start);
 
         return $this->subscriptions()->create([
             'plan_id' => $plan->getKey(),

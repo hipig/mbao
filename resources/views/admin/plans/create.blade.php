@@ -13,7 +13,7 @@
 
 @section('content')
   <div class="flex justify-between items-center mb-4">
-    <h1 class="text-3xl text-gray-900">添加</h1>
+    <h1 class="text-3xl text-gray-900">添加方案</h1>
   </div>
   <x-card>
     <x-form action="{{ route('admin.plans.store') }}">

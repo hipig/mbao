@@ -18,7 +18,7 @@ class PlanUpdateRequest extends FormRequest
             'name' => 'required',
             'key' => [
                 'required',
-                Rule::unique('plans')->ignore($this->key, 'key'),
+                Rule::unique('plans')->ignore($this->route('plan')),
             ],
             'price' => 'required|numeric|min:0',
             'period' => 'required|numeric',

@@ -13,7 +13,7 @@
 
 @section('content')
   <div class="flex justify-between items-center mb-4">
-    <h1 class="text-3xl text-gray-900">编辑</h1>
+    <h1 class="text-3xl text-gray-900">编辑 {{ $plan->name }}</h1>
   </div>
   <x-card>
     <x-form action="{{ route('admin.plans.update', $plan) }}" method="put">
@@ -72,10 +72,9 @@
             @endswitch
           </div>
         @endforeach
-        </div>
-        <div class="flex items-center justify-between">
-          <x-button type="submit" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">保存</x-button>
-        </div>
+      </div>
+      <div class="flex items-center justify-between">
+        <x-button type="submit" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">保存</x-button>
       </div>
     </x-form>
   </x-card>

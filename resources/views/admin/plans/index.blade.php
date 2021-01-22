@@ -17,7 +17,7 @@
   </div>
   <x-card title="方案列表">
     <div class="-m-5">
-      <table class="table-fixed w-full">
+      <table class="w-full whitespace-nowrap border-collapse">
         <thead>
         <tr>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">名称</th>
@@ -73,7 +73,7 @@
         @endforelse
         </tbody>
       </table>
-      <div class="px-5 py-2">
+      <div class="px-5 py-4">
         {{ $plans->links('admin.partials.pagination') }}
       </div>
       <x-table.action-delete title="删除方案" content="存在已生效的订阅记录时，将不能删除"></x-table.action-delete>

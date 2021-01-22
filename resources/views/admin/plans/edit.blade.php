@@ -17,20 +17,14 @@
   </div>
   <x-card>
     <x-form action="{{ route('admin.plans.update', $plan) }}" method="put">
+      <x-form.input label="名称" name="name" value="{{ $plan->name }}" placeholder="请输入名称"></x-form.input>
+      <x-form.display label="标识" name="key" value="{{ $plan->key }}" placeholder="请输入标识"></x-form.display>
+      <x-form.input label="价格" name="price" value="{{ $plan->price }}" placeholder="请输入价格">
+        <x-slot name="left">
+          <span class="inline-flex items-center px-3 rounded-l-md border border-r-0 border-gray-300 bg-gray-50 text-gray-500 text-sm">￥</span>
+        </x-slot>
+      </x-form.input>
       <div class="grid grid-cols-6 gap-x-6">
-        <div class="col-span-6">
-          <x-form.input label="名称" name="name" value="{{ $plan->name }}" placeholder="请输入名称"></x-form.input>
-        </div>
-        <div class="col-span-6">
-          <x-form.display label="标识" name="key" value="{{ $plan->key }}" placeholder="请输入标识"></x-form.display>
-        </div>
-        <div class="col-span-6">
-          <x-form.input label="价格" name="price" value="{{ $plan->price }}" placeholder="请输入价格">
-            <x-slot name="left">
-              <span class="inline-flex items-center px-3 rounded-l-md border border-r-0 border-gray-300 bg-gray-50 text-gray-500 text-sm">￥</span>
-            </x-slot>
-          </x-form.input>
-        </div>
         <div class="col-span-6 sm:col-span-3">
           <x-form.input type="number" label="时长" name="period" value="{{ $plan->period }}" placeholder="请输入时长" hint="<code>-1</code> 为不限制"></x-form.input>
         </div>
@@ -41,23 +35,17 @@
             @endforeach
           </x-form.select>
         </div>
-        <div class="col-span-6">
-          <x-form.textarea label="描述" name="description" value="{{ $plan->description }}" placeholder="请输入描述"></x-form.textarea>
-        </div>
-        <div class="col-span-6">
-          <x-form.switch label="状态" name="status" :value="$plan->status"></x-form.switch>
-        </div>
-        <div class="col-span-6">
-          <x-form.input type="number" label="排序" name="index" value="{{ $plan->index }}" placeholder="请输入排序"></x-form.input>
-        </div>
       </div>
+      <x-form.textarea label="描述" name="description" value="{{ $plan->description }}" placeholder="请输入描述"></x-form.textarea>
+      <x-form.switch label="状态" name="status" :value="$plan->status"></x-form.switch>
+      <x-form.input type="number" label="排序" name="index" value="{{ $plan->index }}" placeholder="请输入排序"></x-form.input>
       <div class="mb-5 flex items-center overflow-hidden">
         <div class="text-gray-500">功能配置</div>
         <div class="ml-4 flex-1 bg-gray-200 h-px"></div>
       </div>
       <div class="grid grid-cols-6 gap-x-6">
         @foreach($plan->features as $feature)
-          <div class="col-span-2">
+          <div class="col-span-6 sm:col-span-2">
             @switch($feature->type)
               @case('input')
                 <x-form.input label="{{ $feature->label }}" name="features[{{ $feature->key }}]" value="{{ $feature->value }}"></x-form.input>

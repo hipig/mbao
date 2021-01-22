@@ -17,7 +17,7 @@
   </div>
   <x-card title="用户列表">
     <div class="-m-5">
-      <table class="table-fixed w-full">
+      <table class="w-full whitespace-nowrap border-collapse">
         <thead>
         <tr>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">昵称</th>
@@ -52,7 +52,7 @@
         @endforelse
         </tbody>
       </table>
-      <div class="px-5 py-2">
+      <div class="px-5 py-4">
         {{ $users->links('admin.partials.pagination') }}
       </div>
     </div>

@@ -7,6 +7,11 @@ use Illuminate\Http\Request;
 
 class StatusConvert
 {
+    protected $boolean = [
+        'status',
+        'is_pro',
+    ];
+
     /**
      * Handle an incoming request.
      *
@@ -16,9 +21,12 @@ class StatusConvert
      */
     public function handle(Request $request, Closure $next)
     {
-        if ($request->has('status')) {
-            $request->offsetSet('status', $request->boolean('status'));
+        foreach ($this->boolean as $key) {
+            if ($request->has($key)) {
+                $request->offsetSet($key, $request->boolean($key));
+            }
         }
+
         return $next($request);
     }
 }

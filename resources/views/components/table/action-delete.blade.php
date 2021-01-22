@@ -1,6 +1,6 @@
 @props(['showCancel' => true, 'showClose' => false, 'size' => 'sm:max-w-lg', 'title', 'content', 'action'])
 
-<div class="inline-flex" x-data="{ open: false, action: '' }" x-cloak>
+<div x-data="{ open: false, action: '' }" x-cloak>
   <div x-init="
     () => document.body.classList.add('overflow-hidden');
     $watch('open', value => {

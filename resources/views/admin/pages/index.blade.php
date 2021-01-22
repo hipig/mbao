@@ -54,12 +54,12 @@
           </tr>
         @empty
           <tr>
-            <td colspan="4" class="px-5 py-10 text-gray-500 text-center">暂无数据。</td>
+            <td colspan="5" class="px-5 py-10 text-gray-500 text-center">暂无数据。</td>
           </tr>
         @endforelse
         </tbody>
       </table>
-      <div class="px-5 py-2">
+      <div class="px-5 py-4">
         {{ $pages->links('admin.partials.pagination') }}
       </div>
       <x-table.action-delete title="删除页面" content="请确认是否删除页面？"></x-table.action-delete>

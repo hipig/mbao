@@ -48,12 +48,14 @@
     ],
     '资源' => [
       [
-        'title' => '分组',
+        'title' => '卡片分组',
+        'href' => route('admin.card-groups.index'),
         'icon' => 'folder-open',
-        'active' => if_route_pattern('admin.cardGroups.*'),
+        'active' => if_route_pattern('admin.card-groups.*'),
       ],
       [
         'title' => '卡片',
+        'href' => route('admin.cards.index'),
         'icon' => 'document-duplicate',
         'active' => if_route_pattern('admin.cards.*'),
       ],

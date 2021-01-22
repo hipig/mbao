@@ -36,12 +36,16 @@ Route::prefix('admin')->middleware('admin.auth')->as('admin.')->group(function (
 
     Route::get('/', [Admin\DashboardController::class, 'index'])->name('dashboard');
 
-    Route::resource('users', Admin\UsersController::class)->except('destroy');
+    Route::resource('users', Admin\UsersController::class)->except(['show', 'destroy']);
 
-    Route::resource('plans', Admin\PlansController::class);
+    Route::resource('plans', Admin\PlansController::class)->except('show');
 
     Route::resource('subscriptions', Admin\SubscriptionsController::class)->except(['edit', 'update', 'destroy']);
 
     Route::resource('pages', Admin\PagesController::class);
+
+    Route::resource('card-groups', Admin\CardGroupsController::class)->except('show');
+
+    Route::resource('cards', Admin\CardsController::class)->except('show');
 
 });

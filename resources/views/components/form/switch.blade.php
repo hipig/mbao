@@ -7,7 +7,7 @@
   <span
     {{ $attributes }}
     x-data="{ isOn: false }"
-    x-init="isOn = !! '{{ old($name, $value ?? null) }}'"
+    x-init="isOn = !! '{{ old($name, $value ?? false) }}'"
     x-on:click="isOn = !isOn"
     :aria-checked="isOn"
     :class="{'border-indigo-600 bg-indigo-600': isOn, 'border--gray-200 bg-gray-200': !isOn }"

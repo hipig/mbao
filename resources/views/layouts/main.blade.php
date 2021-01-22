@@ -8,11 +8,13 @@
 
   <!-- Styles -->
   <link rel="stylesheet" href="{{ mix('css/app.css') }}">
-
+  @stack('style')
   <!-- Scripts -->
   <script src="{{ asset('js/app.js') }}" defer></script>
+  @stack('beforeScript')
 </head>
 <body class="font-sans bg-gray-100 text-gray-700 leading-normal antialiased">
   @yield('body')
+  @stack('afterScript')
 </body>
 </html>

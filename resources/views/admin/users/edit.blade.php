@@ -1,5 +1,5 @@
 @extends('layouts.admin')
-@section('title', '编辑方案')
+@section('title', '编辑用户')
 
 @section('breadcrumb')
   @include('admin.partials.breadcrumb', [

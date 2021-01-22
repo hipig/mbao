@@ -41,6 +41,7 @@
       ],
       [
         'title' => '页面',
+        'href' => route('admin.pages.index'),
         'icon' => 'document-text',
         'active' => if_route_pattern('admin.pages.*'),
       ],

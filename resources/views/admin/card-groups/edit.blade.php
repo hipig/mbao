@@ -19,7 +19,7 @@
     <x-form action="{{ route('admin.card-groups.update', $card_group) }}" method="put">
       <x-form.input label="名称" name="name" value="{{ $card_group->name }}" placeholder="请输入名称"></x-form.input>
       <x-form.input label="英文名称" name="name_en" value="{{ $card_group->name_en }}" placeholder="请输入英文名称"></x-form.input>
-      <x-form.input label="封面" name="cover" placeholder="请输入封面"></x-form.input>
+      <x-form.filepond label="封面" name="cover" mine-type="image/*" value="{{ $card_group->cover }}" :image-preview="true"></x-form.filepond>
       <x-form-label label="颜色样式">
         <div class="flex items-center space-x-12">
           @foreach(\App\Models\CardGroup::$colorMap as $color)

@@ -20,8 +20,8 @@
       <table class="w-full whitespace-nowrap border-collapse">
         <thead>
         <tr>
-          <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">分组</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">名称</th>
+          <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">分组</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">拼写</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">颜色样式</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">状态</th>
@@ -32,10 +32,8 @@
         @forelse($cards as $card)
           <tr>
             <td class="px-5 py-3 border-b border-gray-100">
-              <a href="{{ route('admin.card-groups.edit', $card->group) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $card->group->name }}</a>
-            </td>
-            <td class="px-5 py-3 border-b border-gray-100">
-              <div class="flex">
+              <div class="flex items-center">
+                <x-image class="w-12 h-12 mr-3" src="{{ $card->cover_url }}"></x-image>
                 <div class="flex-1">
                   <div class="flex flex-col">
                     <a href="{{ route('admin.cards.edit', $card) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $card->name }}</a>
@@ -43,6 +41,9 @@
                   </div>
                 </div>
               </div>
+            </td>
+            <td class="px-5 py-3 border-b border-gray-100">
+              <a href="{{ route('admin.card-groups.edit', $card->group) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $card->group->name }}</a>
             </td>
             <td class="px-5 py-3 border-b border-gray-100">
               <div class="flex flex-col">

@@ -35,7 +35,7 @@
           <x-form.input label="英式拼写" name="spell_uk" placeholder="请输入英式拼写"></x-form.input>
         </div>
       </div>
-      <x-form.input label="封面" name="cover" placeholder="请输入封面"></x-form.input>
+      <x-form.filepond label="封面" name="cover" mine-type="image/*" :image-preview="true"></x-form.filepond>
       <x-form-label label="颜色样式">
         <div class="flex items-center space-x-12">
           @foreach(\App\Models\Card::$colorMap as $color)

@@ -16,6 +16,7 @@ class SubscriptionCreateRequest extends FormRequest
         return [
             'plan_id' => 'required',
             'user_id' => 'required',
+            'started_at' => 'date',
         ];
     }
 

@@ -32,7 +32,8 @@
         @forelse($cardGroups as $cardGroup)
           <tr>
             <td class="px-5 py-3 border-b border-gray-100">
-              <div class="flex">
+              <div class="flex items-center">
+                <x-image class="w-12 h-12 mr-3" src="{{ $cardGroup->cover_url }}"></x-image>
                 <div class="flex-1">
                   <div class="flex flex-col">
                     <a href="{{ route('admin.card-groups.edit', $cardGroup) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $cardGroup->name }}</a>

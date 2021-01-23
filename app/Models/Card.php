@@ -2,13 +2,14 @@
 
 namespace App\Models;
 
+use App\Models\Traits\CoverAttribute;
 use App\Models\Traits\StatusScope;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Card extends Model
 {
-    use HasFactory, StatusScope;
+    use HasFactory, StatusScope, CoverAttribute;
 
     const COLOR_RED = 'red';
     const COLOR_YELLOW = 'yellow';

@@ -48,4 +48,11 @@ Route::prefix('admin')->middleware('admin.auth')->as('admin.')->group(function (
 
     Route::resource('cards', Admin\CardsController::class)->except('show');
 
+
+    Route::prefix('filepond')->group(function () {
+        Route::post('process', [Admin\FilepondUploadsController::class, 'process'])->name('filepond.process');
+        Route::get('load', [Admin\FilepondUploadsController::class, 'load'])->name('filepond.load');
+        Route::delete('revert', [Admin\FilepondUploadsController::class, 'revert'])->name('filepond.revert');
+    });
+
 });

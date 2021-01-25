@@ -7,8 +7,10 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Str;
+use Tymon\JWTAuth\Contracts\JWTSubject;
 
-class User extends Authenticatable
+class User extends Authenticatable implements JWTSubject
 {
     use HasFactory, Notifiable;
 
@@ -19,7 +21,9 @@ class User extends Authenticatable
      */
     protected $fillable = [
         'name',
+        'nickname',
         'email',
+        'phone',
         'password',
     ];
 
@@ -45,6 +49,15 @@ class User extends Authenticatable
     public function isAdmin()
     {
         return $this->getKey() === 1;
+    }
+
+    public function getAvatarUrlAttribute()
+    {
+        $avatar = $this->attributes['avatar'];
+        if(Str::startsWith($avatar, ['http://','https://'])){
+            return $avatar;
+        }
+        return \Avatar::create($this->attributes['nickname'] ?? $this->attributes['name'])->toBase64();
     }
 
     public function setPasswordAttribute($value)
@@ -85,5 +98,15 @@ class User extends Authenticatable
             'starts_at' => $start,
             'ends_at' => $end,
         ]);
+    }
+
+    public function getJWTIdentifier()
+    {
+        return $this->getKey();
+    }
+
+    public function getJWTCustomClaims()
+    {
+        return [];
     }
 }

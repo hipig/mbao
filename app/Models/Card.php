@@ -33,7 +33,7 @@ class Card extends Model
         'name',
         'name_en',
         'spell_cn',
-        'spell_en',
+        'spell_us',
         'spell_uk',
         'color',
         'cover',

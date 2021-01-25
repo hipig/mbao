@@ -45,7 +45,8 @@ class PlansController extends Controller
 
     public function edit(Plan $plan)
     {
-        return view('admin.plans.edit',  compact('plan'));
+        $features = $plan->features()->pluck('value', 'key');
+        return view('admin.plans.edit',  compact('plan', 'features'));
     }
 
     public function update(PlanUpdateRequest $request, Plan $plan)

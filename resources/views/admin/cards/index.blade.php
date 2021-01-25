@@ -22,7 +22,7 @@
         <tr>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">名称</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">分组</th>
-          <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">拼写</th>
+          <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">发音</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">颜色样式</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">状态</th>
           <th class="px-5 py-2 text-sm bg-gray-50 text-gray-900 text-left font-semibold border-b border-gray-100">操作</th>
@@ -37,7 +37,7 @@
                 <div class="flex-1">
                   <div class="flex flex-col">
                     <a href="{{ route('admin.cards.edit', $card) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $card->name }}</a>
-                    <span class="text-gray-500">{{ $card->name_en }}</span>
+                    <span class="text-gray-500 w-40 truncate">{{ $card->name_en }}</span>
                   </div>
                 </div>
               </div>
@@ -48,8 +48,8 @@
             <td class="px-5 py-3 border-b border-gray-100">
               <div class="flex flex-col">
                 <div class="text-gray-500"><span class="text-gray-900 font-semibold">中：</span>{{ $card->spell_cn }}</div>
+                <div class="text-gray-500"><span class="text-gray-900 font-semibold">美：</span>{{ $card->spell_us }}</div>
                 <div class="text-gray-500"><span class="text-gray-900 font-semibold">英：</span>{{ $card->spell_uk }}</div>
-                <div class="text-gray-500"><span class="text-gray-900 font-semibold">美：</span>{{ $card->spell_en }}</div>
               </div>
             </td>
             <td class="px-5 py-3 border-b border-gray-100">

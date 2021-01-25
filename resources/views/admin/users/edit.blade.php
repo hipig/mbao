@@ -13,11 +13,13 @@
 
 @section('content')
   <div class="flex justify-between items-center mb-4">
-    <h1 class="text-3xl text-gray-900">编辑 {{ $user->name }}</h1>
+    <h1 class="text-3xl text-gray-900">编辑 {{ $user->nickname }}</h1>
   </div>
   <x-card>
     <x-form action="{{ route('admin.users.update', $user) }}" method="put">
-      <x-form.input label="昵称" name="name" value="{{ $user->name }}" placeholder="请输入昵称"></x-form.input>
+      <x-form.display label="用户名" name="name" value="{{ $user->name }}" placeholder="请输入用户名"></x-form.display>
+      <x-form.input label="昵称" name="nickname" value="{{ $user->nickname }}" placeholder="请输入昵称"></x-form.input>
+      <x-form.input label="手机号码" name="phone" value="{{ $user->phone }}" placeholder="请输入手机号码"></x-form.input>
       <x-form.input label="邮箱地址" name="email" value="{{ $user->email }}" placeholder="请输入邮箱地址"></x-form.input>
       <x-form.input type="password" label="密码" name="password" placeholder="请输入密码" hint="不更新密码，请留空">
         <x-slot name="left">

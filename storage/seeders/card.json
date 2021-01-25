@@ -1,0 +1,4798 @@
+[
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "alphabet",
+    "groupTitle" : "字母",
+    "isPro" : 0,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_字母.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_A.png",
+        "name_ch" : "A",
+        "name_en" : "A",
+        "spell_ep" : "[eɪ]",
+        "spell_ap" : "[eɪ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type": "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_B.png",
+        "name_ch" : "B",
+        "name_en" : "B",
+        "spell_ep" : "[biː]",
+        "spell_ap" : "[biː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_C.png",
+        "name_ch" : "C",
+        "name_en" : "C",
+        "spell_ep" : "[siː]",
+        "spell_ap" : "[siː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_D.png",
+        "name_ch" : "D",
+        "name_en" : "D",
+        "spell_ep" : "[diː]",
+        "spell_ap" : "[diː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_E.png",
+        "name_ch" : "E",
+        "name_en" : "E",
+        "spell_ep" : "[iː]",
+        "spell_ap" : "[iː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_F.png",
+        "name_ch" : "F",
+        "name_en" : "F",
+        "spell_ep" : "[ef]",
+        "spell_ap" : "[ef]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_G.png",
+        "name_ch" : "G",
+        "name_en" : "G",
+        "spell_ep" : "[dʒiː]",
+        "spell_ap" : "[dʒiː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_H.png",
+        "name_ch" : "H",
+        "name_en" : "H",
+        "spell_ep" : "[eɪtʃ]",
+        "spell_ap" : "[eɪtʃ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_I.png",
+        "name_ch" : "I",
+        "name_en" : "I",
+        "spell_ep" : "[aɪ]",
+        "spell_ap" : "[aɪ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_J.png",
+        "name_ch" : "J",
+        "name_en" : "J",
+        "spell_ep" : "[dʒeɪ]",
+        "spell_ap" : "[dʒeɪ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_K.png",
+        "name_ch" : "K",
+        "name_en" : "K",
+        "spell_ep" : "[keɪ]",
+        "spell_ap" : "[keɪ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_L.png",
+        "name_ch" : "L",
+        "name_en" : "L",
+        "spell_ep" : "[el]",
+        "spell_ap" : "[el]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_M.png",
+        "name_ch" : "M",
+        "name_en" : "M",
+        "spell_ep" : "[em]",
+        "spell_ap" : "[em]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_N.png",
+        "name_ch" : "N",
+        "name_en" : "N",
+        "spell_ep" : "[en]",
+        "spell_ap" : "[en]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_O.png",
+        "name_ch" : "O",
+        "name_en" : "O",
+        "spell_ep" : "[oʊ]",
+        "spell_ap" : "[əʊ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_P.png",
+        "name_ch" : "P",
+        "name_en" : "P",
+        "spell_ep" : "[piː]",
+        "spell_ap" : "[piː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_Q.png",
+        "name_ch" : "Q",
+        "name_en" : "Q",
+        "spell_ep" : "[kjuː]",
+        "spell_ap" : "[kjuː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_R.png",
+        "name_ch" : "R",
+        "name_en" : "R",
+        "spell_ep" : "[ɑːr]",
+        "spell_ap" : "[ɑː(r)]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_S.png",
+        "name_ch" : "S",
+        "name_en" : "S",
+        "spell_ep" : "[es]",
+        "spell_ap" : "[es]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_T.png",
+        "name_ch" : "T",
+        "name_en" : "T",
+        "spell_ep" : "[tiː]",
+        "spell_ap" : "[tiː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_U.png",
+        "name_ch" : "U",
+        "name_en" : "U",
+        "spell_ep" : "[juː]",
+        "spell_ap" : "[juː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_V.png",
+        "name_ch" : "V",
+        "name_en" : "V",
+        "spell_ep" : "[viː]",
+        "spell_ap" : "[viː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_W.png",
+        "name_ch" : "W",
+        "name_en" : "W",
+        "spell_ep" : "[ˈdʌbljuː]",
+        "spell_ap" : "[ˈdʌbljuː]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_X.png",
+        "name_ch" : "X",
+        "name_en" : "X",
+        "spell_ep" : "[eks]",
+        "spell_ap" : "[eks]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_Y.png",
+        "name_ch" : "Y",
+        "name_en" : "Y",
+        "spell_ep" : "[waɪ]",
+        "spell_ap" : "[waɪ]",
+        "spell_ch" : ""
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_Z.png",
+        "name_ch" : "Z",
+        "name_en" : "Z",
+        "spell_ep" : "[ziː]",
+        "spell_ap" : "[zed]",
+        "spell_ch" : ""
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "number",
+    "groupTitle" : "数字",
+    "isPro" : 0,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_数字.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_0.png",
+        "name_ch" : "0",
+        "name_en" : "zero",
+        "spell_ep" : "[ˈzɪərəʊ]",
+        "spell_ap" : "[ˈzɪroʊ]",
+        "spell_ch" : "líng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_1.png",
+        "name_ch" : "1",
+        "name_en" : "one",
+        "spell_ep" : "[wʌn]",
+        "spell_ap" : "[wʌn]",
+        "spell_ch" : "yī"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_2.png",
+        "name_ch" : "2",
+        "name_en" : "two",
+        "spell_ep" : "[tuː]",
+        "spell_ap" : "[tuː]",
+        "spell_ch" : "èr"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_3.png",
+        "name_ch" : "3",
+        "name_en" : "three",
+        "spell_ep" : "[θriː]",
+        "spell_ap" : "[θriː]",
+        "spell_ch" : "sān"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_4.png",
+        "name_ch" : "4",
+        "name_en" : "four",
+        "spell_ep" : "[fɔː(r)]",
+        "spell_ap" : "[fɔːr]",
+        "spell_ch" : "sì"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_5.png",
+        "name_ch" : "5",
+        "name_en" : "five",
+        "spell_ep" : "[faɪv]",
+        "spell_ap" : "[faɪv]",
+        "spell_ch" : "wǔ"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_6.png",
+        "name_ch" : "6",
+        "name_en" : "six",
+        "spell_ep" : "[sɪks]",
+        "spell_ap" : "[sɪks]",
+        "spell_ch" : "liù"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_7.png",
+        "name_ch" : "7",
+        "name_en" : "seven",
+        "spell_ep" : "[ˈsevn]",
+        "spell_ap" : "[ˈsevn]",
+        "spell_ch" : "qī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_8.png",
+        "name_ch" : "8",
+        "name_en" : "eight",
+        "spell_ep" : "[eɪt]",
+        "spell_ap" : "[eɪt]",
+        "spell_ch" : "bā"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_9.png",
+        "name_ch" : "9",
+        "name_en" : "nine",
+        "spell_ep" : "[naɪn]",
+        "spell_ap" : "[naɪn]",
+        "spell_ch" : "jiǔ"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "fruits",
+    "groupTitle" : "水果",
+    "isPro" : 0,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_水果.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_苹果.png",
+        "name_ch" : "苹果",
+        "name_en" : "apple",
+        "spell_ep" : "[ˈæpl]",
+        "spell_ap" : "[ˈæpl]",
+        "spell_ch" : "píng guǒ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_梨.png",
+        "name_ch" : "梨",
+        "name_en" : "pear",
+        "spell_ep" : "[peə(r)]",
+        "spell_ap" : "[per]",
+        "spell_ch" : "lí"
+      },
+      {
+        "back_color_type" : "8",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_桃子.png",
+        "name_ch" : "桃子",
+        "name_en" : "peach",
+        "spell_ep" : "[piːtʃ]",
+        "spell_ap" : "[piːtʃ]",
+        "spell_ch" : "táo zi"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_橙子.png",
+        "name_ch" : "橙子",
+        "name_en" : "orange",
+        "spell_ep" : "[ˈɒrɪndʒ]",
+        "spell_ap" : "['ɔrɪndʒ]",
+        "spell_ch" : "chéng zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_香蕉.png",
+        "name_ch" : "香蕉",
+        "name_en" : "banana",
+        "spell_ep" : "[bəˈnɑːnə]",
+        "spell_ap" : "[bəˈnænə]",
+        "spell_ch" : "xiāng jiāo"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_葡萄.png",
+        "name_ch" : "葡萄",
+        "name_en" : "grape",
+        "spell_ep" : "[ɡreɪp]",
+        "spell_ap" : "[ɡreɪp]",
+        "spell_ch" : "pú táo"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_西瓜.png",
+        "name_ch" : "西瓜",
+        "name_en" : "watermelon",
+        "spell_ep" : "[ˈwɔːtəmelən]",
+        "spell_ap" : "[ˈwɔːtərmelən]",
+        "spell_ch" : "xī guā"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_芒果.png",
+        "name_ch" : "芒果",
+        "name_en" : "mango",
+        "spell_ep" : "[ˈmæŋɡəʊ]",
+        "spell_ap" : "[ˈmæŋɡoʊ]",
+        "spell_ch" : "máng guǒ"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_草莓.png",
+        "name_ch" : "草莓",
+        "name_en" : "strawberry",
+        "spell_ep" : "[ˈstrɔːbəri]",
+        "spell_ap" : "[ˈstrɔːberi]",
+        "spell_ch" : "cǎo méi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_菠萝.png",
+        "name_ch" : "菠萝",
+        "name_en" : "pineapple",
+        "spell_ep" : "[ˈpaɪnæpl]",
+        "spell_ap" : "[ˈpaɪnæpl]",
+        "spell_ch" : "bō luó"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_甜瓜.png",
+        "name_ch" : "甜瓜",
+        "name_en" : "muskmelon",
+        "spell_ep" : "['mʌsk,melən]",
+        "spell_ap" : "['mʌsk,mɛlən]",
+        "spell_ch" : "tián guā"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_柠檬.png",
+        "name_ch" : "柠檬",
+        "name_en" : "lemon",
+        "spell_ep" : "[ˈlemən]",
+        "spell_ap" : "[ˈlemən]",
+        "spell_ch" : "níng méng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_樱桃.png",
+        "name_ch" : "樱桃",
+        "name_en" : "cherry",
+        "spell_ep" : "[ˈtʃeri]",
+        "spell_ap" : "[ˈtʃeri]",
+        "spell_ch" : "yīng táo"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_火龙果.png",
+        "name_ch" : "火龙果",
+        "name_en" : "pitaya",
+        "spell_ep" : "[pɪˈtaɪə]",
+        "spell_ap" : "[pɪˈtaɪə]",
+        "spell_ch" : "huǒ lóng guǒ"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_木瓜.png",
+        "name_ch" : "木瓜",
+        "name_en" : "papaya",
+        "spell_ep" : "[pəˈpaɪə]",
+        "spell_ap" : "[pəˈpaɪə]",
+        "spell_ch" : "mù guā"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_石榴.png",
+        "name_ch" : "石榴",
+        "name_en" : "pomegranate",
+        "spell_ep" : "[ˈpɒmɪɡrænɪt]",
+        "spell_ap" : "[ˈpɑːmɪɡrænɪt]",
+        "spell_ch" : "shí liu"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_蓝莓.png",
+        "name_ch" : "蓝莓",
+        "name_en" : "blueberry",
+        "spell_ep" : "[ˈbluːbəri]",
+        "spell_ap" : "[ˈbluːberi]",
+        "spell_ch" : "lán méi"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_山竹.png",
+        "name_ch" : "山竹",
+        "name_en" : "mangosteen",
+        "spell_ep" : "[ˈmæŋɡəstiːn]",
+        "spell_ap" : "[ˈmæŋɡəstiːn]",
+        "spell_ch" : "shān zhú"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_枇杷.png",
+        "name_ch" : "枇杷",
+        "name_en" : "loquat",
+        "spell_ep" : "[ˈləʊkwɒt]",
+        "spell_ap" : "[ˈloʊkwɑːt]",
+        "spell_ch" : "pí pa"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_牛油果.png",
+        "name_ch" : "牛油果",
+        "name_en" : "avocado",
+        "spell_ep" : "[ˌævəˈkɑːdəʊ]",
+        "spell_ap" : "[ˌævəˈkɑːdoʊ]",
+        "spell_ch" : "niú yóu guǒ"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 2,
+    "groupTitle_en" : "vegetables",
+    "groupTitle" : "蔬菜",
+    "isPro" : 0,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_蔬菜.png",
+    "items" : [
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_西红柿.png",
+        "name_ch" : "西红柿",
+        "name_en" : "tomato",
+        "spell_ep" : "[təˈmɑːtəʊ]",
+        "spell_ap" : "[təˈmeɪtoʊ]",
+        "spell_ch" : "xī hóng shì"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_黄瓜.png",
+        "name_ch" : "黄瓜",
+        "name_en" : "cucumber",
+        "spell_ep" : "[ˈkjuːkʌmbə(r)]",
+        "spell_ap" : "[ˈkjuːkʌmbər]",
+        "spell_ch" : "huáng guā"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_茄子.png",
+        "name_ch" : "茄子",
+        "name_en" : "eggplant",
+        "spell_ep" : "[ˈeɡplɑːnt]",
+        "spell_ap" : "[ˈeɡplænt]",
+        "spell_ch" : "qié zi"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_胡萝卜.png",
+        "name_ch" : "胡萝卜",
+        "name_en" : "carrot",
+        "spell_ep" : "[ˈkærət]",
+        "spell_ap" : "[ˈkærət]",
+        "spell_ch" : "hú luó bo"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_萝卜.png",
+        "name_ch" : "萝卜",
+        "name_en" : "radish",
+        "spell_ep" : "[ˈrædɪʃ]",
+        "spell_ap" : "[ˈrædɪʃ]",
+        "spell_ch" : "luó bo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_土豆.png",
+        "name_ch" : "土豆",
+        "name_en" : "potato",
+        "spell_ep" : "[pəˈteɪtəʊ]",
+        "spell_ap" : "[pəˈteɪtoʊ]",
+        "spell_ch" : "tǔ dòu"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_洋葱.png",
+        "name_ch" : "洋葱",
+        "name_en" : "onion",
+        "spell_ep" : "[ˈʌnjən]",
+        "spell_ap" : "[ˈʌnjən]",
+        "spell_ch" : "yáng cōng"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_辣椒.png",
+        "name_ch" : "辣椒",
+        "name_en" : "chili",
+        "spell_ep" : "[ˈtʃɪli]",
+        "spell_ap" : "[ˈtʃɪlɪ]",
+        "spell_ch" : "là jiāo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_香菇.png",
+        "name_ch" : "香菇",
+        "name_en" : "mushroom",
+        "spell_ep" : "[ˈmʌʃrʊm; ˈmʌʃruːm]",
+        "spell_ap" : "[ˈmʌʃrʊm,ˈmʌʃruːm]",
+        "spell_ch" : "xiāng gū"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_南瓜.png",
+        "name_ch" : "南瓜",
+        "name_en" : "pumpkin",
+        "spell_ep" : "[ˈpʌmpkɪn]",
+        "spell_ap" : "[ˈpʌmpkɪn]",
+        "spell_ch" : "nán guā"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_豌豆.png",
+        "name_ch" : "豌豆",
+        "name_en" : "pea",
+        "spell_ep" : "[piː]",
+        "spell_ap" : "[piː]",
+        "spell_ch" : "wān dòu"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_秋葵.png",
+        "name_ch" : "秋葵",
+        "name_en" : "okra",
+        "spell_ep" : "[ˈəʊkrə; ˈɒkrə]",
+        "spell_ap" : "[ˈoʊkrə]",
+        "spell_ch" : "qiū kuí"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 3,
+    "groupTitle_en" : "foods",
+    "groupTitle" : "食物",
+    "isPro" : 0,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_食物.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_饺子.png",
+        "name_ch" : "饺子",
+        "name_en" : "dumpling",
+        "spell_ep" : "[ˈdʌmplɪŋ]",
+        "spell_ap" : "[ˈdʌmplɪŋ]",
+        "spell_ch" : "jiǎo zi"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_面条.png",
+        "name_ch" : "面条",
+        "name_en" : "noodles",
+        "spell_ep" : "[ˈnu:dlz]",
+        "spell_ap" : "[ˈnudlz]",
+        "spell_ch" : "miàn tiáo"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_汤.png",
+        "name_ch" : "汤",
+        "name_en" : "soup",
+        "spell_ep" : "[suːp]",
+        "spell_ap" : "[suːp]",
+        "spell_ch" : "tāng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_面包.png",
+        "name_ch" : "面包",
+        "name_en" : "bread",
+        "spell_ep" : "[bred]",
+        "spell_ap" : "[bred]",
+        "spell_ch" : "miàn bāo"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_汉堡包.png",
+        "name_ch" : "汉堡包",
+        "name_en" : "hamburger",
+        "spell_ep" : "[ˈhæmbɜ:gə]",
+        "spell_ap" : "[ˈhæmˌbɜrgər]",
+        "spell_ch" : "hàn bǎo bāo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_三明治.png",
+        "name_ch" : "三明治",
+        "name_en" : "sandwich",
+        "spell_ep" : "[ˈsænwɪtʃ; ˈsænwɪdʒ]",
+        "spell_ap" : "[ˈsænwɪtʃ,ˈsænwɪdʒ]",
+        "spell_ch" : "sān míng zhì"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_披萨.png",
+        "name_ch" : "披萨",
+        "name_en" : "pizza",
+        "spell_ep" : "[ˈpiːtsə]",
+        "spell_ap" : "[ˈpiːtsə]",
+        "spell_ch" : "pī sà"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_牛排.png",
+        "name_ch" : "牛排",
+        "name_en" : "steak",
+        "spell_ep" : "[steɪk]",
+        "spell_ap" : "[steɪk]",
+        "spell_ch" : "niú pái"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_蛋糕.png",
+        "name_ch" : "蛋糕",
+        "name_en" : "cake",
+        "spell_ep" : "[keɪk]",
+        "spell_ap" : "[keɪk]",
+        "spell_ch" : "dàn gāo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_热狗.png",
+        "name_ch" : "热狗",
+        "name_en" : "hot dog",
+        "spell_ep" : "[ˈhɒt dɒɡ]",
+        "spell_ap" : "[ˈhɑːt dɔːɡ]",
+        "spell_ch" : "rè gǒu"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_香肠.png",
+        "name_ch" : "香肠",
+        "name_en" : "sausage",
+        "spell_ep" : "[ˈsɒsɪdʒ]",
+        "spell_ap" : "[ˈsɔːsɪdʒ]",
+        "spell_ch" : "xiāng cháng"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_刺身.png",
+        "name_ch" : "刺身",
+        "name_en" : "sashimi",
+        "spell_ep" : "[sæˈʃiːmi]",
+        "spell_ap" : "[sɑːˈʃiːmi]",
+        "spell_ch" : "cì shēn"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_寿司.png",
+        "name_ch" : "寿司",
+        "name_en" : "sushi",
+        "spell_ep" : "[ˈsuːʃi]",
+        "spell_ap" : "[ˈsuːʃi]",
+        "spell_ch" : "shòu sī"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鸡肉.png",
+        "name_ch" : "鸡肉",
+        "name_en" : "chicken",
+        "spell_ep" : "[ˈtʃɪkɪn]",
+        "spell_ap" : "[ˈtʃɪkɪn]",
+        "spell_ch" : "jī ròu"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鸡蛋.png",
+        "name_ch" : "鸡蛋",
+        "name_en" : "egg",
+        "spell_ep" : "[eɡ]",
+        "spell_ap" : "[eɡ]",
+        "spell_ch" : "jī dàn"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "snacks",
+    "groupTitle" : "零食",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_零食.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_饼干.png",
+        "name_ch" : "饼干",
+        "name_en" : "cookie",
+        "spell_ep" : "[ˈkʊki]",
+        "spell_ap" : "[ˈkʊki]",
+        "spell_ch" : "bǐng gān"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_糖果.png",
+        "name_ch" : "糖果",
+        "name_en" : "candy",
+        "spell_ep" : "[ˈkændi]",
+        "spell_ap" : "[ˈkændɪ]",
+        "spell_ch" : "táng guǒ"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_冰激凌.png",
+        "name_ch" : "冰激凌",
+        "name_en" : "ice cream",
+        "spell_ep" : "[aɪs kri:m]",
+        "spell_ap" : "[aɪs krim]",
+        "spell_ch" : "bīng jī líng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_薯片.png",
+        "name_ch" : "薯片",
+        "name_en" : "chips",
+        "spell_ep" : "[fraɪz]",
+        "spell_ap" : "[fraɪz]",
+        "spell_ch" : "shǔ piàn"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_薯条.png",
+        "name_ch" : "薯条",
+        "name_en" : "fries",
+        "spell_ep" : "[tʃɪps]",
+        "spell_ap" : "[tʃɪps]",
+        "spell_ch" : "shǔ tiáo"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巧克力.png",
+        "name_ch" : "巧克力",
+        "name_en" : "chocolate",
+        "spell_ep" : "[ˈtʃɒklət]",
+        "spell_ap" : "[ˈtʃɔːklət]",
+        "spell_ch" : "qiǎo kè lì"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_爆米花.png",
+        "name_ch" : "爆米花",
+        "name_en" : "popcorn",
+        "spell_ep" : "[ˈpɒpkɔːn]",
+        "spell_ap" : "[ˈpɑːpkɔːrn]",
+        "spell_ch" : "bào mǐ huā"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_甜甜圈.png",
+        "name_ch" : "甜甜圈",
+        "name_en" : "doughnut",
+        "spell_ep" : "[ˈdəʊnʌt]",
+        "spell_ap" : "[ˈdoʊnʌt]",
+        "spell_ch" : "tián tián quān"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_芝士.png",
+        "name_ch" : "芝士",
+        "name_en" : "cheese",
+        "spell_ep" : "[tʃiːz]",
+        "spell_ap" : "[tʃiːz]",
+        "spell_ch" : "zhī shì"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_布丁.png",
+        "name_ch" : "布丁",
+        "name_en" : "pudding",
+        "spell_ep" : "[ˈpʊdɪŋ]",
+        "spell_ap" : "[ˈpʊdɪŋ]",
+        "spell_ch" : "bù dīng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_开心果.png",
+        "name_ch" : "开心果",
+        "name_en" : "pistachio",
+        "spell_ep" : "[pɪˈstæʃiəʊ]",
+        "spell_ap" : "[pɪˈstæʃioʊ]",
+        "spell_ch" : "kāi xīn guǒ"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_果汁.png",
+        "name_ch" : "果汁",
+        "name_en" : "juice",
+        "spell_ep" : "[dʒuːs]",
+        "spell_ap" : "[dʒuːs]",
+        "spell_ch" : "guǒ zhī"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "animals",
+    "groupTitle" : "动物",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_动物.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_狗.png",
+        "name_ch" : "狗",
+        "name_en" : "dog",
+        "spell_ep" : "[dɒɡ]",
+        "spell_ap" : "[dɔːɡ]",
+        "spell_ch" : "gǒu"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_猫.png",
+        "name_ch" : "猫",
+        "name_en" : "cat",
+        "spell_ep" : "[kæt]",
+        "spell_ap" : "[kæt]",
+        "spell_ch" : "māo"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鸟.png",
+        "name_ch" : "鸟",
+        "name_en" : "bird",
+        "spell_ep" : "[bɜːd]",
+        "spell_ap" : "[bɜːrd]",
+        "spell_ch" : "niǎo"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_公鸡.png",
+        "name_ch" : "公鸡",
+        "name_en" : "rooster",
+        "spell_ep" : "[ˈruːstə(r)]",
+        "spell_ap" : "[ˈruːstər]",
+        "spell_ch" : "gōng jī"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_母鸡.png",
+        "name_ch" : "母鸡",
+        "name_en" : "hen",
+        "spell_ep" : "[hen]",
+        "spell_ap" : "[hen]",
+        "spell_ch" : "mǔ jī"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鸭子.png",
+        "name_ch" : "鸭子",
+        "name_en" : "duck",
+        "spell_ep" : "[dʌk]",
+        "spell_ap" : "[dʌk]",
+        "spell_ch" : "yā zi"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_兔子.png",
+        "name_ch" : "兔子",
+        "name_en" : "rabbit",
+        "spell_ep" : "[ˈræbɪt]",
+        "spell_ap" : "[ˈræbɪt]",
+        "spell_ch" : "tù zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_老鼠.png",
+        "name_ch" : "老鼠",
+        "name_en" : "mouse",
+        "spell_ep" : "[maʊs]",
+        "spell_ap" : "[maʊs]",
+        "spell_ch" : "lǎo shǔ"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_熊猫.png",
+        "name_ch" : "熊猫",
+        "name_en" : "panda",
+        "spell_ep" : "[ˈpændə]",
+        "spell_ap" : "[ˈpændə]",
+        "spell_ch" : "xióng māo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_猴子.png",
+        "name_ch" : "猴子",
+        "name_en" : "monkey",
+        "spell_ep" : "[ˈmʌŋki]",
+        "spell_ap" : "[ˈmʌŋki]",
+        "spell_ch" : "hóu zi"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_大象.png",
+        "name_ch" : "大象",
+        "name_en" : "elephant",
+        "spell_ep" : "[ˈelɪfənt]",
+        "spell_ap" : "[ˈɛləfənt]",
+        "spell_ch" : "dà xiàng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_长颈鹿.png",
+        "name_ch" : "长颈鹿",
+        "name_en" : "giraffe",
+        "spell_ep" : "[dʒɪˈrɑ:f]",
+        "spell_ap" : "[dʒəˈræf]",
+        "spell_ch" : "cháng jǐng lù"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_猪.png",
+        "name_ch" : "猪",
+        "name_en" : "pig",
+        "spell_ep" : "[pɪɡ]",
+        "spell_ap" : "[pɪɡ]",
+        "spell_ch" : "zhū"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_奶牛.png",
+        "name_ch" : "奶牛",
+        "name_en" : "cow",
+        "spell_ep" : "[kaʊ]",
+        "spell_ap" : "[kaʊ]",
+        "spell_ch" : "nǎi niú"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_绵羊.png",
+        "name_ch" : "绵羊",
+        "name_en" : "sheep",
+        "spell_ep" : "[ʃiːp]",
+        "spell_ap" : "[ʃiːp]",
+        "spell_ch" : "mián yáng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马.png",
+        "name_ch" : "马",
+        "name_en" : "horse",
+        "spell_ep" : "[hɔːs]",
+        "spell_ap" : "[hɔːrs]",
+        "spell_ch" : "mǎ"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_斑马.png",
+        "name_ch" : "斑马",
+        "name_en" : "zebra",
+        "spell_ep" : "[ˈzebrə; ˈziːbrə]",
+        "spell_ap" : "[ˈzibrə]",
+        "spell_ch" : "bān mǎ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_老虎.png",
+        "name_ch" : "老虎",
+        "name_en" : "tiger",
+        "spell_ep" : "[ˈtaɪɡə(r)]",
+        "spell_ap" : "[ˈtaɪɡər]",
+        "spell_ch" : "lǎo hǔ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_狮子.png",
+        "name_ch" : "狮子",
+        "name_en" : "lion",
+        "spell_ep" : "[ˈlaɪən]",
+        "spell_ap" : "[ˈlaɪən]",
+        "spell_ch" : "shī zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_猎豹.png",
+        "name_ch" : "猎豹",
+        "name_en" : "cheetah",
+        "spell_ep" : "[ˈtʃiːtə]",
+        "spell_ap" : "[ˈtʃiːtə]",
+        "spell_ch" : "liè bào"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "marine animal",
+    "groupTitle" : "海洋动物",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_海洋.png",
+    "items" : [
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鱼.png",
+        "name_ch" : "鱼",
+        "name_en" : "fish",
+        "spell_ep" : "[fɪʃ]",
+        "spell_ap" : "[fɪʃ]",
+        "spell_ch" : "yú"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_虾.png",
+        "name_ch" : "虾",
+        "name_en" : "shrimp",
+        "spell_ep" : "[ʃrɪmp]",
+        "spell_ap" : "[ʃrɪmp]",
+        "spell_ch" : "xiā"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_螃蟹.png",
+        "name_ch" : "螃蟹",
+        "name_en" : "crab",
+        "spell_ep" : "[kræb]",
+        "spell_ap" : "[kræb]",
+        "spell_ch" : "páng xiè"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_章鱼.png",
+        "name_ch" : "章鱼",
+        "name_en" : "octopus",
+        "spell_ep" : "[ˈɒktəpəs]",
+        "spell_ap" : "[ˈɑːktəpʊs]",
+        "spell_ch" : "zhāng yú"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乌龟.png",
+        "name_ch" : "海龟",
+        "name_en" : "sea turtle",
+        "spell_ep" : "[ˈsiː tɜːtl]",
+        "spell_ap" : "[ˈsiː tɜːrtl]",
+        "spell_ch" : "hǎi guī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_企鹅.png",
+        "name_ch" : "企鹅",
+        "name_en" : "penguin",
+        "spell_ep" : "[ˈpeŋɡwɪn]",
+        "spell_ap" : "[ˈpeŋɡwɪn]",
+        "spell_ch" : "qǐ é"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鲨鱼.png",
+        "name_ch" : "鲨鱼",
+        "name_en" : "shark",
+        "spell_ep" : "[ʃɑːk]",
+        "spell_ap" : "[ʃɑːrk]",
+        "spell_ch" : "shā yú"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鲸鱼.png",
+        "name_ch" : "鲸",
+        "name_en" : "whale",
+        "spell_ep" : "[weɪl]",
+        "spell_ap" : "[weɪl]",
+        "spell_ch" : "jīng"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_海豚.png",
+        "name_ch" : "海豚",
+        "name_en" : "dolphin",
+        "spell_ep" : "[ˈdɒlfɪn]",
+        "spell_ap" : "[ˈdɑːlfɪn]",
+        "spell_ch" : "hǎi tún"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_海马.png",
+        "name_ch" : "海马",
+        "name_en" : "sea horse",
+        "spell_ep" : "[siː hɔːs]",
+        "spell_ap" : "[siː hɔːrs]",
+        "spell_ch" : "hǎi mǎ"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_海星.png",
+        "name_ch" : "海星",
+        "name_en" : "starfish",
+        "spell_ep" : "[ˈstɑːfɪʃ]",
+        "spell_ap" : "[ˈstɑːrfɪʃ]",
+        "spell_ch" : "hǎi xīng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_珊瑚.png",
+        "name_ch" : "珊瑚",
+        "name_en" : "coral",
+        "spell_ep" : "[ˈkɒrəl]",
+        "spell_ap" : "[ˈkɔːrəl]",
+        "spell_ch" : "shān hú"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_水母.png",
+        "name_ch" : "水母",
+        "name_en" : "jellyfish",
+        "spell_ep" : "[ˈdʒelifɪʃ]",
+        "spell_ap" : "[ˈdʒelifɪʃ]",
+        "spell_ch" : "shuǐ mǔ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_水母.png",
+        "name_ch" : "水母",
+        "name_en" : "jellyfish",
+        "spell_ep" : "[ˈdʒelifɪʃ]",
+        "spell_ap" : "[ˈdʒelifɪʃ]",
+        "spell_ch" : "shuǐ mǔ"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "zodiac",
+    "groupTitle" : "生肖",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖鼠.png",
+        "name_ch" : "鼠",
+        "name_en" : "mouse",
+        "spell_ep" : "[maʊs]",
+        "spell_ap" : "[maʊs]",
+        "spell_ch" : "shǔ"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖牛.png",
+        "name_ch" : "牛",
+        "name_en" : "cow",
+        "spell_ep" : "[kaʊ]",
+        "spell_ap" : "[kaʊ]",
+        "spell_ch" : "niú"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖虎.png",
+        "name_ch" : "虎",
+        "name_en" : "tiger",
+        "spell_ep" : "[ˈtaɪɡə(r)]",
+        "spell_ap" : "[ˈtaɪɡər]",
+        "spell_ch" : "hǔ"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖兔.png",
+        "name_ch" : "兔",
+        "name_en" : "rabbit",
+        "spell_ep" : "[ˈræbɪt]",
+        "spell_ap" : "[ˈræbɪt]",
+        "spell_ch" : "tù"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖龙.png",
+        "name_ch" : "龙",
+        "name_en" : "dragon",
+        "spell_ep" : "[ˈdræɡən]",
+        "spell_ap" : "[ˈdræɡən]",
+        "spell_ch" : "lóng"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖蛇.png",
+        "name_ch" : "蛇",
+        "name_en" : "snake",
+        "spell_ep" : "[sneɪk]",
+        "spell_ap" : "[sneɪk]",
+        "spell_ch" : "shé"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖马.png",
+        "name_ch" : "马",
+        "name_en" : "horse",
+        "spell_ep" : "[hɔːs]",
+        "spell_ap" : "[hɔːrs]",
+        "spell_ch" : "mǎ"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖羊.png",
+        "name_ch" : "羊",
+        "name_en" : "sheep",
+        "spell_ep" : "[ʃiːp]",
+        "spell_ap" : "[ʃiːp]",
+        "spell_ch" : "yáng"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖猴.png",
+        "name_ch" : "猴",
+        "name_en" : "monkey",
+        "spell_ep" : "[ˈmʌŋki]",
+        "spell_ap" : "[ˈmʌŋki]",
+        "spell_ch" : "hóu"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖鸡.png",
+        "name_ch" : "鸡",
+        "name_en" : "rooster",
+        "spell_ep" : "[ˈruːstə(r)]",
+        "spell_ap" : "[ˈruːstər]",
+        "spell_ch" : "jī"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖狗.png",
+        "name_ch" : "狗",
+        "name_en" : "dog",
+        "spell_ep" : "[dɒɡ]",
+        "spell_ap" : "[dɔːɡ]",
+        "spell_ch" : "gǒu"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_生肖猪.png",
+        "name_ch" : "猪",
+        "name_en" : "pig",
+        "spell_ep" : "[pɪɡ]",
+        "spell_ap" : "[pɪɡ]",
+        "spell_ch" : "zhū"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "vehicles",
+    "groupTitle" : "交通工具",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_交通工具.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_自行车.png",
+        "name_ch" : "自行车",
+        "name_en" : "bike",
+        "spell_ep" : "[baɪk]",
+        "spell_ap" : "[baɪk]",
+        "spell_ch" : "zì xíng chē"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_摩托车.png",
+        "name_ch" : "摩托车",
+        "name_en" : "motorbike",
+        "spell_ep" : "[ˈməʊtəbaɪk]",
+        "spell_ap" : "[ˈmoʊtərbaɪk]",
+        "spell_ch" : "mó tuō chē"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_出租车.png",
+        "name_ch" : "出租车",
+        "name_en" : "taxi",
+        "spell_ep" : "[ˈtæksi]",
+        "spell_ap" : "[ˈtæksi]",
+        "spell_ch" : "chū zū chē"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_警车.png",
+        "name_ch" : "警车",
+        "name_en" : "police car",
+        "spell_ep" : "[pəˈliːs kɑː(r)]",
+        "spell_ap" : "[pəˈliːs kɑːr]",
+        "spell_ch" : "jǐng chē"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_公交车.png",
+        "name_ch" : "公交车",
+        "name_en" : "bus",
+        "spell_ep" : "[bʌs]",
+        "spell_ap" : "[bʌs]",
+        "spell_ch" : "gōng jiāo chē"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_救护车.png",
+        "name_ch" : "救护车",
+        "name_en" : "ambulance",
+        "spell_ep" : "[ˈæmbjələns]",
+        "spell_ap" : "[ˈæmbjələns]",
+        "spell_ch" : "jiù hù chē"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_吊车.png",
+        "name_ch" : "吊车",
+        "name_en" : "crane",
+        "spell_ep" : "[kreɪn]",
+        "spell_ap" : "[kreɪn]",
+        "spell_ch" : "diào chē"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_动车.png",
+        "name_ch" : "动车",
+        "name_en" : "high-speed train",
+        "spell_ep" : "[haɪ spiːd treɪn]",
+        "spell_ap" : "[haɪ spiːd treɪn]",
+        "spell_ch" : "dòng chē"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_轮船.png",
+        "name_ch" : "轮船",
+        "name_en" : "steamship",
+        "spell_ep" : "[ˈstiːmʃɪp]",
+        "spell_ap" : "[ˈstiːmʃɪp]",
+        "spell_ch" : "lún chuán"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_飞机.png",
+        "name_ch" : "飞机",
+        "name_en" : "plane",
+        "spell_ep" : "[pleɪn]",
+        "spell_ap" : "[pleɪn]",
+        "spell_ch" : "fēi jī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_直升机.png",
+        "name_ch" : "直升机",
+        "name_en" : "copter",
+        "spell_ep" : "[ˈkɒptə(r)]",
+        "spell_ap" : "[ˈkɑːptər]",
+        "spell_ch" : "zhí shēng jī"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_热气球.png",
+        "name_ch" : "热气球",
+        "name_en" : "hot air balloon",
+        "spell_ep" : "[ˌhɒt ˈeə bəluːn]",
+        "spell_ap" : "[ˌhɑːt ˈer bəluːn]",
+        "spell_ch" : "rè qì qiú"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 2,
+    "groupTitle_en" : "stationery",
+    "groupTitle" : "文具",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_文具.png",
+    "items" : [
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_铅笔.png",
+        "name_ch" : "铅笔",
+        "name_en" : "pencil",
+        "spell_ep" : "[ˈpensl]",
+        "spell_ap" : "[ˈpensl]",
+        "spell_ch" : "qiān bǐ"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_钢笔.png",
+        "name_ch" : "钢笔",
+        "name_en" : "pen",
+        "spell_ep" : "[pen]",
+        "spell_ap" : "[pen]",
+        "spell_ch" : "gāng bǐ"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_蜡笔.png",
+        "name_ch" : "蜡笔",
+        "name_en" : "crayon",
+        "spell_ep" : "[ˈkreɪən]",
+        "spell_ap" : "[ˈkreɪən]",
+        "spell_ch" : "là bǐ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_彩笔.png",
+        "name_ch" : "彩色铅笔",
+        "name_en" : "colored pencil",
+        "spell_ep" : "[ˈkʌləd ˈpensl]",
+        "spell_ap" : "[ˈkʌlərd ˈpensl]",
+        "spell_ch" : "cǎi sè qiān bǐ"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_墨水.png",
+        "name_ch" : "墨水",
+        "name_en" : "ink",
+        "spell_ep" : "[ɪŋk]",
+        "spell_ap" : "[ɪŋk]",
+        "spell_ch" : "mò shuǐ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_橡皮.png",
+        "name_ch" : "橡皮",
+        "name_en" : "eraser",
+        "spell_ep" : "[ɪˈreɪzə(r)]",
+        "spell_ap" : "[ɪˈreɪsər]",
+        "spell_ch" : "xiàng pí"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_笔记本.png",
+        "name_ch" : "笔记本",
+        "name_en" : "notebook",
+        "spell_ep" : "[ˈnəʊtbʊk]",
+        "spell_ap" : "[ˈnoʊtbʊk]",
+        "spell_ch" : "bǐ jì běn"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_尺子.png",
+        "name_ch" : "尺子",
+        "name_en" : "ruler",
+        "spell_ep" : "[ˈruːlə(r)]",
+        "spell_ap" : "[ˈruːlər]",
+        "spell_ch" : "chǐ zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圆规.png",
+        "name_ch" : "圆规",
+        "name_en" : "compasses",
+        "spell_ep" : "[ˈkʌmpəsɪz]",
+        "spell_ap" : "[ˈkʌmpəsɪz]",
+        "spell_ch" : "yuán guī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_剪刀.png",
+        "name_ch" : "剪刀",
+        "name_en" : "scissor",
+        "spell_ep" : "[ˈsɪzə(r)]",
+        "spell_ap" : "['sɪzɚ]",
+        "spell_ch" : "jiǎn dāo"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_订书机.png",
+        "name_ch" : "订书机",
+        "name_en" : "stapler",
+        "spell_ep" : "[ˈsteɪplə(r)]",
+        "spell_ap" : "[ˈsteɪplər]",
+        "spell_ch" : "dìng shū jī"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_计算器.png",
+        "name_ch" : "计算器",
+        "name_en" : "calculator",
+        "spell_ep" : "[ˈkælkjuleɪtə(r)]",
+        "spell_ap" : "[ˈkælkjuleɪtər]",
+        "spell_ch" : "jì suàn qì"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_胶水.png",
+        "name_ch" : "胶水",
+        "name_en" : "glue",
+        "spell_ep" : "[ɡluː]",
+        "spell_ap" : "[ɡluː]",
+        "spell_ch" : "jiāo shuǐ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_图钉.png",
+        "name_ch" : "图钉",
+        "name_en" : "thumbtack",
+        "spell_ep" : "[ˈθʌmtæk]",
+        "spell_ap" : "[ˈθʌmtæk]",
+        "spell_ch" : "tú dīng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_曲别针.png",
+        "name_ch" : "曲别针",
+        "name_en" : "paper clip",
+        "spell_ep" : "[ˈpeɪpə klɪp]",
+        "spell_ap" : "[ˈpeɪpər klɪp]",
+        "spell_ch" : "qū bié zhēn"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_台灯.png",
+        "name_ch" : "台灯",
+        "name_en" : "table lamp",
+        "spell_ep" : "[ˈteɪbl læmp]",
+        "spell_ap" : "[ˈteɪbl læmp]",
+        "spell_ch" : "tái dēng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_地球仪.png",
+        "name_ch" : "地球仪",
+        "name_en" : "globe",
+        "spell_ep" : "[ɡləʊb]",
+        "spell_ap" : "[ɡloʊb]",
+        "spell_ch" : "dì qiú yí"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "commodities",
+    "groupTitle" : "日用品",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_日用品.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_杯子.png",
+        "name_ch" : "杯子",
+        "name_en" : "cup",
+        "spell_ep" : "[kʌp]",
+        "spell_ap" : "[kʌp]",
+        "spell_ch" : "bēi zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_水壶.png",
+        "name_ch" : "水壶",
+        "name_en" : "kettle",
+        "spell_ep" : "[ˈketl]",
+        "spell_ap" : "[ˈketl]",
+        "spell_ch" : "shuǐ hú"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_钥匙.png",
+        "name_ch" : "钥匙",
+        "name_en" : "key",
+        "spell_ep" : "[kiː]",
+        "spell_ap" : "[kiː]",
+        "spell_ch" : "yào shi"
+      },
+      {
+        "back_color_type" : "5",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_肥皂.png",
+        "name_ch" : "肥皂",
+        "name_en" : "soap",
+        "spell_ep" : "[səʊp]",
+        "spell_ap" : "[soʊp]",
+        "spell_ch" : "féi zào"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_牙刷.png",
+        "name_ch" : "牙刷",
+        "name_en" : "toothbrush",
+        "spell_ep" : "[ˈtuːθbrʌʃ]",
+        "spell_ap" : "[ˈtuːθbrʌʃ]",
+        "spell_ch" : "yá shuā"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_牙膏.png",
+        "name_ch" : "牙膏",
+        "name_en" : "toothpaste",
+        "spell_ep" : "[ˈtuːθpeɪst]",
+        "spell_ap" : "[ˈtuːθpeɪst]",
+        "spell_ch" : "yá gāo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_毛巾.png",
+        "name_ch" : "毛巾",
+        "name_en" : "towel",
+        "spell_ep" : "[ˈtaʊəl]",
+        "spell_ap" : "[ˈtaʊəl]",
+        "spell_ch" : "máo jīn"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_梳子.png",
+        "name_ch" : "梳子",
+        "name_en" : "comb",
+        "spell_ep" : "[kəʊm]",
+        "spell_ap" : "[koʊm]",
+        "spell_ch" : "shū zi"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_吹风机.png",
+        "name_ch" : "吹风机",
+        "name_en" : "hair dryer",
+        "spell_ep" : "[heə(r) ˈdraɪə(r)]",
+        "spell_ap" : "[her ˈdraɪər]",
+        "spell_ch" : "chuī fēng jī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_剃须刀.png",
+        "name_ch" : "剃须刀",
+        "name_en" : "shaver",
+        "spell_ep" : "[ˈʃeɪvə(r)]",
+        "spell_ap" : "[ˈʃeɪvər]",
+        "spell_ch" : "tì xū dāo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_筷子.png",
+        "name_ch" : "筷子",
+        "name_en" : "chopsticks",
+        "spell_ep" : "['tʃɒpstɪks]",
+        "spell_ap" : "['tʃɑp,stɪks]",
+        "spell_ch" : "kuài zi"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_碗.png",
+        "name_ch" : "碗",
+        "name_en" : "bowl",
+        "spell_ep" : "[bəʊl]",
+        "spell_ap" : "[boʊl]",
+        "spell_ch" : "wǎn"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_盘子.png",
+        "name_ch" : "盘子",
+        "name_en" : "plate",
+        "spell_ep" : "[pleɪt]",
+        "spell_ap" : "[pleɪt]",
+        "spell_ch" : "pán zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_勺子.png",
+        "name_ch" : "勺子",
+        "name_en" : "spoon",
+        "spell_ep" : "[spuːn]",
+        "spell_ap" : "[spuːn]",
+        "spell_ch" : "sháo zi"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_餐刀.png",
+        "name_ch" : "餐刀",
+        "name_en" : "knife",
+        "spell_ep" : "[naɪf]",
+        "spell_ap" : "[naɪf]",
+        "spell_ch" : "cān dāo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_叉子.png",
+        "name_ch" : "叉子",
+        "name_en" : "fork",
+        "spell_ep" : "[fɔːk]",
+        "spell_ap" : "[fɔːrk]",
+        "spell_ch" : "chā zi"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_平底锅.png",
+        "name_ch" : "平底锅",
+        "name_en" : "pan",
+        "spell_ep" : "[pæn]",
+        "spell_ap" : "[pæn]",
+        "spell_ch" : "píng dǐ guō"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_扫帚.png",
+        "name_ch" : "扫帚",
+        "name_en" : "besom",
+        "spell_ep" : "[ˈbiːzəm]",
+        "spell_ap" : "[ˈbiːzəm]",
+        "spell_ch" : "sào zhou"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "appliances",
+    "groupTitle" : "电器",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_电子.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_电视.png",
+        "name_ch" : "电视",
+        "name_en" : "television",
+        "spell_ep" : "[ˈtelɪvɪʒn]",
+        "spell_ap" : "[tɛləˌvɪʒən]",
+        "spell_ch" : "diàn shì"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_冰箱.png",
+        "name_ch" : "冰箱",
+        "name_en" : "refrigerator",
+        "spell_ep" : "[rɪˈfrɪdʒəreɪtə(r)]",
+        "spell_ap" : "[rɪˈfrɪdʒəreɪtər]",
+        "spell_ch" : "bīng xiāng"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_洗衣机.png",
+        "name_ch" : "洗衣机",
+        "name_en" : "washing machine",
+        "spell_ep" : "[ˈwɒʃɪŋ məʃiːn]",
+        "spell_ap" : "[ˈwɑːʃɪŋ məʃiːn]",
+        "spell_ch" : "xǐ yī jī"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_手机.png",
+        "name_ch" : "手机",
+        "name_en" : "cellphone",
+        "spell_ep" : "['sel,fəʊn]",
+        "spell_ap" : "['sɛl'fon]",
+        "spell_ch" : "shǒu jī"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_耳机.png",
+        "name_ch" : "耳机",
+        "name_en" : "headset",
+        "spell_ep" : "[ˈhedset]",
+        "spell_ap" : "[ˈhedset]",
+        "spell_ch" : "ěr jī"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_照相机.png",
+        "name_ch" : "照相机",
+        "name_en" : "camera",
+        "spell_ep" : "[ˈkæmrə]",
+        "spell_ap" : "[ˈkæmrə]",
+        "spell_ch" : "zhào xiàng jī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_笔记本电脑.png",
+        "name_ch" : "笔记本电脑",
+        "name_en" : "laptop",
+        "spell_ep" : "[ˈlæptɒp]",
+        "spell_ap" : "[ˈlæptɑːp]",
+        "spell_ch" : "bǐ jì běn diàn nǎo"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鼠标.png",
+        "name_ch" : "鼠标",
+        "name_en" : "mouse",
+        "spell_ep" : "[maʊs]",
+        "spell_ap" : "[maʊs]",
+        "spell_ch" : "shǔ biāo"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_手柄.png",
+        "name_ch" : "手柄",
+        "name_en" : "Joypad",
+        "spell_ep" : "['dʒɔɪˌpæd]",
+        "spell_ap" : "['dʒɔɪˌpæd]",
+        "spell_ch" : "shǒu bǐng"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 3,
+    "groupTitle_en" : "Clothing",
+    "groupTitle" : "服饰",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_服饰.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_外套.png",
+        "name_ch" : "外套",
+        "name_en" : "coat",
+        "spell_ep" : "[koʊt]",
+        "spell_ap" : "[koʊt]",
+        "spell_ch" : "wài tào"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_连衣裙.png",
+        "name_ch" : "连衣裙",
+        "name_en" : "dress",
+        "spell_ep" : "[dres]",
+        "spell_ap" : "[dres]",
+        "spell_ch" : "lián yī qún"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_裤子.png",
+        "name_ch" : "裤子",
+        "name_en" : "trousers",
+        "spell_ep" : "[ˈtraʊzəz]",
+        "spell_ap" : "[ˈtraʊzərz]",
+        "spell_ch" : "kù zi"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_短裤.png",
+        "name_ch" : "短裤",
+        "name_en" : "shorts",
+        "spell_ep" : "[ʃɔːts]",
+        "spell_ap" : "[ʃɔːrts]",
+        "spell_ch" : "duǎn kù"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_手套.png",
+        "name_ch" : "手套",
+        "name_en" : "mitten",
+        "spell_ep" : "[ˈmɪtn]",
+        "spell_ap" : "[ˈmɪtn]",
+        "spell_ch" : "shǒu tào"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_袜子.png",
+        "name_ch" : "袜子",
+        "name_en" : "socks",
+        "spell_ep" : "[sɒks]",
+        "spell_ap" : "[sɑks]",
+        "spell_ch" : "wà zi"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_拖鞋.png",
+        "name_ch" : "拖鞋",
+        "name_en" : "slipper",
+        "spell_ep" : "[ˈslɪpə(r)]",
+        "spell_ap" : "[ˈslɪpər]",
+        "spell_ch" : "tuō xié"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_眼镜.png",
+        "name_ch" : "眼镜",
+        "name_en" : "glasses",
+        "spell_ep" : "['glɑːsɪz]",
+        "spell_ap" : "['glæsɪz]",
+        "spell_ch" : "yǎn jìng"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_帽子.png",
+        "name_ch" : "帽子",
+        "name_en" : "hat",
+        "spell_ep" : "[hæt]",
+        "spell_ap" : "[hæt]",
+        "spell_ch" : "mào zi"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_领带.png",
+        "name_ch" : "领带",
+        "name_en" : "tie",
+        "spell_ep" : "[taɪ]",
+        "spell_ap" : "[taɪ]",
+        "spell_ch" : "lǐng dài"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_围巾.png",
+        "name_ch" : "围巾",
+        "name_en" : "scarf",
+        "spell_ep" : "[skɑːf]",
+        "spell_ap" : "[skɑːrf]",
+        "spell_ch" : "wéi jīn"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_手表.png",
+        "name_ch" : "手表",
+        "name_en" : "watch",
+        "spell_ep" : "[wɒtʃ]",
+        "spell_ap" : "[wɑːtʃ]",
+        "spell_ch" : "shǒu biǎo"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_耳环.png",
+        "name_ch" : "耳环",
+        "name_en" : "earrings",
+        "spell_ep" : "['ɪr,rɪŋ]",
+        "spell_ap" : "['ɪr,rɪŋ]",
+        "spell_ch" : "ěr huán"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_戒指.png",
+        "name_ch" : "戒指",
+        "name_en" : "ring",
+        "spell_ep" : "[rɪŋ]",
+        "spell_ap" : "[rɪŋ]",
+        "spell_ch" : "jiè zhi"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 3,
+    "groupTitle_en" : "equipments",
+    "groupTitle" : "运动",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_运动器材.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_足球.png",
+        "name_ch" : "足球",
+        "name_en" : "football",
+        "spell_ep" : "[ˈfʊtbɔːl]",
+        "spell_ap" : "[ˈfʊtbɔːl]",
+        "spell_ch" : "zú qiú"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_篮球.png",
+        "name_ch" : "篮球",
+        "name_en" : "basketball",
+        "spell_ep" : "[ˈbɑːskɪtbɔːl]",
+        "spell_ap" : "[ˈbæskɪtbɔːl]",
+        "spell_ch" : "lán qiú"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_排球.png",
+        "name_ch" : "排球",
+        "name_en" : "volleyball",
+        "spell_ep" : "[ˈvɒlibɔːl]",
+        "spell_ap" : "[ˈvɑːlibɔːl]",
+        "spell_ch" : "pái qiú"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乒乓球.png",
+        "name_ch" : "乒乓球",
+        "name_en" : "table tennis",
+        "spell_ep" : "[ˈteɪbl tenɪs]",
+        "spell_ap" : "[ˈteɪbl tenɪs]",
+        "spell_ch" : "pīng pāng qiú"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_羽毛球.png",
+        "name_ch" : "羽毛球",
+        "name_en" : "badminton",
+        "spell_ep" : "[ˈbædmɪntən]",
+        "spell_ap" : "[ˈbædmɪntən]",
+        "spell_ch" : "yǔ máo qiú"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_网球.png",
+        "name_ch" : "网球",
+        "name_en" : "tennis",
+        "spell_ep" : "[ˈtenɪs]",
+        "spell_ap" : "[ˈtenɪs]",
+        "spell_ch" : "wǎng qiú"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_游泳圈.png",
+        "name_ch" : "游泳圈",
+        "name_en" : "swim ring",
+        "spell_ep" : "[swɪm rɪŋ]",
+        "spell_ap" : "[swɪm rɪŋ]",
+        "spell_ch" : "yóu yǒng quān"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_跳绳.png",
+        "name_ch" : "跳绳",
+        "name_en" : "rope skipping",
+        "spell_ep" : "[rəup ˈskipiŋ]",
+        "spell_ap" : "[rəup ˈskipiŋ]",
+        "spell_ch" : "tiào shéng"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_高尔夫球.png",
+        "name_ch" : "高尔夫球",
+        "name_en" : "golf",
+        "spell_ep" : "[ɡɒlf]",
+        "spell_ap" : "[ɡɑːlf]",
+        "spell_ch" : "gāo ěr fū qiú"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_棒球.png",
+        "name_ch" : "棒球",
+        "name_en" : "baseball",
+        "spell_ep" : "[ˈbeɪsbɔːl]",
+        "spell_ap" : "[ˈbeɪsbɔːl]",
+        "spell_ch" : "bàng qiú"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_拳套.png",
+        "name_ch" : "拳击",
+        "name_en" : "boxing",
+        "spell_ep" : "[ˈbɒksɪŋ]",
+        "spell_ap" : "[ˈbɑːksɪŋ]",
+        "spell_ch" : "quán jī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_橄榄球.png",
+        "name_ch" : "橄榄球",
+        "name_en" : "rugby",
+        "spell_ep" : "[ˈrʌɡbi]",
+        "spell_ap" : "[ˈrʌɡbi]",
+        "spell_ch" : "gǎn lǎn qiú"
+      },
+      {
+        "back_color_type" : "1",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_保龄球.png",
+        "name_ch" : "保龄球",
+        "name_en" : "bowling",
+        "spell_ep" : "[ˈbəʊlɪŋ]",
+        "spell_ap" : "[ˈboʊlɪŋ]",
+        "spell_ch" : "bǎo líng qiú"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_哑铃.png",
+        "name_ch" : "哑铃",
+        "name_en" : "dumbbell",
+        "spell_ep" : "['dʌmbel]",
+        "spell_ap" : "['dʌm,bɛl]",
+        "spell_ch" : "yǎ líng"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "shapes",
+    "groupTitle" : "形状",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_形状.png",
+    "items" : [
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_正方形.png",
+        "name_ch" : "正方形",
+        "name_en" : "square",
+        "spell_ep" : "[skweə(r)]",
+        "spell_ap" : "[skwer]",
+        "spell_ch" : "zhèng fāng xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_长方形.png",
+        "name_ch" : "长方形",
+        "name_en" : "rectangle",
+        "spell_ep" : "[ˈrektæŋɡl]",
+        "spell_ap" : "[ˈrektæŋɡl]",
+        "spell_ch" : "cháng fāng xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_三角形.png",
+        "name_ch" : "三角形",
+        "name_en" : "triangle",
+        "spell_ep" : "[ˈtraɪæŋɡl]",
+        "spell_ap" : "[ˈtraɪæŋɡl]",
+        "spell_ch" : "sān jiǎo xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圆形.png",
+        "name_ch" : "圆形",
+        "name_en" : "circle",
+        "spell_ep" : "[ˈsɜːkl]",
+        "spell_ap" : "[ˈsɜːrkl]",
+        "spell_ch" : "yuán xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_椭圆形.png",
+        "name_ch" : "椭圆形",
+        "name_en" : "oval",
+        "spell_ep" : "[ˈəʊvl]",
+        "spell_ap" : "[ˈoʊvl]",
+        "spell_ch" : "tuǒ yuán xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_菱形.png",
+        "name_ch" : "菱形",
+        "name_en" : "rhombus",
+        "spell_ep" : "[ˈrɒmbəs]",
+        "spell_ap" : "[ˈrɑːmbəs]",
+        "spell_ch" : "líng xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_星形.png",
+        "name_ch" : "星形",
+        "name_en" : "star",
+        "spell_ep" : "[stɑː(r)]",
+        "spell_ap" : "[stɑːr]",
+        "spell_ch" : "xīng xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_心形.png",
+        "name_ch" : "心形",
+        "name_en" : "heart",
+        "spell_ep" : "[hɑːt]",
+        "spell_ap" : "[hɑːrt]",
+        "spell_ch" : "xīn xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_梯形.png",
+        "name_ch" : "梯形",
+        "name_en" : "trapezoid",
+        "spell_ep" : "[ˈtræpəzɔɪd]",
+        "spell_ap" : "[ˈtræpəzɔɪd]",
+        "spell_ch" : "tī xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_平行四边形.png",
+        "name_ch" : "平行四边形",
+        "name_en" : "parallelogram",
+        "spell_ep" : "[ˌpærəˈleləɡræm]",
+        "spell_ap" : "[ˌpærəˈleləɡræm]",
+        "spell_ch" : "píng xíng sì biān xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_五边形.png",
+        "name_ch" : "五边形",
+        "name_en" : "pentagon",
+        "spell_ep" : "[ˈpentəɡən]",
+        "spell_ap" : "[ˈpentəɡɑːn]",
+        "spell_ch" : "wǔ biān xíng"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_六边形.png",
+        "name_ch" : "六边形",
+        "name_en" : "hexagon",
+        "spell_ep" : "[ˈheksəɡən]",
+        "spell_ap" : "[ˈheksəɡɑːn]",
+        "spell_ch" : "liù biān xíng"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 3,
+    "groupTitle_en" : "instruments",
+    "groupTitle" : "乐器",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乐器.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_钢琴.png",
+        "name_ch" : "钢琴",
+        "name_en" : "piano",
+        "spell_ep" : "[piˈænəʊ]",
+        "spell_ap" : "[piˈænoʊ]",
+        "spell_ch" : "gāng qín"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_电子琴.png",
+        "name_ch" : "电子琴",
+        "name_en" : "electronic organ",
+        "spell_ep" : "[ɪˌlekˈtrɒnɪk ˈɔːɡən]",
+        "spell_ap" : "[ɪˌlekˈtrɑːnɪk ˈɔːrɡən]",
+        "spell_ch" : "diàn zǐ qín"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_小提琴.png",
+        "name_ch" : "小提琴",
+        "name_en" : "violin",
+        "spell_ep" : "[ˌvaɪəˈlɪn]",
+        "spell_ap" : "[ˌvaɪəˈlɪn]",
+        "spell_ch" : "xiǎo tí qín"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_萨克斯.png",
+        "name_ch" : "萨克斯",
+        "name_en" : "saxophone",
+        "spell_ep" : "[ˈsæksəfəʊn]",
+        "spell_ap" : "[ˈsæksəfoʊn]",
+        "spell_ch" : "sà kè sī"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_鼓.png",
+        "name_ch" : "鼓",
+        "name_en" : "drum",
+        "spell_ep" : "[drʌm]",
+        "spell_ap" : "[drʌm]",
+        "spell_ch" : "gǔ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_吉他.png",
+        "name_ch" : "吉他",
+        "name_en" : "guitar",
+        "spell_ep" : "[ɡɪˈtɑː(r)]",
+        "spell_ap" : "[ɡɪˈtɑːr]",
+        "spell_ch" : "jí tā"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圆号.png",
+        "name_ch" : "圆号",
+        "name_en" : "French horn",
+        "spell_ep" : "[ˌfrentʃ ˈhɔːn]",
+        "spell_ap" : "[ˌfrentʃ ˈhɔːrn]",
+        "spell_ch" : "yuán hào"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_小号.png",
+        "name_ch" : "小号",
+        "name_en" : "trumpet",
+        "spell_ep" : "[ˈtrʌmpɪt]",
+        "spell_ap" : "[ˈtrʌmpɪt]",
+        "spell_ch" : "xiǎo hào"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_琵琶.png",
+        "name_ch" : "琵琶",
+        "name_en" : "pipa",
+        "spell_ep" : "[pɪ'pɑː]",
+        "spell_ap" : "[pɪ'pɑː]",
+        "spell_ch" : "pí pa"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_竖琴.png",
+        "name_ch" : "竖琴",
+        "name_en" : "harp",
+        "spell_ep" : "[hɑːp]",
+        "spell_ap" : "[hɑːrp]",
+        "spell_ch" : "shù qín"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "auto Logos",
+    "groupTitle" : "汽车标识",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_车标.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_大众.png",
+        "name_ch" : "大众",
+        "name_en" : "Volkswagen",
+        "spell_ep" : "[ˈvəʊkswægən]",
+        "spell_ap" : "[ˈvəʊkswægən]",
+        "spell_ch" : "dà zhòng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_奥迪.png",
+        "name_ch" : "奥迪",
+        "name_en" : "Audi",
+        "spell_ep" : "[ˈaʊdi]",
+        "spell_ap" : "[ˈɔdi]",
+        "spell_ch" : "ào dí"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_奔驰.png",
+        "name_ch" : "奔驰",
+        "name_en" : "Benz",
+        "spell_ep" : "[bɛnz]",
+        "spell_ap" : "[bɛnz]",
+        "spell_ch" : "bēn chí"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_宝马.png",
+        "name_ch" : "宝马",
+        "name_en" : "BMW",
+        "spell_ep" : "[biː em ˈdʌbljuː]",
+        "spell_ap" : "[biː em ˈdʌbljuː]",
+        "spell_ch" : "bǎo mǎ"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_本田.png",
+        "name_ch" : "本田",
+        "name_en" : "Honda",
+        "spell_ep" : "[ˈhɒndə]",
+        "spell_ap" : "[ˈhɔndə]",
+        "spell_ch" : "běn tián"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_丰田.png",
+        "name_ch" : "丰田",
+        "name_en" : "Toyota",
+        "spell_ep" : "[tɔɪˈəʊtə]",
+        "spell_ap" : "[toʊˈjoʊtə]",
+        "spell_ch" : "fēng tián"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_尼桑.png",
+        "name_ch" : "尼桑",
+        "name_en" : "Nissan",
+        "spell_ep" : "[ˈnisɑn]",
+        "spell_ap" : "[ˈnisɑn]",
+        "spell_ch" : "ní sāng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马自达.png",
+        "name_ch" : "马自达",
+        "name_en" : "Mazda",
+        "spell_ep" : "[ˈmɑzdə]",
+        "spell_ap" : "[ˈmɑzdə]",
+        "spell_ch" : "mǎ zì dá"
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_迷你.png",
+        "name_ch" : "迷你",
+        "name_en" : "MINI",
+        "spell_ep" : "[ˈmɪni]",
+        "spell_ap" : "[ˈmɪni]",
+        "spell_ch" : "mí nǐ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_雷克萨斯.png",
+        "name_ch" : "雷克萨斯",
+        "name_en" : "Lexus",
+        "spell_ep" : "[ˈlɛksəs]",
+        "spell_ap" : "[ˈlɛksəs]",
+        "spell_ch" : "léi kè sà sī"
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_菲亚特.png",
+        "name_ch" : "菲亚特",
+        "name_en" : "Fiat",
+        "spell_ep" : "[ˈfiːæt]",
+        "spell_ap" : "[ˈfiːæt]",
+        "spell_ch" : "fēi yà tè"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_捷豹.png",
+        "name_ch" : "捷豹",
+        "name_en" : "Jaguar",
+        "spell_ep" : "[ˈdʒæɡjuə(r)]",
+        "spell_ap" : "[ˈdʒæɡwɑːr]",
+        "spell_ch" : "jié bào"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_路虎.png",
+        "name_ch" : "路虎",
+        "name_en" : "Land Rover",
+        "spell_ep" : "[ˈlænd rəʊvə(r)]",
+        "spell_ap" : "[ˈlænd roʊvər]",
+        "spell_ch" : "lù hǔ"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_福特.png",
+        "name_ch" : "福特",
+        "name_en" : "Ford",
+        "spell_ep" : "[fɔːd]",
+        "spell_ap" : "[fɔːrd]",
+        "spell_ch" : "fú tè"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_沃尔沃.png",
+        "name_ch" : "沃尔沃",
+        "name_en" : "Volvo",
+        "spell_ep" : "['vɔlvəu]",
+        "spell_ap" : "['vɔlvəu]",
+        "spell_ch" : "wò ěr wò"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_标志.png",
+        "name_ch" : "标致",
+        "name_en" : "Peugeot",
+        "spell_ep" : "[ˈpɜrʒoʊ]",
+        "spell_ap" : "[ˈpɜrʒoʊ]",
+        "spell_ch" : "biāo zhì"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_雪铁龙.png",
+        "name_ch" : "雪铁龙",
+        "name_en" : "Citroen",
+        "spell_ep" : "[ˈsɪtroʊn]",
+        "spell_ap" : "[ˈsɪtroʊn]",
+        "spell_ch" : "xuě tiě lóng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_雪佛兰.png",
+        "name_ch" : "雪佛兰",
+        "name_en" : "Chevrolet",
+        "spell_ep" : "[ʃevrə'leɪ]",
+        "spell_ap" : "[ʃɛvrə'le]",
+        "spell_ch" : "xuě fó lán"
+      },
+      {
+        "back_color_type" : "3",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_凯迪.png",
+        "name_ch" : "凯迪拉克",
+        "name_en" : "Cadillac",
+        "spell_ep" : "['kædilæk]",
+        "spell_ap" : "['kædilæk]",
+        "spell_ch" : "kǎi dí lā kè"
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_现代.png",
+        "name_ch" : "现代",
+        "name_en" : "Hyundai",
+        "spell_ep" : "[ˈhjʌnˌdeɪ]",
+        "spell_ap" : "[ˈhjʌnˌdeɪ]",
+        "spell_ch" : "xiàn dài"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 7,
+    "groupTitle_en" : "traffic sign",
+    "groupTitle" : "交通标志",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_交通标志.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_步行.png",
+        "name_ch" : "步行",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "bù xíng"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_人行横道.png",
+        "name_ch" : "人行横道",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "rén xíng héng dào"
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_停车场.png",
+        "name_ch" : "停车场",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "tíng chē chǎng "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_直行.png",
+        "name_ch" : "直行",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "zhí xíng "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_允许掉头.png",
+        "name_ch" : "允许掉头",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "yǔn xǔ diào tóu "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_残疾人专用设施.png",
+        "name_ch" : "残疾人专用设施",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "cán jí rén zhuān yòng shè shī "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止行人进入.png",
+        "name_ch" : "禁止行人进入",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ xíng rén jìn rù "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止掉头.png",
+        "name_ch" : "禁止掉头",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ diào tóu "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止直行.png",
+        "name_ch" : "禁止直行",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ zhí xíng "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止非机动车进入.png",
+        "name_ch" : "禁止非机动车进入",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ fēi jī dòng chē jìn rù "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止机动车驶入.png",
+        "name_ch" : "禁止机动车驶入",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ jī dòng chē shǐ rù "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止骑自行车上坡.png",
+        "name_ch" : "禁止骑自行车上坡",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ qí zì xíng chē shàng pō "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止鸣喇叭.png",
+        "name_ch" : "禁止鸣喇叭",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ míng lǎ bā "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_注意信号灯.png",
+        "name_ch" : "注意信号灯",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "zhù yì xìn hào dēng "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_注意行人.png",
+        "name_ch" : "注意行人",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "zhù yì xíng rén "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_注意危险.png",
+        "name_ch" : "注意危险",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "zhù yì wēi xiǎn "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_十字交叉.png",
+        "name_ch" : "十字交叉",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "shí zì jiāo chā "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_施工.png",
+        "name_ch" : "施工",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "shī gōng "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_事故易发路段.png",
+        "name_ch" : "事故易发路段",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "shì gù yì fā lù duàn "
+      },
+      {
+        "back_color_type" : "7",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_慢行.png",
+        "name_ch" : "慢行",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "màn xíng "
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "traffic sign",
+    "groupTitle" : "日常标志",
+    "isPro" : 1,
+    "LiteracyCardType" : 0,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_日常标志.png",
+    "items" : [
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_电话.png",
+        "name_ch" : "电话",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "diàn huà "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_废物箱.png",
+        "name_ch" : "废物箱",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "fèi wù xiāng "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_饮用水.png",
+        "name_ch" : "饮用水",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "yǐn yòng shuǐ "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_电梯.png",
+        "name_ch" : "电梯",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "diàn tī "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_扶梯.png",
+        "name_ch" : "扶梯",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "fú tī "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_楼梯.png",
+        "name_ch" : "楼梯",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "lóu tī  "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_候车室.png",
+        "name_ch" : "候车室",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "hòu chē shì  "
+      },
+      {
+        "back_color_type" : "2",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_失物招领.png",
+        "name_ch" : "失物招领",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "shī wù zhāo lǐng  "
+      },
+      {
+        "back_color_type" : "6",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_紧急出口.png",
+        "name_ch" : "紧急出口",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jǐn jí chū kǒu  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_医疗.png",
+        "name_ch" : "医疗",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "yī liáo  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止触摸.png",
+        "name_ch" : "禁止触摸",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ chù mō  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止拍照.png",
+        "name_ch" : "禁止拍照",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ pāi zhào  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止攀爬.png",
+        "name_ch" : "禁止攀爬",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ pān pá  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止停留.png",
+        "name_ch" : "禁止停留",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ tíng liú  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止吸烟.png",
+        "name_ch" : "禁止吸烟",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ xī yān  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止饮食.png",
+        "name_ch" : "禁止饮食",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ yǐn shí  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止饮用.png",
+        "name_ch" : "禁止饮用",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ yǐn yòng  "
+      },
+      {
+        "back_color_type" : "4",
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_禁止游泳.png",
+        "name_ch" : "禁止游泳",
+        "name_en" : "",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "jìn zhǐ yóu yǒng  "
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "asian",
+    "groupTitle" : "亚洲",
+    "isPro" : 0,
+    "LiteracyCardType" : 1,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_亚洲.png",
+    "items" : [
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_中国.png",
+        "name_ch" : "中国",
+        "name_en" : "China",
+        "spell_ep" : "[ˈtʃaɪnə]",
+        "spell_ap" : "[ˈtʃaɪnə]",
+        "spell_ch" : "zhōng guó"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_韩国.png",
+        "name_ch" : "韩国",
+        "name_en" : "Korea",
+        "spell_ep" : "[kəˈriə]",
+        "spell_ap" : "[kəˈriə]",
+        "spell_ch" : "hán guó"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_日本.png",
+        "name_ch" : "日本",
+        "name_en" : "Japan",
+        "spell_ep" : "[dʒəˈpæn]",
+        "spell_ap" : "[dʒəˈpæn]",
+        "spell_ch" : "rì běn"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_朝鲜.png",
+        "name_ch" : "朝鲜",
+        "name_en" : "North Korea",
+        "spell_ep" : "[ˌnɔːθ kəˈriə]",
+        "spell_ap" : "[ˌnɔːrθ kəˈriə]",
+        "spell_ch" : "cháo xiǎn"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_蒙古.png",
+        "name_ch" : "蒙古",
+        "name_en" : "Mongolia",
+        "spell_ep" : "[mɒŋˈɡəʊliə]",
+        "spell_ap" : "[mɑːŋˈɡoʊliə]",
+        "spell_ch" : "měng gǔ"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_越南.png",
+        "name_ch" : "越南",
+        "name_en" : "Vietnam",
+        "spell_ep" : "[ˌviːetˈnɑːm; ˌviːetˈnæm]",
+        "spell_ap" : "[ˌviːetˈnɑːm]",
+        "spell_ch" : "yuè nán"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_老挝.png",
+        "name_ch" : "老挝",
+        "name_en" : "Laos",
+        "spell_ep" : "[laʊs]",
+        "spell_ap" : "[laʊs]",
+        "spell_ch" : "lǎo wō"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_柬埔寨.png",
+        "name_ch" : "柬埔寨",
+        "name_en" : "Cambodia",
+        "spell_ep" : "[kæmˈbəʊdiə]",
+        "spell_ap" : "[kæmˈboʊdiə]",
+        "spell_ch" : "jiǎn pǔ zhài"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_缅甸.png",
+        "name_ch" : "缅甸",
+        "name_en" : "Myanmar",
+        "spell_ep" : "[ˈmaɪænˌmɑː]",
+        "spell_ap" : "[ˈmjænmɑː]",
+        "spell_ch" : "miǎn diàn"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_泰国.png",
+        "name_ch" : "泰国",
+        "name_en" : "Thailand",
+        "spell_ep" : "[ˈtaɪlænd]",
+        "spell_ap" : "[ˈtaɪlænd]",
+        "spell_ch" : "tài guó"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马来西亚.png",
+        "name_ch" : "马来西亚",
+        "name_en" : "Malaysia",
+        "spell_ep" : "[məˈleɪʒə]",
+        "spell_ap" : "[mə'leʒə]",
+        "spell_ch" : "mǎ lái xī yà"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_新加坡.png",
+        "name_ch" : "新加坡",
+        "name_en" : "Singapore",
+        "spell_ep" : "[ˌsɪŋgə'pɔ:]",
+        "spell_ap" : "[ˈsɪŋəˌpɔr]",
+        "spell_ch" : "xīn jiā pō"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_印度尼西亚.png",
+        "name_ch" : "印度尼西亚",
+        "name_en" : "Indonesia",
+        "spell_ep" : "[ˌɪndəˈniːʒə; ˌɪndəˈniːziə]",
+        "spell_ap" : "[ˌɪndəˈniːʒə]",
+        "spell_ch" : "yìn dù ní xī yà"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_菲律宾.png",
+        "name_ch" : "菲律宾",
+        "name_en" : "the Philippines",
+        "spell_ep" : "[ðə ˈfɪlɪˌpiːnz]",
+        "spell_ap" : "[ðə ˈfɪləˌpinz]",
+        "spell_ch" : "fēi lǜ bīn"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_文莱.png",
+        "name_ch" : "文莱",
+        "name_en" : "Brunei",
+        "spell_ep" : "[bruːˈnaɪ]",
+        "spell_ap" : "[bruˈnaɪ]",
+        "spell_ch" : "wén lái"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_东帝汶.png",
+        "name_ch" : "东帝汶",
+        "name_en" : "East Timor",
+        "spell_ep" : "[ˌiːst ˈtiːmɔː(r)]",
+        "spell_ap" : "[ˌiːst ˈtiːmɔːr]",
+        "spell_ch" : "dōng dì wèn"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_斯里兰卡.png",
+        "name_ch" : "斯里兰卡",
+        "name_en" : "Sri Lanka",
+        "spell_ep" : "[ˌsriː ˈlæŋkə]",
+        "spell_ap" : "[ˌsriː ˈlæŋkə]",
+        "spell_ch" : "sī lǐ lán kǎ"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马尔代夫.png",
+        "name_ch" : "马尔代夫",
+        "name_en" : "Maldives",
+        "spell_ep" : "['mɔ:ldaɪvz;-dɪvz]",
+        "spell_ap" : "['mɔldaɪvz;-dɪvz]",
+        "spell_ch" : "mǎ ěr dài fū"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴基斯坦.png",
+        "name_ch" : "巴基斯坦",
+        "name_en" : "Pakistan",
+        "spell_ep" : "[ˌpɑ:kisˈtɑ:n]",
+        "spell_ap" : "[ˈpækɪˌstæn]",
+        "spell_ch" : "bā jī sī tǎn"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_印度.png",
+        "name_ch" : "印度",
+        "name_en" : "India",
+        "spell_ep" : "['ɪndɪə]",
+        "spell_ap" : "[ˈɪndiə]",
+        "spell_ch" : "yìn dù"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_孟加拉国.png",
+        "name_ch" : "孟加拉国",
+        "name_en" : "Bangladesh",
+        "spell_ep" : "[ˌbɑ:ŋgləˈdeʃ]",
+        "spell_ap" : "[ˌbɑŋɡləˈdɛʃ]",
+        "spell_ch" : "mèng jiā lā guó"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_尼泊尔.png",
+        "name_ch" : "尼泊尔",
+        "name_en" : "Nepal",
+        "spell_ep" : "[nəˈpɔːl]",
+        "spell_ap" : "[nəˈpɔːl]",
+        "spell_ch" : "ní bó ěr"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_不丹.png",
+        "name_ch" : "不丹",
+        "name_en" : "the Kingdom of Bhutan",
+        "spell_ep" : "[ðə ˈkɪŋdəm ɒv buːˈtɑːn]",
+        "spell_ap" : "[ðə ˈkɪŋdəm əv ˌbuˈtæn]",
+        "spell_ch" : "bù dān"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_伊朗.png",
+        "name_ch" : "伊朗",
+        "name_en" : "Iran",
+        "spell_ep" : "[ɪˈrɑːn; ɪˈræn]",
+        "spell_ap" : "[ɪ'ræn]",
+        "spell_ch" : "yī lǎng"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_土耳其.png",
+        "name_ch" : "土耳其",
+        "name_en" : "Turkey",
+        "spell_ep" : "[ˈtɜːki]",
+        "spell_ap" : "[ˈtɜːrki]",
+        "spell_ch" : "tǔ ěr qí"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_塞浦路斯.png",
+        "name_ch" : "塞浦路斯",
+        "name_en" : "Cyprus",
+        "spell_ep" : "[ˈsaɪprəs]",
+        "spell_ap" : "[ˈsaɪprəs]",
+        "spell_ch" : "sāi pǔ lù sī"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_叙利亚.png",
+        "name_ch" : "叙利亚",
+        "name_en" : "Syria",
+        "spell_ep" : "[ˈsɪriə]",
+        "spell_ap" : "[ˈsɪriə]",
+        "spell_ch" : "xù lì yà"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_黎巴嫩.png",
+        "name_ch" : "黎巴嫩",
+        "name_en" : "Lebanon",
+        "spell_ep" : "[ˈlɛbənən]",
+        "spell_ap" : "[ˈlɛbənən]",
+        "spell_ch" : "lí bā nèn"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴勒斯坦.png",
+        "name_ch" : "巴勒斯坦",
+        "name_en" : "Palestine",
+        "spell_ep" : "[ˈpælɪˌstaɪn]",
+        "spell_ap" : "[ˈpæləˌstaɪn]",
+        "spell_ch" : "bā lè sī tǎn"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_以色列.png",
+        "name_ch" : "以色列",
+        "name_en" : "Israel",
+        "spell_ep" : "[ˈɪzreɪl]",
+        "spell_ap" : "['ɪzrɪəl]",
+        "spell_ch" : "yǐ sè liè"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_约旦.png",
+        "name_ch" : "约旦",
+        "name_en" : "Jordan",
+        "spell_ep" : "[ˈdʒɔːdn]",
+        "spell_ap" : "[ˈdʒɔːrdn]",
+        "spell_ch" : "yuē dàn"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_伊拉克.png",
+        "name_ch" : "伊拉克",
+        "name_en" : "Iraq",
+        "spell_ep" : "[ɪˈrɑːk; ɪˈræk]",
+        "spell_ap" : "[ɪ'ræk]",
+        "spell_ch" : "yī lā kè"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_科威特.png",
+        "name_ch" : "科威特",
+        "name_en" : "Kuwait",
+        "spell_ep" : "[kʊˈweɪt]",
+        "spell_ap" : "[kʊˈweɪt]",
+        "spell_ch" : "kē wēi tè"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_沙特阿拉伯.png",
+        "name_ch" : "沙特阿拉伯",
+        "name_en" : "Saudi Arabia",
+        "spell_ep" : "[ˌsaʊdi əˈreɪbiə]",
+        "spell_ap" : "[ˌsaʊdi əˈreɪbiə]",
+        "spell_ch" : "shā tè ā lā bó"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_也门.png",
+        "name_ch" : "也门",
+        "name_en" : "Yemen",
+        "spell_ep" : "[ˈjemən]",
+        "spell_ap" : "[ˈjemən]",
+        "spell_ch" : "yě mén"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿曼.png",
+        "name_ch" : "阿曼",
+        "name_en" : "Oman",
+        "spell_ep" : "[əʊˈmɑːn; əʊˈmæn]",
+        "spell_ap" : "[oʊˈmɑːn]",
+        "spell_ch" : "ā màn"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿联酋.png",
+        "name_ch" : "阿联酋",
+        "name_en" : "The United Arab Emirates",
+        "spell_ep" : "[ðə juˈnaɪtɪd ˈærəb ˈɛmɪrɪt]",
+        "spell_ap" : "[ðə juˈnaɪtɪd ˈærəb ˈɛmərəts]",
+        "spell_ch" : "ā lián qiú"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_卡塔尔.png",
+        "name_ch" : "卡塔尔",
+        "name_en" : "Qatar",
+        "spell_ep" : "[ˈkʌtɑː(r); ˈkætɑː(r)]",
+        "spell_ap" : "[ˈkɑːtɑːr,kəˈtɑːr]",
+        "spell_ch" : "kǎ tǎ ěr"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴林.png",
+        "name_ch" : "巴林",
+        "name_en" : "Bahrain",
+        "spell_ep" : "[bɑːˈreɪn]",
+        "spell_ap" : "[bɑːˈreɪn]",
+        "spell_ch" : "bā lín"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_格鲁吉亚.png",
+        "name_ch" : "格鲁吉亚",
+        "name_en" : "Georgia",
+        "spell_ep" : "[ˈdʒɔːdʒə]",
+        "spell_ap" : "[ˈdʒɔːrdʒə]",
+        "spell_ch" : "gé lǔ jí yà"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿富汗.png",
+        "name_ch" : "阿富汗",
+        "name_en" : "Afghanistan",
+        "spell_ep" : "[æf'ɡænɪstæn]",
+        "spell_ap" : "[æf'ɡænɪstæn]",
+        "spell_ch" : "ā fù hàn"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_亚美尼亚.png",
+        "name_ch" : "亚美尼亚",
+        "name_en" : "Armenia",
+        "spell_ep" : "[ɑːˈmiːniə]",
+        "spell_ap" : "[ɑːrˈmiːniə]",
+        "spell_ch" : "yà měi ní yà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿塞拜疆.png",
+        "name_ch" : "阿塞拜疆",
+        "name_en" : "Azerbaijan",
+        "spell_ep" : "[ˌæzəbaɪˈdʒɑːn]",
+        "spell_ap" : "[ˌæzərbaɪˈdʒɑːn]",
+        "spell_ch" : "ā sài bài jiāng"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_土库曼斯坦.png",
+        "name_ch" : "土库曼斯坦",
+        "name_en" : "Turkmenistan",
+        "spell_ep" : "[ˌtɜːkmɛnɪˈstɑːn]",
+        "spell_ap" : "[ˌtɜrkˈmɛnɪˌstæn]",
+        "spell_ch" : "tǔ kù màn sī tǎn"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乌兹别克斯坦.png",
+        "name_ch" : "乌兹别克斯坦",
+        "name_en" : "Uzbekistan",
+        "spell_ep" : "[ˌʌzbɛkɪˈstɑːn]",
+        "spell_ap" : "[uzˈbɛkɪˌstæn]",
+        "spell_ch" : "wū zī bié kè sī tǎn"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_吉尔吉斯斯坦.png",
+        "name_ch" : "吉尔吉斯斯坦",
+        "name_en" : "Kyrgyzstan",
+        "spell_ep" : "[ˈkɪəgɪzˌstɑːn]",
+        "spell_ap" : "[ˈkɪrgɪˌstæn]",
+        "spell_ch" : "jí ěr jí sī sī tǎn"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_塔吉克斯坦.png",
+        "name_ch" : "塔吉克斯坦",
+        "name_en" : "Tajikistan",
+        "spell_ep" : "[tɑːˌdʒɪkɪˈstɑːn]",
+        "spell_ap" : "[ˌtɑˈdʒikɪˌstæn]",
+        "spell_ch" : "tǎ jí kè sī tǎn"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_哈萨克斯坦.png",
+        "name_ch" : "哈萨克斯坦",
+        "name_en" : "Kazakhstan",
+        "spell_ep" : "[ˌkæzəkˈstɑːn]",
+        "spell_ap" : "[ˌkæzəkˈstɑːn]",
+        "spell_ch" : "hā sà kè sī tǎn"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 1,
+    "groupTitle_en" : "North America",
+    "groupTitle" : "北美洲",
+    "isPro" : 0,
+    "LiteracyCardType" : 1,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_北美洲.png",
+    "items" : [
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_美国.png",
+        "name_ch" : "美国",
+        "name_en" : "America",
+        "spell_ep" : "[ə'merɪkə]",
+        "spell_ap" : "[əˈmɛrɪkə]",
+        "spell_ch" : "měi guó"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_加拿大.png",
+        "name_ch" : "加拿大",
+        "name_en" : "Canada",
+        "spell_ep" : "['kænədə]",
+        "spell_ap" : "[ˈkænədə]",
+        "spell_ch" : "jiā ná dà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_墨西哥.png",
+        "name_ch" : "墨西哥",
+        "name_en" : "Mexico",
+        "spell_ep" : "[ˈmeksɪkəʊ]",
+        "spell_ap" : "[ˈmeksɪkoʊ]",
+        "spell_ch" : "mò xī gē"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_危地马拉.png",
+        "name_ch" : "危地马拉",
+        "name_en" : "Guatemala",
+        "spell_ep" : "[ˌgwɑːtəˈmɑːlə]",
+        "spell_ap" : "[ˌgwɑtəˈmɑlə]",
+        "spell_ch" : "wēi dì mǎ lā"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_伯利兹.png",
+        "name_ch" : "伯利兹",
+        "name_en" : "Belize",
+        "spell_ep" : "[bəˈliːz]",
+        "spell_ap" : "[bɛˈliz]",
+        "spell_ch" : "bó lì zīì"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_萨尔瓦多.png",
+        "name_ch" : "萨尔瓦多",
+        "name_en" : "Salvador",
+        "spell_ep" : "[ˈsælvəˌdɔː]",
+        "spell_ap" : "[ˈsælvəˌdɔr]",
+        "spell_ch" : "sà ěr wǎ duō"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_洪都拉斯.png",
+        "name_ch" : "洪都拉斯",
+        "name_en" : "Honduras",
+        "spell_ep" : "[hɒnˈdjʊərəs]",
+        "spell_ap" : "[hɑːnˈdʊrəs]",
+        "spell_ch" : "hóng dū lā sī"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴拿马.png",
+        "name_ch" : "巴拿马",
+        "name_en" : "Panama",
+        "spell_ep" : "[ˈpænəmɑː]",
+        "spell_ap" : "[ˈpænəmɑː]",
+        "spell_ch" : "bā ná mǎ"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴哈马.png",
+        "name_ch" : "巴哈马",
+        "name_en" : "Bahamas",
+        "spell_ep" : "[bəˈhɑːməz]",
+        "spell_ap" : "[bəˈhɑməz]",
+        "spell_ch" : "bā hā mǎ"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_古巴.png",
+        "name_ch" : "古巴",
+        "name_en" : "Cuba",
+        "spell_ep" : "[ˈkjuːbə]",
+        "spell_ap" : "[ˈkjuːbə]",
+        "spell_ch" : "gǔ bā"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_牙买加.png",
+        "name_ch" : "牙买加",
+        "name_en" : "Jamaica",
+        "spell_ep" : "[dʒəˈmeɪkə]",
+        "spell_ap" : "[dʒəˈmeɪkə]",
+        "spell_ch" : "yá mǎi jiā"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_海地.png",
+        "name_ch" : "海地",
+        "name_en" : "Haiti",
+        "spell_ep" : "[ˈheɪti]",
+        "spell_ap" : "[ˈheɪti]",
+        "spell_ch" : "hǎi dì"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_多米尼加.png",
+        "name_ch" : "多米尼加",
+        "name_en" : "Dominica",
+        "spell_ep" : "[dɒmɪˈniːkə]",
+        "spell_ap" : "[dəˈmɪnɪkə]",
+        "spell_ch" : "duō mǐ ní jiā"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_哥斯达黎加.png",
+        "name_ch" : "哥斯达黎加",
+        "name_en" : "Costa Rica",
+        "spell_ep" : "[ˌkɒstə ˈriːkə]",
+        "spell_ap" : "[ˈkɔstə ˈrikə]",
+        "spell_ch" : "gē sī dá lí jiā"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圣基茨和尼维斯.png",
+        "name_ch" : "圣基茨和尼维斯",
+        "name_en" : "The Federation of Saint Kitts and Nevis",
+        "spell_ep" : "[ðə ˌfedəˈreɪʃn ɒv seɪnt ˌkɪts ənd ˈniːvɪs]",
+        "spell_ap" : "[ðə ˌfedəˈreɪʃn əv seɪnt kɪts ənd ˈnɛvɪs]",
+        "spell_ch" : "shèng jī cí hé ní wéi sī"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_安提瓜和巴布达.png",
+        "name_ch" : "安提瓜和巴布达",
+        "name_en" : "Antigua and Barbuda",
+        "spell_ep" : "[ænˈtiːgə ənd bɑːˈbjuːdə]",
+        "spell_ap" : "[ænˈtigwə ənd bɑrˈbudə]",
+        "spell_ch" : "ān tí guā hé bā bù dá"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_多米尼克.png",
+        "name_ch" : "多米尼克",
+        "name_en" : "Dominica",
+        "spell_ep" : "[dɒmɪˈniːkə]",
+        "spell_ap" : "[dəˈmɪnɪkə]",
+        "spell_ch" : "duō mǐ ní kè"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圣卢西亚.png",
+        "name_ch" : "圣卢西亚",
+        "name_en" : "Saint Lucia",
+        "spell_ep" : "[seɪnt ˈluːʃə]",
+        "spell_ap" : "[seɪnt ˈluʃə]",
+        "spell_ch" : "shèng lú xī yà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圣文森特和格林纳丁斯.png",
+        "name_ch" : "圣文森特和格林纳丁斯",
+        "name_en" : "Saint Vincent and the Grenadines",
+        "spell_ep" : "[seɪnt ˈvɪntsənt ənd ðə ,ɡrenə'di:nz]",
+        "spell_ap" : "[seɪnt 'vɪnsnt ənd ðə ,ɡrenə'di:nz]",
+        "spell_ch" : "shèng wén sēn tè hé gé lín nà dīng sī"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴巴多斯.png",
+        "name_ch" : "巴巴多斯",
+        "name_en" : "Barbados",
+        "spell_ep" : "[bɑːˈbeɪdɒs]",
+        "spell_ap" : "[bɑrˈbeɪdoʊs]",
+        "spell_ch" : "bā bā duō sī"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_格林纳达.png",
+        "name_ch" : "格林纳达",
+        "name_en" : "Grenada",
+        "spell_ep" : "[grəˈneɪdə]",
+        "spell_ap" : "[grɪˈneɪdə]",
+        "spell_ch" : "gé lín nà dá"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_特立尼达和多巴哥.png",
+        "name_ch" : "特立尼达和多巴哥",
+        "name_en" : "Trinidad and Tobago",
+        "spell_ep" : "[ˈtrɪnɪˌdæd ənd təʊˈbeɪgəʊ]",
+        "spell_ap" : "[ˈtrɪnɪˌdæd ənd təˈbeɪgoʊ]",
+        "spell_ch" : "tè lì ní dá hé duō bā gē"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_尼加拉瓜.png",
+        "name_ch" : "尼加拉瓜",
+        "name_en" : "Nicaragua",
+        "spell_ep" : "[ˌnɪkəˈræɡjuə]",
+        "spell_ap" : "[ˌnɪkəˈrɑːɡwə]",
+        "spell_ch" : "ní jiā lā guā"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "South America",
+    "groupTitle" : "南美洲",
+    "isPro" : 1,
+    "LiteracyCardType" : 1,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_南美洲.png",
+    "items" : [
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿根廷.png",
+        "name_ch" : "阿根廷",
+        "name_en" : "Argentina",
+        "spell_ep" : "[ˌɑːdʒənˈtiːnə]",
+        "spell_ap" : "[ˌɑːrdʒənˈtiːnə]",
+        "spell_ch" : "ā gēn tíng"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴西.png",
+        "name_ch" : "巴西",
+        "name_en" : "Brazil",
+        "spell_ep" : "[brəˈzɪl]",
+        "spell_ap" : "[brəˈzɪl]",
+        "spell_ch" : "bā xī"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_秘鲁.png",
+        "name_ch" : "秘鲁",
+        "name_en" : "Peru",
+        "spell_ep" : "[pəˈruː]",
+        "spell_ap" : "[pəˈruː]",
+        "spell_ch" : "bì lǔ"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_哥伦比亚.png",
+        "name_ch" : "哥伦比亚",
+        "name_en" : "Colombia",
+        "spell_ep" : "[kəˈlʌmbɪə]",
+        "spell_ap" : "[kəˈlʌmbiə]",
+        "spell_ch" : "gē lún bǐ yà"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_玻利维亚.png",
+        "name_ch" : "玻利维亚",
+        "name_en" : "Bolivia",
+        "spell_ep" : "[bəˈlɪviə]",
+        "spell_ap" : "[bəˈlɪviə]",
+        "spell_ch" : "bō lì wéi yà"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_委内瑞拉.png",
+        "name_ch" : "委内瑞拉",
+        "name_en" : "Venezuela",
+        "spell_ep" : "[ˌvenəˈzweɪlə]",
+        "spell_ap" : "[ˌvenəˈzweɪlə]",
+        "spell_ch" : "wěi nèi ruì lā"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_智利.png",
+        "name_ch" : "智利",
+        "name_en" : "Chile",
+        "spell_ep" : "[ˈtʃɪli]",
+        "spell_ap" : "[ˈtʃɪli]",
+        "spell_ch" : "zhì lì"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴拉圭.png",
+        "name_ch" : "巴拉圭",
+        "name_en" : "Paraguay",
+        "spell_ep" : "[ˈpærəɡwaɪ]",
+        "spell_ap" : "[ˈpærəɡwaɪ]",
+        "spell_ch" : "bā lā guī"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_厄瓜多尔.png",
+        "name_ch" : "厄瓜多尔",
+        "name_en" : "Ecuador",
+        "spell_ep" : "[ˈekwədɔː(r)]",
+        "spell_ap" : "[ˈekwədɔːr]",
+        "spell_ch" : "è guā duō ěr"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圭亚那.png",
+        "name_ch" : "圭亚那",
+        "name_en" : "Guyana",
+        "spell_ep" : "[gaɪˈɑːnə]",
+        "spell_ap" : "[ˌgaɪˈɑnə]",
+        "spell_ch" : "guī yà nà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乌拉圭.png",
+        "name_ch" : "乌拉圭",
+        "name_en" : "Uruguay",
+        "spell_ep" : "[ˈjʊərəɡwaɪ]",
+        "spell_ap" : "[ˈjʊrəɡwaɪ]",
+        "spell_ch" : "wū lā guī"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_苏里南.png",
+        "name_ch" : "苏里南",
+        "name_en" : "Surinam",
+        "spell_ep" : "[ˌsʊərɪˈnæm]",
+        "spell_ap" : "[ˌsʊrəˈnɑm]",
+        "spell_ch" : "sū lǐ nán"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "europe",
+    "groupTitle" : "欧洲",
+    "isPro" : 1,
+    "LiteracyCardType" : 1,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_欧洲.png",
+    "items" : [
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_英国.png",
+        "name_ch" : "英国",
+        "name_en" : "the United Kingdom",
+        "spell_ep" : "[ðə juˌnaɪtɪd ˈkɪŋdəm]",
+        "spell_ap" : "[ðə juˌnaɪtɪd ˈkɪŋdəm]",
+        "spell_ch" : "yīng guó"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_俄罗斯.png",
+        "name_ch" : "俄罗斯",
+        "name_en" : "Russia",
+        "spell_ep" : "[ˈrʌʃə]",
+        "spell_ap" : "[ˈrʌʃə]",
+        "spell_ch" : "é luó sī"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_德国.png",
+        "name_ch" : "德国",
+        "name_en" : "Germany",
+        "spell_ep" : "[ˈdʒɜːməni]",
+        "spell_ap" : "[ˈdʒɜːrməni]",
+        "spell_ch" : "dé guó"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_法国.png",
+        "name_ch" : "法国",
+        "name_en" : "France",
+        "spell_ep" : "[frɑːns]",
+        "spell_ap" : "[fræns]",
+        "spell_ch" : "fǎ guó"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_意大利.png",
+        "name_ch" : "意大利",
+        "name_en" : "Italy",
+        "spell_ep" : "[ˈɪtəli]",
+        "spell_ap" : "[ˈɪtəli]",
+        "spell_ch" : "yì dà lì"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_西班牙.png",
+        "name_ch" : "西班牙",
+        "name_en" : "Spain",
+        "spell_ep" : "[speɪn]",
+        "spell_ap" : "[speɪn]",
+        "spell_ch" : "xī bān yá"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乌克兰.png",
+        "name_ch" : "乌克兰",
+        "name_en" : "Ukraine",
+        "spell_ep" : "[juːˈkreɪn]",
+        "spell_ap" : "[juˈkreɪn]",
+        "spell_ch" : "wū kè lán"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_白俄罗斯.png",
+        "name_ch" : "白俄罗斯",
+        "name_en" : "Belarus",
+        "spell_ep" : "[ˈbɛlərʊs]",
+        "spell_ap" : "[bɛˈlɑrəs]",
+        "spell_ch" : "bái é luó sī"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_荷兰.png",
+        "name_ch" : "荷兰",
+        "name_en" : "Netherlands",
+        "spell_ep" : "[ˈnɛðələndz]",
+        "spell_ap" : "[ˈnɛðərləndz]",
+        "spell_ch" : "hé lán"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_比利时.png",
+        "name_ch" : "比利时",
+        "name_en" : "Belgium",
+        "spell_ep" : "[ˈbeldʒəm]",
+        "spell_ap" : "[ˈbeldʒəm]",
+        "spell_ch" : "bǐ lì shí"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_爱尔兰.png",
+        "name_ch" : "爱尔兰",
+        "name_en" : "Ireland",
+        "spell_ep" : "['aɪələnd]",
+        "spell_ap" : "['aɪrlənd]",
+        "spell_ch" : "ài ěr lán"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_冰岛.png",
+        "name_ch" : "冰岛",
+        "name_en" : "Iceland",
+        "spell_ep" : "[ˈaɪslənd]",
+        "spell_ap" : "[ˈaɪslənd]",
+        "spell_ch" : "bīng dǎo"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_葡萄牙.png",
+        "name_ch" : "葡萄牙",
+        "name_en" : "Portugal",
+        "spell_ep" : "[ˈpɔːtʃʊɡl]",
+        "spell_ap" : "[ˈpɔːrtʃʊɡl]",
+        "spell_ch" : "pú táo yá"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_波兰.png",
+        "name_ch" : "波兰",
+        "name_en" : "Poland",
+        "spell_ep" : "[ˈpəʊlənd]",
+        "spell_ap" : "[ˈpoʊlənd]",
+        "spell_ch" : "bō lán"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_保加利亚.png",
+        "name_ch" : "保加利亚",
+        "name_en" : "Brunei",
+        "spell_ep" : "[bʌlˈɡeəriə]",
+        "spell_ap" : "[bʌlˈɡeriə]",
+        "spell_ch" : "bǎo jiā lì yà"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_希腊.png",
+        "name_ch" : "希腊",
+        "name_en" : "Greece",
+        "spell_ep" : "[ɡriːs]",
+        "spell_ap" : "[ɡriːs]",
+        "spell_ch" : "xī là"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_罗马尼亚.png",
+        "name_ch" : "罗马尼亚",
+        "name_en" : "Romania",
+        "spell_ep" : "[ruˈmeɪniə]",
+        "spell_ap" : "[ruˈmeɪniə]",
+        "spell_ch" : "luó mǎ ní yà"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_丹麦.png",
+        "name_ch" : "丹麦",
+        "name_en" : "Denmark",
+        "spell_ep" : "[ˈdenmɑːk]",
+        "spell_ap" : "[ˈdenmɑːrk]",
+        "spell_ch" : "dān mài"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_瑞士.png",
+        "name_ch" : "瑞士",
+        "name_en" : "Switzerland",
+        "spell_ep" : "[ˈswɪtsələnd]",
+        "spell_ap" : "[ˈswɪtsərlənd]",
+        "spell_ch" : "ruì shì"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_挪威.png",
+        "name_ch" : "挪威",
+        "name_en" : "Norway",
+        "spell_ep" : "[ˈnɔːweɪ]",
+        "spell_ap" : "[ˈnɔːrweɪ]",
+        "spell_ch" : "nuó wēi"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_瑞典.png",
+        "name_ch" : "瑞典",
+        "name_en" : "Sweden",
+        "spell_ep" : "[ˈswiːdn]",
+        "spell_ap" : "[ˈswiːdn]",
+        "spell_ch" : "ruì diǎn"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_芬兰.png",
+        "name_ch" : "芬兰",
+        "name_en" : "Finland",
+        "spell_ep" : "[ˈfɪnlənd]",
+        "spell_ap" : "[ˈfɪnlənd]",
+        "spell_ch" : "fēn lán"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_北马其顿.png",
+        "name_ch" : "北马其顿",
+        "name_en" : "North Macedonia",
+        "spell_ep" : "[nɔːθ ˌmæsəˈdəʊniə]",
+        "spell_ap" : "[nɔːrθ ˌmæsəˈdoʊniə]",
+        "spell_ch" : "běi mǎ qí dùn"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿尔巴尼亚.png",
+        "name_ch" : "阿尔巴尼亚",
+        "name_en" : "Albania",
+        "spell_ep" : "[ælˈbeɪniə]",
+        "spell_ap" : "[ælˈbeɪniə]",
+        "spell_ch" : "ā ěr bā ní yà"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_拉脱维亚.png",
+        "name_ch" : "拉脱维亚",
+        "name_en" : "Latvia",
+        "spell_ep" : "[ˈlætviə]",
+        "spell_ap" : "[ˈlætviə]",
+        "spell_ch" : "lā tuō wéi yà"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_立陶宛.png",
+        "name_ch" : "立陶宛",
+        "name_en" : "Lithuania",
+        "spell_ep" : "[ˌlɪθjuˈeɪniə]",
+        "spell_ap" : "[ˌlɪθuˈeɪniə]",
+        "spell_ch" : "lì táo wǎn"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_爱沙尼亚.png",
+        "name_ch" : "爱沙尼亚",
+        "name_en" : "Estonia",
+        "spell_ep" : "[eˈstəʊniə]",
+        "spell_ap" : "[eˈstoʊniə]",
+        "spell_ch" : "ài shā ní yà"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿塞拜疆.png",
+        "name_ch" : "阿塞拜疆",
+        "name_en" : "Azerbaijan",
+        "spell_ep" : "[ˌæzəbaɪˈdʒɑːn]",
+        "spell_ap" : "[ˌæzərbaɪˈdʒɑːn]",
+        "spell_ch" : "ā sāi bài jiāng"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_黑山.png",
+        "name_ch" : "黑山",
+        "name_en" : "Montenegro",
+        "spell_ep" : "[ˌmɒntɪˈniːɡrəʊ]",
+        "spell_ap" : "[ˌmɑːntəˈneɪɡroʊ]",
+        "spell_ch" : "hēi shān"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_斯洛文尼亚.png",
+        "name_ch" : "斯洛文尼亚",
+        "name_en" : "Slovenia",
+        "spell_ep" : "[sləˈviːniə]",
+        "spell_ap" : "[sloʊˈviːniə]",
+        "spell_ch" : "sī luò wén ní yà"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_克罗地亚.png",
+        "name_ch" : "克罗地亚",
+        "name_en" : "Croatia",
+        "spell_ep" : "[krəʊˈeɪʃə]",
+        "spell_ap" : "[kroʊˈeɪʃə]",
+        "spell_ch" : "kè luó dì yà"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_塞尔维亚.png",
+        "name_ch" : "塞尔维亚",
+        "name_en" : "Serbia",
+        "spell_ep" : "[ˈsɜːbiə]",
+        "spell_ap" : "[ˈsɜːrbiə]",
+        "spell_ch" : "sài ěr wéi yà"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_波黑.png",
+        "name_ch" : "波黑",
+        "name_en" : "Bosnia and Herzegovina",
+        "spell_ep" : "[ˈbɒznɪə ənd ˌhɜːtsəgəʊˈviːnə]",
+        "spell_ap" : "[ˈbɑzniə ənd ˌhɛrtsəgoʊˈvinə]",
+        "spell_ch" : "bō hēi"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_科索沃.png",
+        "name_ch" : "科索沃",
+        "name_en" : "Kosovo",
+        "spell_ep" : "[ˈkɒsəvə]",
+        "spell_ap" : "[ˈkoʊsoʊˌvoʊ]",
+        "spell_ch" : "kē suǒ wò"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_捷克.png",
+        "name_ch" : "捷克",
+        "name_en" : "Czech Republic",
+        "spell_ep" : "[ˌtʃek rɪˈpʌblɪk]",
+        "spell_ap" : "[ˌtʃek rɪˈpʌblɪk]",
+        "spell_ch" : "jié kè"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_匈牙利.png",
+        "name_ch" : "匈牙利",
+        "name_en" : "Hungary",
+        "spell_ep" : "[ˈhʌŋɡəri]",
+        "spell_ap" : "[ˈhʌŋɡəri]",
+        "spell_ch" : "xiōng yá lì"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_斯洛伐克.png",
+        "name_ch" : "斯洛伐克",
+        "name_en" : "Slovakia",
+        "spell_ep" : "[sləˈvækiə]",
+        "spell_ap" : "[sloʊˈvækiə]",
+        "spell_ch" : "sī luò fá kè"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_摩尔多瓦.png",
+        "name_ch" : "摩尔多瓦",
+        "name_en" : "Moldova",
+        "spell_ep" : "[mɒlˈdəʊvə]",
+        "spell_ap" : "[ˌmoʊlˈdoʊvə]",
+        "spell_ch" : "mó ěr duō wǎ"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_奥地利.png",
+        "name_ch" : "奥地利",
+        "name_en" : "Austria",
+        "spell_ep" : "[ˈɒstriə]",
+        "spell_ap" : "[ˈɔːstriə]",
+        "spell_ch" : "ào dì lì"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_安道尔.png",
+        "name_ch" : "安道尔",
+        "name_en" : "Andorra",
+        "spell_ep" : "[ænˈdɔːrə]",
+        "spell_ap" : "[ænˈdɔːrə]",
+        "spell_ch" : "ān dào ěr"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_梵蒂冈.png",
+        "name_ch" : "梵蒂冈",
+        "name_en" : "Vatican",
+        "spell_ep" : "[ˈvætɪkən]",
+        "spell_ap" : "[ˈvætɪkən]",
+        "spell_ch" : "fàn dì gāng"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_列支敦士登.png",
+        "name_ch" : "列支敦士登",
+        "name_en" : "Liechtenstein",
+        "spell_ep" : "[ˈlɪktənstaɪn]",
+        "spell_ap" : "[ˈlɪktənˌstaɪn]",
+        "spell_ch" : "liè zhī dūn shì dēng"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_卢森堡.png",
+        "name_ch" : "卢森堡",
+        "name_en" : "Luxembourg",
+        "spell_ep" : "[ˈlʌksəmbɜːɡ]",
+        "spell_ap" : "[ˈlʌksəmbɜːrɡ]",
+        "spell_ch" : "lú sēn bǎo"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马耳他.png",
+        "name_ch" : "马耳他",
+        "name_en" : "Malta",
+        "spell_ep" : "[ˈmɔːltə]",
+        "spell_ap" : "[ˈmɔltə]",
+        "spell_ch" : "mǎ ěr tā"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_摩纳哥.png",
+        "name_ch" : "摩纳哥",
+        "name_en" : "Monaco",
+        "spell_ep" : "[ˈmɒnəkəʊ]",
+        "spell_ap" : "[ˈmɑːnəkoʊ]",
+        "spell_ch" : "mó nà gē"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圣马力诺.png",
+        "name_ch" : "圣马力诺",
+        "name_en" : "San Marino",
+        "spell_ep" : "[sæn məˈrɪnəʊ]",
+        "spell_ap" : "[sæn məˈrinoʊ]",
+        "spell_ch" : "shèng mǎ lì nuò"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 2,
+    "groupTitle_en" : "Africa",
+    "groupTitle" : "非洲",
+    "isPro" : 1,
+    "LiteracyCardType" : 1,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_非洲.png",
+    "items" : [
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_埃及.png",
+        "name_ch" : "埃及",
+        "name_en" : "Egypt",
+        "spell_ep" : "[ˈiːdʒɪpt]",
+        "spell_ap" : "[ˈiːdʒɪpt]",
+        "spell_ch" : "āi jí"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_苏丹.png",
+        "name_ch" : "苏丹",
+        "name_en" : "Sudan",
+        "spell_ep" : "[suˈdɑːn]",
+        "spell_ap" : "[suˈdɑːn]",
+        "spell_ch" : "sū dān"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_南苏丹.png",
+        "name_ch" : "南苏丹",
+        "name_en" : "South Sudan",
+        "spell_ep" : "[ˌsaʊθ suˈdɑːn]",
+        "spell_ap" : "[ˌsaʊθ suˈdɑːn]",
+        "spell_ch" : "nán sū dān"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_利比亚.png",
+        "name_ch" : "利比亚",
+        "name_en" : "Libya",
+        "spell_ep" : "[ˈlɪbiə]",
+        "spell_ap" : "[ˈlɪbiə]",
+        "spell_ch" : "lì bǐ yà"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_突尼斯.png",
+        "name_ch" : "突尼斯",
+        "name_en" : "Tunisia",
+        "spell_ep" : "[tjuˈnɪziə]",
+        "spell_ap" : "[tjʊ'nɪsɪr]",
+        "spell_ch" : "tū ní sī"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_阿尔及利亚.png",
+        "name_ch" : "阿尔及利亚",
+        "name_en" : "Algeria",
+        "spell_ep" : "[ælˈdʒɪəriə]",
+        "spell_ap" : "[ælˈdʒɪriə]",
+        "spell_ch" : "ā ěr jí lì yà"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_摩洛哥.png",
+        "name_ch" : "摩洛哥",
+        "name_en" : "Morocco",
+        "spell_ep" : "[məˈrɒkəʊ]",
+        "spell_ap" : "[məˈrɑːkoʊ]",
+        "spell_ch" : "mó luò gē"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_埃塞俄比亚.png",
+        "name_ch" : "埃塞俄比亚",
+        "name_en" : "Ethiopia",
+        "spell_ep" : "[ˌiːθiˈəʊpiə]",
+        "spell_ap" : "[ˌiːθiˈoʊpiə]",
+        "spell_ch" : "āi sài é bǐ yà"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_厄立特里亚.png",
+        "name_ch" : "厄立特里亚",
+        "name_en" : "Eritrea",
+        "spell_ep" : "[ˌerɪˈtreɪə]",
+        "spell_ap" : "[ˌerɪˈtriːə]",
+        "spell_ch" : "è lì tè lǐ yà"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_索马里.png",
+        "name_ch" : "索马里",
+        "name_en" : "Somalia",
+        "spell_ep" : "[səˈmɑːliə]",
+        "spell_ap" : "[səˈmɑːliə]",
+        "spell_ch" : "suǒ mǎ lǐ"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_吉布提.png",
+        "name_ch" : "吉布提",
+        "name_en" : "Djibouti",
+        "spell_ep" : "[dʒɪˈbuːti]",
+        "spell_ap" : "[dʒɪˈbuːti]",
+        "spell_ch" : "jí bù tí"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_肯尼亚.png",
+        "name_ch" : "肯尼亚",
+        "name_en" : "Kenya",
+        "spell_ep" : "[ˈkɛnjə]",
+        "spell_ap" : "[kenˈyə]",
+        "spell_ch" : "kěn ní yà"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_坦桑尼亚.png",
+        "name_ch" : "坦桑尼亚",
+        "name_en" : "Tanzania",
+        "spell_ep" : "[ˌtænzəˈni:ə]",
+        "spell_ap" : "[ˌtænzəˈniə]",
+        "spell_ch" : "tǎn sāng ní yà"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乌干达.png",
+        "name_ch" : "乌干达",
+        "name_en" : "Uganda",
+        "spell_ep" : "[juːˈgændə]",
+        "spell_ap" : "[juˈgændə]",
+        "spell_ch" : "wū gān dá"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_塞舌尔.png",
+        "name_ch" : "塞舌尔",
+        "name_en" : "Seychelles",
+        "spell_ep" : "[seɪˈʃɛlz]",
+        "spell_ap" : "[ˈseɪʃɛlz]",
+        "spell_ch" : "sài shé ěr"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_卢旺达.png",
+        "name_ch" : "卢旺达",
+        "name_en" : "Rwanda",
+        "spell_ep" : "[ruˈændə]",
+        "spell_ap" : "[rʊ'ændɚ]",
+        "spell_ch" : "lú wàng dá"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_布隆迪.png",
+        "name_ch" : "布隆迪",
+        "name_en" : "Burundi",
+        "spell_ep" : "[bʊˈrʊndi]",
+        "spell_ap" : "[bʊˈrʊndi]",
+        "spell_ch" : "bù lóng dí"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_毛里塔尼亚.png",
+        "name_ch" : "毛里塔尼亚",
+        "name_en" : "Mauritania",
+        "spell_ep" : "[ˌmɒrɪˈteɪniə]",
+        "spell_ap" : "[ˌmɔːrɪˈteɪniə]",
+        "spell_ch" : "máo lǐ tǎ ní yà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_塞内加尔.png",
+        "name_ch" : "塞内加尔",
+        "name_en" : "Senegal",
+        "spell_ep" : "[ˌsenɪˈɡɔːl]",
+        "spell_ap" : "[ˌsenɪˈɡɔːl]",
+        "spell_ch" : "sài nèi jiā ěr"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_冈比亚.png",
+        "name_ch" : "冈比亚",
+        "name_en" : "Gambia",
+        "spell_ep" : "[ˈgæmbɪə]",
+        "spell_ap" : "[ˈgæmbiə]",
+        "spell_ch" : "gāng bǐ yà"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马里.png",
+        "name_ch" : "马里",
+        "name_en" : "Mali",
+        "spell_ep" : "[ˈmɑːli]",
+        "spell_ap" : "[ˈmɑːli]",
+        "spell_ch" : "mǎ lǐ"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_布基纳法索.png",
+        "name_ch" : "布基纳法索",
+        "name_en" : "Burkina Faso",
+        "spell_ep" : "[bɜːˈkiːnə ˈfæsəʊ]",
+        "spell_ap" : "[bərˈkinə ˈfɑsoʊ]",
+        "spell_ch" : "bù jī nà fǎ suǒ"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_几内亚.png",
+        "name_ch" : "几内亚",
+        "name_en" : "Guinea",
+        "spell_ep" : "[ˈɡɪni]",
+        "spell_ap" : "[ˈɡɪni]",
+        "spell_ch" : "jǐ nèi yà"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_几内亚比绍.png",
+        "name_ch" : "几内亚比绍",
+        "name_en" : "Guinea-Bissau",
+        "spell_ep" : "[ˌɡɪni bɪˈsaʊ]",
+        "spell_ap" : "[ˌɡɪni bɪˈsaʊ]",
+        "spell_ch" : "jǐ nèi yà bǐ shào"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_佛得角.png",
+        "name_ch" : "佛得角",
+        "name_en" : "Cape Verde",
+        "spell_ep" : "[ˌkeɪp ˈvɜːd]",
+        "spell_ap" : "[ˌkeɪp ˈvɜːrd]",
+        "spell_ch" : "fó dé jiǎo"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_塞拉利昂.png",
+        "name_ch" : "塞拉利昂",
+        "name_en" : "Sierra Leone",
+        "spell_ep" : "[siˈerə liːˈəʊni]",
+        "spell_ap" : "[siˈerə liˈoʊn]",
+        "spell_ch" : "sài lā lì áng"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_利比里亚.png",
+        "name_ch" : "利比里亚",
+        "name_en" : "Liberia",
+        "spell_ep" : "[laɪˈbɪəriə]",
+        "spell_ap" : "[laɪˈbɪriə]",
+        "spell_ch" : "lì bǐ lǐ yà"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_科特迪瓦.png",
+        "name_ch" : "科特迪瓦",
+        "name_en" : "Cote d'ivoire",
+        "spell_ep" : "",
+        "spell_ap" : "",
+        "spell_ch" : "kē tè dí wǎ"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_加纳.png",
+        "name_ch" : "加纳",
+        "name_en" : "Ghana",
+        "spell_ep" : "[ˈgɑːnə]",
+        "spell_ap" : "[ˈgænə]",
+        "spell_ch" : "jiā nà"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_多哥.png",
+        "name_ch" : "多哥",
+        "name_en" : "Togo",
+        "spell_ep" : "[ˈtəʊɡəʊ]",
+        "spell_ap" : "[ˈtoʊɡoʊ]",
+        "spell_ch" : "duō gē"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_贝宁.png",
+        "name_ch" : "贝宁",
+        "name_en" : "Benin",
+        "spell_ep" : "[beˈniːn]",
+        "spell_ap" : "[bɛ'nin]",
+        "spell_ch" : "bèi níng"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_尼日尔.png",
+        "name_ch" : "尼日尔",
+        "name_en" : "Niger",
+        "spell_ep" : "[niːˈʒeə(r)]",
+        "spell_ap" : "[niːˈʒer]",
+        "spell_ch" : "ní rì ěr"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_西撒哈拉.png",
+        "name_ch" : "西撒哈拉",
+        "name_en" : "Western Sahara",
+        "spell_ep" : "[ˈwestən səˈhɑːrə]",
+        "spell_ap" : "[ˈwestərn səˈhɛrə]",
+        "spell_ch" : "xī sā hā lā"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_尼日利亚.png",
+        "name_ch" : "尼日利亚",
+        "name_en" : "Nigeria",
+        "spell_ep" : "[naɪˈdʒɪərɪə]",
+        "spell_ap" : "[naɪˈdʒɪriə]",
+        "spell_ch" : "ní rì lì yà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_乍得.png",
+        "name_ch" : "乍得",
+        "name_en" : "Chad",
+        "spell_ep" : "[tʃæd]",
+        "spell_ap" : "[tʃæd]",
+        "spell_ch" : "zhà dé"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_中非.png",
+        "name_ch" : "中非",
+        "name_en" : "Central Africa",
+        "spell_ep" : "[ˈsentrəl 'æfrɪkə]",
+        "spell_ap" : "[ˈsentrəl ˈæfrəkə]",
+        "spell_ch" : "zhōng fēi"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_喀麦隆.png",
+        "name_ch" : "喀麦隆",
+        "name_en" : "Cameroon",
+        "spell_ep" : "[ˌkæməˈruːn]",
+        "spell_ap" : "['kæmə'rʊn]",
+        "spell_ch" : "kā mài lóng"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_赤道几内亚.png",
+        "name_ch" : "赤道几内亚",
+        "name_en" : "Equatorial Guinea",
+        "spell_ep" : "[ˌekwətɔːriəl ˈɡɪni]",
+        "spell_ap" : "[ˌekwətɔːriəl ˈɡɪni]",
+        "spell_ch" : "chì dào jǐ nèi yà"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_加蓬.png",
+        "name_ch" : "加蓬",
+        "name_en" : "Gabon",
+        "spell_ep" : "[gəˈbɒn]",
+        "spell_ap" : "[gəˈbɑn]",
+        "spell_ch" : "jiā péng"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_刚果.png",
+        "name_ch" : "刚果",
+        "name_en" : "Congo",
+        "spell_ep" : "[ˈkɒŋɡəʊ]",
+        "spell_ap" : "[ˈkɑːŋɡoʊ]",
+        "spell_ch" : "gāng guǒ"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_圣多美和普林西比.png",
+        "name_ch" : "圣多美和普林西比",
+        "name_en" : "Sao Tome and Principe",
+        "spell_ep" : "[saʊ təʊm ənd prinˈtʃipi]",
+        "spell_ap" : "[saʊ toʊm ənd prinˈtʃipi]",
+        "spell_ch" : "shèng duō měi hé pǔ lín xī bǐ"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_博茨瓦纳.png",
+        "name_ch" : "博茨瓦纳",
+        "name_en" : "Botswana",
+        "spell_ep" : "[bʊtˈswɑːnə]",
+        "spell_ap" : "[bɑtˈswɑnə]",
+        "spell_ch" : "bó cí wǎ nà"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_纳米比亚.png",
+        "name_ch" : "纳米比亚",
+        "name_en" : "Namibia",
+        "spell_ep" : "[nɑːˈmɪbɪə]",
+        "spell_ap" : "[nəˈmɪbiə]",
+        "spell_ch" : "nà mǐ bǐ yà"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_安哥拉.png",
+        "name_ch" : "安哥拉",
+        "name_en" : "Angola",
+        "spell_ep" : "[æŋˈɡəʊlə]",
+        "spell_ap" : "[æŋˈɡoʊlə]",
+        "spell_ch" : "ān gē lā"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_南非.png",
+        "name_ch" : "南非",
+        "name_en" : "South Africa",
+        "spell_ep" : "[saʊθ 'æfrɪkə]",
+        "spell_ap" : "[saʊθ ˈæfrəkə]",
+        "spell_ch" : "nán fēi"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_斯威士兰.png",
+        "name_ch" : "斯威士兰",
+        "name_en" : "Swaziland",
+        "spell_ep" : "[ˈswɑːziˌlænd]",
+        "spell_ap" : "[ˈswɑzɪlənd]",
+        "spell_ch" : "sī wēi shì lán"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_莱索托.png",
+        "name_ch" : "莱索托",
+        "name_en" : "Lesotho",
+        "spell_ep" : "[ləˈsuːtuː]",
+        "spell_ap" : "[ləˈsuːtuː]",
+        "spell_ch" : "lái suǒ tuō"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马达加斯加.png",
+        "name_ch" : "马达加斯加",
+        "name_en" : "Madagascar",
+        "spell_ep" : "[ˌmædəˈɡæskə(r)]",
+        "spell_ap" : "[ˌmædəˈɡæskər]",
+        "spell_ch" : "mǎ dá jiā sī jiā"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马拉维.png",
+        "name_ch" : "马拉维",
+        "name_en" : "Malawi",
+        "spell_ep" : "[məˈlɑːwi]",
+        "spell_ap" : "[məˈlɑwi]",
+        "spell_ch" : "mǎ lā wéi"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_科摩罗.png",
+        "name_ch" : "科摩罗",
+        "name_en" : "Comoros",
+        "spell_ep" : "[ˈkɒmərəʊz]",
+        "spell_ap" : "[kɔˈmɔˌroʊs]",
+        "spell_ch" : "kē mó luó"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_毛里求斯.png",
+        "name_ch" : "毛里求斯",
+        "name_en" : "Mauritius",
+        "spell_ep" : "[mə'rɪʃəs]",
+        "spell_ap" : "[mə'rɪʃɚs]",
+        "spell_ch" : "máo lǐ qiú sī"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_莫桑比克.png",
+        "name_ch" : "莫桑比克",
+        "name_en" : "Mozambique",
+        "spell_ep" : "[ˌməʊzæmˈbiːk]",
+        "spell_ap" : "[ˌmoʊzæmˈbiːk]",
+        "spell_ch" : "mò sāng bǐ kè"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_赞比亚.png",
+        "name_ch" : "赞比亚",
+        "name_en" : "Zambia",
+        "spell_ep" : "[ˈzæmbɪə]",
+        "spell_ap" : "[ˈzæmbiə]",
+        "spell_ch" : "zàn bǐ yà"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_津巴布韦.png",
+        "name_ch" : "津巴布韦",
+        "name_en" : "Zimbabwe",
+        "spell_ep" : "[zɪmˈbɑːbwi]",
+        "spell_ap" : "[zɪmˈbɑbweɪ]",
+        "spell_ch" : "jīn bā bù wéi"
+      }
+    ]
+  },
+  {
+    "backCardIndex" : 4,
+    "groupTitle_en" : "Oceania",
+    "groupTitle" : "大洋洲",
+    "isPro" : 1,
+    "LiteracyCardType" : 1,
+    "group_img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_大洋洲.png",
+    "items" : [
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_澳大利亚.png",
+        "name_ch" : "澳大利亚",
+        "name_en" : "Australia",
+        "spell_ep" : "[ɒ'streɪlɪə]",
+        "spell_ap" : "[ɔ'streljə]",
+        "spell_ch" : "ào dà lì yà"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_帕劳.png",
+        "name_ch" : "帕劳",
+        "name_en" : "Palau",
+        "spell_ep" : "[pəˈlaʊ]",
+        "spell_ap" : "[ˈpælaʊ]",
+        "spell_ch" : "pà láo"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_密克罗尼西亚联邦.png",
+        "name_ch" : "密克罗尼西亚联邦",
+        "name_en" : "The Federated States of Micronesia",
+        "spell_ep" : "[ðə ˈfedəreɪtɪd steɪts ɒv ˌmaɪkrəʊˈniːzɪə]",
+        "spell_ap" : "[ðə ˈfedəreɪtɪd steɪts əv ˌmaɪkroʊˈniʒə]",
+        "spell_ch" : "mì kè luó ní xī yà lián bāng"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_马绍尔群岛.png",
+        "name_ch" : "马绍尔群岛",
+        "name_en" : "Marshall Island",
+        "spell_ep" : "[ˈmɑ:ʃəl ˈaɪlənd]",
+        "spell_ap" : "[ˈmɑrʃəl ˈaɪlənd]",
+        "spell_ch" : "mǎ shào ěr qún dǎo"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_瑙鲁.png",
+        "name_ch" : "瑙鲁",
+        "name_en" : "Nauru",
+        "spell_ep" : "[nɑːˈuːruː]",
+        "spell_ap" : "[nɑːˈuːruː]",
+        "spell_ch" : "nǎo lǔ"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_巴布亚新几内亚.png",
+        "name_ch" : "巴布亚新几内亚",
+        "name_en" : "Papua New Guinea",
+        "spell_ep" : "[ˈpæpuːə njuː ˈɡɪni]",
+        "spell_ap" : "[ˈpæpjuə nuː ˈɡɪni]",
+        "spell_ch" : "bā bù yà xīn jǐ nèi yà"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_所罗门群岛.png",
+        "name_ch" : "所罗门群岛",
+        "name_en" : "Solomon Islands",
+        "spell_ep" : "[ˈsɒləmən ˈaɪləndz]",
+        "spell_ap" : "[ˈsɑːləmən ˈaɪləndz]",
+        "spell_ch" : "suǒ luó mén qún dǎo"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_瓦努阿图.png",
+        "name_ch" : "瓦努阿图",
+        "name_en" : "Vanuatu",
+        "spell_ep" : "[vænuːˈɑːtuː]",
+        "spell_ap" : "[vænuˈɑtu]",
+        "spell_ch" : "wǎ nǔ ā tú"
+      },
+      {
+        "back_color_type" : 1,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_图瓦卢.png",
+        "name_ch" : "图瓦卢",
+        "name_en" : "Tuvalu",
+        "spell_ep" : "[tuːˈvɑːluː]",
+        "spell_ap" : "[ˈtuvɑˌlu]    ",
+        "spell_ch" : "tú wǎ lú"
+      },
+      {
+        "back_color_type" : 2,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_斐济.png",
+        "name_ch" : "斐济",
+        "name_en" : "Fiji",
+        "spell_ep" : "[ˈfiːdʒiː]",
+        "spell_ap" : "[ˈfidʒi]",
+        "spell_ch" : "fěi jì"
+      },
+      {
+        "back_color_type" : 3,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_萨摩亚.png",
+        "name_ch" : "萨摩亚",
+        "name_en" : "Samoa",
+        "spell_ep" : "[səˈməʊə]",
+        "spell_ap" : "[səˈmoʊə]",
+        "spell_ch" : "sà mó yà"
+      },
+      {
+        "back_color_type" : 4,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_基里巴斯.png",
+        "name_ch" : "基里巴斯",
+        "name_en" : "Kiribati",
+        "spell_ep" : "[ˌkɪrɪˈbɑːti]",
+        "spell_ap" : "[ˌkɪˈrɪˈbɑti]",
+        "spell_ch" : "jī lǐ bā sī"
+      },
+      {
+        "back_color_type" : 5,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_汤加.png",
+        "name_ch" : "汤加",
+        "name_en" : "Tonga",
+        "spell_ep" : "['tɒŋgə]",
+        "spell_ap" : "['tɑŋgə]",
+        "spell_ch" : "tāng jiā"
+      },
+      {
+        "back_color_type" : 6,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_新西兰.png",
+        "name_ch" : "新西兰",
+        "name_en" : "New Zealand",
+        "spell_ep" : "[ˌnjuː ˈziːlənd]",
+        "spell_ap" : "[ˌnuː ˈziːlənd]",
+        "spell_ch" : "xīn xī lán"
+      },
+      {
+        "back_color_type" : 7,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_库克群岛.png",
+        "name_ch" : "库克群岛",
+        "name_en" : "The Cook Islands",
+        "spell_ep" : "[ðə kʊk ˈaɪləndz]",
+        "spell_ap" : "[ðə kʊk ˈaɪləndz]",
+        "spell_ch" : "kù kè qún dǎo"
+      },
+      {
+        "back_color_type" : 8,
+        "img" : "http:\/\/dvoyage.oss-cn-shenzhen.aliyuncs.com\/ChildLiteracyCard_纽埃.png",
+        "name_ch" : "纽埃",
+        "name_en" : "Niue",
+        "spell_ep" : "[ni:'u:ei]",
+        "spell_ap" : "[ni:'u:ei]",
+        "spell_ch" : "niǔ āi"
+      }
+    ]
+  }
+]

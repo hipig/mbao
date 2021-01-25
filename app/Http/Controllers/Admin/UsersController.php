@@ -25,6 +25,8 @@ class UsersController extends Controller
     {
         User::create($request->only([
             'name',
+            'nickname',
+            'phone',
             'email',
             'password',
         ]));
@@ -41,6 +43,8 @@ class UsersController extends Controller
     {
         $user->fill($request->only([
             'name',
+            'nickname',
+            'phone',
             'email',
         ]));
         if ($request->input('password')) {

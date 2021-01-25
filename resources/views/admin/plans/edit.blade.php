@@ -44,18 +44,18 @@
         <div class="ml-4 flex-1 bg-gray-200 h-px"></div>
       </div>
       <div class="grid grid-cols-6 gap-x-6">
-        @foreach($plan->features as $feature)
+        @foreach(\App\Models\PlanFeature::$featureMap as $key => $feature)
           <div class="col-span-6 sm:col-span-2">
-            @switch($feature->type)
+            @switch($feature['type'])
               @case('input')
-                <x-form.input label="{{ $feature->label }}" name="features[{{ $feature->key }}]" value="{{ $feature->value }}"></x-form.input>
+              <x-form.input label="{{ $feature['label'] }}" name="features[{{ $key }}]" value="{{ $features[$key] ?? '' }}"></x-form.input>
               @break
               @case('select')
-                <x-form.select label="{{ $feature->label }}" name="features[{{ $feature->key }}]">
-                  @foreach(\App\Models\PlanFeature::$statusMap as $k => $v)
-                    <option value="{{ $k }}" {{ $feature->value == $k ? 'selected' : '' }}>{{ $v }}</option>
-                  @endforeach
-                </x-form.select>
+              <x-form.select label="{{ $feature['label'] }}" name="features[{{ $key }}]">
+                @foreach(\App\Models\PlanFeature::$statusMap as $k => $v)
+                  <option value="{{ $k }}" {{ ($features[$key] ?? '') == $k ? 'selected' : '' }}>{{ $v }}</option>
+                @endforeach
+              </x-form.select>
               @break
             @endswitch
           </div>

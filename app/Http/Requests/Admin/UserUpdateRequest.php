@@ -15,14 +15,18 @@ class UserUpdateRequest extends FormRequest
     public function rules()
     {
         return [
-            'name' => 'required|max:255',
-            'email' => [
+            'name' => [
                 'required',
                 'string',
-                'email',
                 'max:255',
-                Rule::unique('users')->ignore($this->route('user'))
+                Rule::unique('users')->ignore($this->route('user')),
             ],
+            'phone' => [
+                'nullable',
+                'regex:/^((13[0-9])|(14[5,7])|(15[0-3,5-9])|(17[0,3,5-8])|(18[0-9])|166|198|199)\d{8}$/',
+                Rule::unique('users')->ignore($this->route('user')),
+            ],
+            'email' => 'nullable|string|email|max:255',
             'password' => 'nullable|string|confirmed|min:8',
         ];
     }

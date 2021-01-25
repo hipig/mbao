@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
+use App\Http\Controllers\Api;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,6 +15,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
+Route::prefix('v1')->as('api.v1.')->group(function() {
+
+    // 小程序登录
+    Route::post('weapp/authorizations', [Api\AuthorizationsController::class, 'weappStore'])->name('weapp.authorizations.store');
+
+    Route::get('card-groups', [Api\CardGroupsController::class, 'index'])->name('card-groups.index');
+    Route::get('cards', [Api\CardsController::class, 'index'])->name('cards.index');
+
+    Route::get('pages/{page:key}', [Api\PagesController::class, 'show'])->name('pages.show');
 });

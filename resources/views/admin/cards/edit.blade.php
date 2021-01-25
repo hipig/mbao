@@ -26,13 +26,13 @@
       <x-form.input label="英文名称" name="name_en" value="{{ $card->name_en }}" placeholder="请输入英文名称"></x-form.input>
       <div class="grid grid-cols-6 gap-x-6">
         <div class="col-span-6 sm:col-span-2">
-          <x-form.input label="中文拼写" name="spell_cn" value="{{ $card->spell_cn }}" placeholder="请输入中文拼写"></x-form.input>
+          <x-form.input label="中文发音" name="spell_cn" value="{{ $card->spell_cn }}" placeholder="请输入中文发音"></x-form.input>
         </div>
         <div class="col-span-6 sm:col-span-2">
-          <x-form.input label="美式拼写" name="spell_en" value="{{ $card->spell_en }}" placeholder="请输入美式拼写"></x-form.input>
+          <x-form.input label="美式发音" name="spell_us" value="{{ $card->spell_us }}" placeholder="请输入美式发音"></x-form.input>
         </div>
         <div class="col-span-6 sm:col-span-2">
-          <x-form.input label="英式拼写" name="spell_uk" value="{{ $card->spell_uk }}" placeholder="请输入英式拼写"></x-form.input>
+          <x-form.input label="英式发音" name="spell_uk" value="{{ $card->spell_uk }}" placeholder="请输入英式发音"></x-form.input>
         </div>
       </div>
       <x-form.filepond label="封面" name="cover" mine-type="image/*" value="{{ $card->cover }}" :image-preview="true"></x-form.filepond>

@@ -17,7 +17,9 @@
   </div>
   <x-card>
     <x-form action="{{ route('admin.users.store') }}">
-      <x-form.input label="昵称" name="name" placeholder="请输入昵称"></x-form.input>
+      <x-form.input label="用户名" name="name" placeholder="请输入用户名"></x-form.input>
+      <x-form.input label="昵称" name="nickname" placeholder="请输入昵称"></x-form.input>
+      <x-form.input label="手机号码" name="phone" placeholder="请输入手机号码"></x-form.input>
       <x-form.input label="邮箱地址" name="email" placeholder="请输入邮箱地址"></x-form.input>
       <x-form.input type="password" label="密码" name="password" placeholder="请输入密码">
         <x-slot name="left">

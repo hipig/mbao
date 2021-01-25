@@ -8,7 +8,7 @@
         <x-dropdown>
           <button type="button" class="inline-flex items-center rounded-full bg-white focus:outline-none">
             <img src="https://www.gravatar.com/avatar/64e1b8d34f425d19e1ee2ea7236d3028" alt="Profile Photo" class="h-8 w-8 object-cover rounded-full">
-            <span class="ml-2 hidden md:block">{{ Auth::user()->name }}</span>
+            <span class="ml-2 hidden md:block">{{ Auth::user()->nickname }}</span>
           </button>
           <x-slot name="menu">
             <div class="w-48 rounded-lg shadow-lg py-1 bg-white ring-1 ring-gray-400 ring-opacity-5 divide-y divide-gray-100">

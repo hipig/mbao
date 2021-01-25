@@ -9,9 +9,13 @@ class PlanFeature extends Model
 {
     use HasFactory;
 
+    const FEATURE_UNLOCK_CARD = 'unlock_card';
     const FEATURE_BLOCK_ADS = 'block_ads';
-
     public static $featureMap = [
+        self::FEATURE_UNLOCK_CARD => [
+            'label' => '解锁卡片',
+            'type' => 'select',
+        ],
         self::FEATURE_BLOCK_ADS => [
             'label' => '屏蔽广告',
             'type' => 'select',

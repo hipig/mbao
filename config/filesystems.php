@@ -58,6 +58,13 @@ return [
             'visibility' => 'public',
             'url' => env('APP_URL').'/uploads',
         ],
+
+        'audio' => [
+            'driver' => 'local',
+            'root' => public_path('audios'),
+            'visibility' => 'public',
+            'url' => env('APP_URL').'/audios',
+        ]
     ],
 
     /*

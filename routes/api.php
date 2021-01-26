@@ -21,7 +21,9 @@ Route::prefix('v1')->as('api.v1.')->group(function() {
     Route::post('weapp/authorizations', [Api\AuthorizationsController::class, 'weappStore'])->name('weapp.authorizations.store');
 
     Route::get('card-groups', [Api\CardGroupsController::class, 'index'])->name('card-groups.index');
+
     Route::get('cards', [Api\CardsController::class, 'index'])->name('cards.index');
+    Route::post('cards/{card}/audio', [Api\CardsController::class, 'toAudio'])->name('cards.toAudio');
 
     Route::get('pages/{page:key}', [Api\PagesController::class, 'show'])->name('pages.show');
 });

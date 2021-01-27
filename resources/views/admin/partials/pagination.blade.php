@@ -24,14 +24,14 @@
 
     <div class="hidden sm:flex-1 sm:flex sm:items-center sm:justify-between">
       <div>
-        <p class="text-gray-700 leading-5">
-          {!! __('Showing') !!}
+        <p class="text-gray-500 leading-5">
+          显示第
           <span class="font-medium">{{ $paginator->firstItem() }}</span>
-          {!! __('to') !!}
+          至
           <span class="font-medium">{{ $paginator->lastItem() }}</span>
-          {!! __('of') !!}
+          共
           <span class="font-medium">{{ $paginator->total() }}</span>
-          {!! __('results') !!}
+          条数据
         </p>
       </div>
 

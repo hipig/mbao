@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">添加卡片</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.cards.store') }}">
+    <x-form action="{{ route('admin.cards.store') }}" class="space-y-5">
       <x-form.select label="分组" name="group_id" placeholder="请选择分组">
         @foreach($cardGroups as $cardGroup)
           <option value="{{ $cardGroup->id }}">{{ $cardGroup->name }}</option>

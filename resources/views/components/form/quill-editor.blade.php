@@ -10,7 +10,7 @@
   @endonce
 @endpush
 
-<div class="mb-5" x-data="{ content: '' }" x-init="
+<div class="flex flex-col" x-data="{ content: '' }" x-init="
 		quill = new Quill($refs.quillEditor, {
 			modules: {
         toolbar: {
@@ -31,11 +31,7 @@
     });
     content = quill.root.innerHTML;
 ">
-  @if($label ?? null)
-    <label for="{{ $name }}" class="form-label block mb-1 font-semibold text-gray-700">
-      {{ $label }}
-    </label>
-  @endif
+  <x-form-label label="{{ $label ?? null }}" for="{{ $name }}" class="{{ $labelClass ?? '' }}"></x-form-label>
 
   <div class="relative">
     <input type="hidden" name="{{ $name }}" :value="content">
@@ -52,6 +48,10 @@
       </div>
     @enderror
   </div>
+
+  @isset($hint)
+    <div class="text-sm text-gray-500 mt-2 leading-tight">{!! $hint !!}</div>
+  @endisset
 
   @error($name)
     <div class="text-red-600 mt-2 text-sm block leading-tight error-text">{{ $message }}</div>

@@ -21,9 +21,11 @@ class StatusConvert
      */
     public function handle(Request $request, Closure $next)
     {
-        foreach ($this->boolean as $key) {
-            if ($request->has($key)) {
-                $request->offsetSet($key, $request->boolean($key));
+        if ($request->isMethod('post')) {
+            foreach ($this->boolean as $key) {
+                if ($request->has($key)) {
+                    $request->offsetSet($key, $request->boolean($key));
+                }
             }
         }
 

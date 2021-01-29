@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">添加页面</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.pages.store') }}">
+    <x-form action="{{ route('admin.pages.store') }}" class="space-y-5">
       <x-form.input label="名称" name="name" placeholder="请输入名称"></x-form.input>
       <x-form.input label="标识" name="key" placeholder="请输入标识"></x-form.input>
       <x-form.quill-editor label="内容" name="content" placeholder="请输入内容"></x-form.quill-editor>

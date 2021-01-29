@@ -5,15 +5,15 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\PlanCreateRequest;
 use App\Http\Requests\Admin\PlanUpdateRequest;
+use App\ModelFilters\Admin\PlanFilter;
 use App\Models\Plan;
-use App\Models\PlanFeature;
 use Illuminate\Http\Request;
 
 class PlansController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $plans = Plan::query()->latest()->paginate();
+        $plans = Plan::filter($request->all(), PlanFilter::class)->latest()->paginate();
         return view('admin.plans.index', compact('plans'));
     }
 

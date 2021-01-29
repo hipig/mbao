@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use App\Models\Card;
 use App\Models\CardGroup;
 use Illuminate\Database\Seeder;
-use Illuminate\Http\File;
+use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
@@ -33,7 +33,7 @@ class CardSeeder extends Seeder
                 'name' => $item['groupTitle'],
                 'name_en' => $item['groupTitle_en'],
                 'cover' => $this->putImage($item['group_img']),
-                'color' => array_rand($colors),
+                'color' => Arr::random($colors),
                 'is_pro' => $item['isPro'],
             ]);
 

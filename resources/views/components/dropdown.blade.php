@@ -21,7 +21,7 @@
     x-transition:leave-start="opacity-100 transform scale-100"
     x-transition:leave-end="opacity-0 transform scale-95"
     @click.away="open = false"
-    class="absolute {{ $alignClasses[$align] }} z-20  mt-2"
+    class="absolute top-full {{ $alignClasses[$align] }} z-20 mt-2"
   >
     {{ $menu }}
   </div>

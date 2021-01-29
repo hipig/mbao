@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">添加用户</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.users.store') }}">
+    <x-form action="{{ route('admin.users.store') }}" class="space-y-5">
       <x-form.input label="用户名" name="name" placeholder="请输入用户名"></x-form.input>
       <x-form.input label="昵称" name="nickname" placeholder="请输入昵称"></x-form.input>
       <x-form.input label="手机号码" name="phone" placeholder="请输入手机号码"></x-form.input>

@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">编辑 {{ $user->nickname }}</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.users.update', $user) }}" method="put">
+    <x-form action="{{ route('admin.users.update', $user) }}" method="put" class="space-y-5">
       <x-form.display label="用户名" name="name" value="{{ $user->name }}" placeholder="请输入用户名"></x-form.display>
       <x-form.input label="昵称" name="nickname" value="{{ $user->nickname }}" placeholder="请输入昵称"></x-form.input>
       <x-form.input label="手机号码" name="phone" value="{{ $user->phone }}" placeholder="请输入手机号码"></x-form.input>

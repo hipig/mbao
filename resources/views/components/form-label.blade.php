@@ -1,6 +1,11 @@
-<div class="mb-5">
+<div class="flex flex-col">
   @if($label ?? null)
-    <label class="form-label block mb-1 font-semibold text-gray-700">
+    <label
+      for="{{ $for ?? '' }}"
+      {{ $attributes->merge([
+        'class' => 'block mb-1 text-gray-700 font-semibold'
+      ])}}
+    >
       {{ $label }}
     </label>
   @endif

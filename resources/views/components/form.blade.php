@@ -18,11 +18,11 @@
   method="{{ \Illuminate\Support\Str::lower($method) === 'get' ? 'get' : 'post' }}"
   {{ $attributes }}
   onsubmit="event.submitter.disabled = true; event.submitter.innerHTML = spinSvg">
-  @csrf
-
-  @if (!in_array(\Illuminate\Support\Str::lower($method), ['get', 'post']))
-    @method($method)
-  @endif
-
+  <div hidden>
+    @if (\Illuminate\Support\Str::lower($method) !== 'get')
+      @csrf
+      @method($method)
+    @endif
+  </div>
   {{ $slot }}
 </form>

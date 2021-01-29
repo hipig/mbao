@@ -1,9 +1,6 @@
-<div class="mb-5">
-  @if($label ?? null)
-    <label class="form-label block mb-1 font-semibold text-gray-700">
-      {{ $label }}
-    </label>
-  @endif
+<div class="flex flex-col">
+  <x-form-label label="{{ $label ?? null }}" for="{{ $name }}" class="{{ $labelClass ?? '' }}"></x-form-label>
+
   <span
     {{ $attributes }}
     x-data="{ isOn: false }"

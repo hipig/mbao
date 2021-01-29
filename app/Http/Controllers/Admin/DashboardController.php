@@ -24,6 +24,10 @@ class DashboardController extends Controller
             'pages' => Page::query()->count(),
         ];
 
-        return view('admin.dashboard.index', compact('stats'));
+        $newUsers = User::query()->latest()->take(10)->latest()->get();
+
+        $newSubscriptions = Subscription::query()->latest()->take(10)->latest()->get();
+
+        return view('admin.dashboard.index', compact('stats', 'newUsers', 'newSubscriptions'));
     }
 }

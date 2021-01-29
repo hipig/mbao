@@ -24,9 +24,16 @@ class PlanSeeder extends Seeder
             'description' => '默认方案',
         ]);
 
-        $plan->features()->create([
-            'key' => 'block_ads',
-            'value' => PlanFeature::STATUS_DISABLE
-        ]);
+        $plan_id = $plan->getKey();
+        foreach (PlanFeature::$featureMap as $key => $feature) {
+            switch ($feature['type']) {
+                case 'select':
+                    $value = PlanFeature::STATUS_DISABLE;
+                    break;
+                default:
+                    $value = '';
+            }
+            $plan->features()->updateOrCreate(compact('plan_id', 'key'), compact('plan_id', 'key', 'value'));
+        }
     }
 }

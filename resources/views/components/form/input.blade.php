@@ -1,9 +1,5 @@
-<div class="mb-5">
-  @if($label ?? null)
-    <label for="{{ $name }}" class="form-label block mb-1 font-semibold text-gray-700">
-      {{ $label }}
-    </label>
-  @endif
+<div class="flex flex-col">
+  <x-form-label label="{{ $label ?? null }}" for="{{ $name }}" class="{{ $labelClass ?? '' }}"></x-form-label>
 
   <div class="flex rounded-md shadow-sm">
     {{ $left ?? '' }}
@@ -13,12 +9,12 @@
           id="{{ $name }}"
           autocomplete="off"
           type="{{ $type ?? 'text' }}"
-          class="block w-full {{ isset($left) ? 'rounded-r-md' : 'rounded-md' }} leading-snug {{ $errors->has($name) ? ' focus:ring-red-500 focus:border-red-500 border-red-500 bg-red-100 pr-10' : ' focus:ring-indigo-500 focus:border-indigo-500 border-gray-300' }}"
           name="{{ $name }}"
           placeholder="{{ $placeholder ?? '' }}"
           value="{{ old($name, $value ?? '') }}"
-          {{ ($required ?? false) ? 'required' : '' }}
-          {{ $attributes }}
+          {{ $attributes->merge([
+            'class' => 'block w-full rounded-md leading-snug ' . (isset($left) ? 'rounded-l-none' : '') . (isset($right) ? 'rounded-r-none' : '') . ($errors->has($name) ? ' focus:ring-red-500 focus:border-red-500 border-red-500 bg-red-100 pr-10' : ' focus:ring-indigo-500 focus:border-indigo-500 border-gray-300')
+          ])}}
         >
 
         @error($name)
@@ -31,10 +27,11 @@
         @enderror
       </div>
     </div>
+    {{ $right ?? '' }}
   </div>
 
   @isset($hint)
-    <div class="text-sm text-gray-500 my-2 leading-tight">{!! $hint !!}</div>
+    <div class="text-sm text-gray-500 mt-2 leading-tight">{!! $hint !!}</div>
   @endisset
 
   @error($name)

@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">编辑 {{ $page->name }}</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.pages.update', $page) }}" method="put">
+    <x-form action="{{ route('admin.pages.update', $page) }}" method="put" class="space-y-5">
       <x-form.input label="名称" name="name" value="{{ $page->name }}" placeholder="请输入名称"></x-form.input>
       <x-form.input label="标识" name="key" value="{{ $page->key }}" placeholder="请输入标识"></x-form.input>
       <x-form.quill-editor label="内容" name="content" value="{!! $page->content !!}" placeholder="请输入内容"></x-form.quill-editor>

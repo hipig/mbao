@@ -1,19 +1,16 @@
-<div class="mb-5">
-  @if($label ?? null)
-    <label for="{{ $name }}" class="form-label block mb-1 font-semibold text-gray-700">
-      {{ $label }}
-    </label>
-  @endif
+<div class="flex flex-col">
+  <x-form-label label="{{ $label ?? null }}" for="{{ $name }}" class="{{ $labelClass ?? '' }}"></x-form-label>
 
   <div class="relative">
     <textarea
       id="{{ $id ?? $name }}"
       rows="{{ $rows ?? 3 }}"
       autocomplete="off"
-      class="block w-full shadow-sm rounded-md leading-snug {{ $errors->has($name) ? 'focus:ring-red-500 focus:border-red-500 border-red-500 bg-red-100 pr-10' : 'focus:ring-indigo-500 focus:border-indigo-500 border-gray-300' }}"
       name="{{ $name }}"
       placeholder="{{ $placeholder ?? '' }}"
-			{{ ($required ?? false) ? 'required' : '' }}
+      {{ $attributes->merge([
+        'class' => 'block w-full shadow-sm rounded-md leading-snug ' . ($errors->has($name) ? 'focus:ring-red-500 focus:border-red-500 border-red-500 bg-red-100 pr-10' : 'focus:ring-indigo-500 focus:border-indigo-500 border-gray-300')
+      ])}}
     >{{ old($name, $value ?? '') }}</textarea>
 
     @error($name)
@@ -27,7 +24,7 @@
   </div>
 
   @isset($hint)
-    <div class="text-sm text-gray-500 my-2 leading-tight help-text">{!! $hint !!}</div>
+    <div class="text-sm text-gray-500 mt-2 leading-tight help-text">{!! $hint !!}</div>
   @endisset
 
   @error($name)

@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">添加方案</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.plans.store') }}">
+    <x-form action="{{ route('admin.plans.store') }}" class="space-y-5">
       <x-form.input label="名称" name="name" placeholder="请输入名称"></x-form.input>
       <x-form.input label="标识" name="key" placeholder="请输入标识"></x-form.input>
       <x-form.input label="价格" name="price" placeholder="请输入价格">

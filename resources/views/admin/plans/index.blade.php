@@ -16,6 +16,15 @@
     <x-button to="{{ route('admin.plans.create') }}" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">添加</x-button>
   </div>
   <x-card title="方案列表">
+    <x-slot name="action">
+      <x-table.filter>
+        <x-form.select label="状态" label-class="text-sm" name="status" placeholder="请选择状态" class="py-1 px-2 text-sm">
+          <option value="all" {{ request()->query('status') === 'all' ? 'selected' : '' }}>全部</option>
+          <option value="enable" {{ request()->query('status') === 'enable' ? 'selected' : '' }}>启用</option>
+          <option value="disable" {{ request()->query('status') === 'disable' ? 'selected' : '' }}>禁用</option>
+        </x-form.select>
+      </x-table.filter>
+    </x-slot>
     <div class="-m-5">
       <table class="w-full whitespace-nowrap border-collapse">
         <thead>

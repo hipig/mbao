@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\SubscriptionCreateRequest;
+use App\ModelFilters\Admin\SubscriptionFilter;
 use App\Models\Plan;
 use App\Models\Subscription;
 use App\Models\User;
@@ -11,9 +12,9 @@ use Illuminate\Http\Request;
 
 class SubscriptionsController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $subscriptions = Subscription::query()->with(['user', 'plan'])->latest()->paginate();
+        $subscriptions = Subscription::filter($request->all(), SubscriptionFilter::class)->with(['user', 'plan'])->latest()->paginate();
         return view('admin.subscriptions.index', compact('subscriptions'));
     }
 

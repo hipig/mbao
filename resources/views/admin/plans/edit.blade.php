@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">编辑 {{ $plan->name }}</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.plans.update', $plan) }}" method="put">
+    <x-form action="{{ route('admin.plans.update', $plan) }}" method="put" class="space-y-5">
       <x-form.input label="名称" name="name" value="{{ $plan->name }}" placeholder="请输入名称"></x-form.input>
       <x-form.display label="标识" name="key" value="{{ $plan->key }}" placeholder="请输入标识"></x-form.display>
       <x-form.input label="价格" name="price" value="{{ $plan->price }}" placeholder="请输入价格">

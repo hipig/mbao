@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">编辑卡片</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.cards.update', $card) }}" method="put">
+    <x-form action="{{ route('admin.cards.update', $card) }}" method="put" class="space-y-5">
       <x-form.select label="分组" name="group_id" placeholder="请选择分组">
         @foreach($cardGroups as $cardGroup)
           <option value="{{ $cardGroup->id }}" {{ $cardGroup->id == $card->group_id ? 'selected' : '' }}>{{ $cardGroup->name }}</option>

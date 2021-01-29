@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">添加订阅</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.subscriptions.store') }}">
+    <x-form action="{{ route('admin.subscriptions.store') }}" class="space-y-5">
       <x-form.select label="方案" name="plan_id" placeholder="请选择方案">
         @foreach($plans as $plan)
           <option value="{{ $plan->id }}">{{ $plan->name }}</option>

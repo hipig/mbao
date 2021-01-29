@@ -16,7 +16,7 @@
     <h1 class="text-3xl text-gray-900">添加卡片分组</h1>
   </div>
   <x-card>
-    <x-form action="{{ route('admin.card-groups.store') }}">
+    <x-form action="{{ route('admin.card-groups.store') }}" class="space-y-5">
       <x-form.input label="名称" name="name" placeholder="请输入名称"></x-form.input>
       <x-form.input label="英文名称" name="name_en" placeholder="请输入英文名称"></x-form.input>
       <x-form.filepond label="封面" name="cover" mine-type="image/*" :image-preview="true"></x-form.filepond>

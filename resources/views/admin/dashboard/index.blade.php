@@ -68,13 +68,69 @@
   </div>
   <div class="flex flex-wrap -mx-4">
     <div class="w-full md:w-1/2 px-4 mb-4">
-      <x-card title="最近注册">
-        <div class="h-64"></div>
+      <x-card>
+        <div class="-m-5">
+          <div class=" flex items-center justify-between py-3 px-5">
+            <span class="text-gray-900 text-lg">最近注册</span>
+          </div>
+          <div class="flex flex-col">
+            @forelse($newUsers as $user)
+              <div class="border-t border-gray-100 py-3 flex items-center">
+                <div class="px-5 flex-1">
+                  <div class="flex items-center">
+                    <div class="mr-3">
+                      <img class="h-8 w-8 rounded-full" src="{{ $user->avatar_url }}" alt="{{ $user->name }}">
+                    </div>
+                    <div class="flex flex-col">
+                      <a href="{{ route('admin.users.edit', $user) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $user->name }}</a>
+                      <span class="text-gray-500">{{ $user->nickname }}</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="px-5">
+                  <div class="flex items-center space-x-2">
+                    <x-button to="{{ route('admin.users.edit', $user) }}" size="text-sm py-1 px-3" class="border-indigo-600 text-indigo-600 bg-transparent hover:text-white hover:bg-indigo-600 focus:ring-indigo-600">编辑</x-button>
+                  </div>
+                </div>
+              </div>
+            @empty
+              <div class="px-5 py-10 text-gray-500 text-center">暂无数据。</div>
+            @endforelse
+          </div>
+        </div>
       </x-card>
     </div>
     <div class="w-full md:w-1/2 px-4 mb-4">
-      <x-card title="最近订阅">
-        <div class="h-64"></div>
+      <x-card>
+        <div class="-m-5">
+          <div class=" flex items-center justify-between py-3 px-5">
+            <span class="text-gray-900 text-lg">最近订阅</span>
+          </div>
+          <div class="flex flex-col">
+            @forelse($newSubscriptions as $subscription)
+              <div class="border-t border-gray-100 py-3 flex items-center">
+                <div class="px-5 flex-1">
+                  <div class="flex items-center">
+                    <div class="mr-3">
+                      <img class="h-8 w-8 rounded-full" src="{{ $subscription->user->avatar_url }}" alt="{{ $subscription->user->name }}">
+                    </div>
+                    <div class="flex flex-col">
+                      <a href="{{ route('admin.users.edit', $subscription->user) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $subscription->user->name }}</a>
+                      <span class="text-gray-500 text-sm">{{ $subscription->plan->name }}</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="px-5">
+                  <div class="flex items-center space-x-2">
+                    <x-button to="#" size="text-sm py-1 px-3" class="border-gray-800 text-gray-800 bg-transparent hover:text-white hover:bg-gray-800 focus:ring-gray-800">详情</x-button>
+                  </div>
+                </div>
+              </div>
+            @empty
+              <div class="px-5 py-10 text-gray-500 text-center">暂无数据。</div>
+            @endforelse
+          </div>
+        </div>
       </x-card>
     </div>
   </div>

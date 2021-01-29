@@ -37,7 +37,7 @@
   $selector = 'filepond-' . $name;
 @endphp
 
-<div class="mb-5" x-data="{path: '', filepond: null}" x-init="
+<div class="flex flex-col" x-data="{path: '', filepond: null}" x-init="
   FilePond.setOptions({
     server: {
       url: '/admin/filepond',
@@ -58,11 +58,7 @@
   });
   filepond = FilePond.create($refs[`{{ $selector }}`], JSON.parse(`{{ json_encode($options) }}`));
   " x-cloak>
-  @if($label ?? null)
-    <label for="{{ $name }}" class="form-label block mb-1 font-semibold text-gray-700">
-      {{ $label }}
-    </label>
-  @endif
+  <x-form-label label="{{ $label ?? null }}" for="{{ $name }}" class="{{ $labelClass ?? '' }}"></x-form-label>
 
   <div class="relative">
     <input x-ref="{{ $selector }}" type="file" class="{{ $errors->has($name) ? 'filepond-has-error' : '' }}">
@@ -79,7 +75,7 @@
   </div>
 
   @isset($hint)
-    <div class="text-sm text-gray-500 my-2 leading-tight help-text">{{ $hint }}</div>
+    <div class="text-sm text-gray-500 mt-2 leading-tight help-text">{{ $hint }}</div>
   @endisset
 
   @error($name)

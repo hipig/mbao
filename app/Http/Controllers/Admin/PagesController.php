@@ -5,14 +5,15 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\PageCreateRequest;
 use App\Http\Requests\Admin\PageUpdateRequest;
+use App\ModelFilters\Admin\PageFilter;
 use App\Models\Page;
 use Illuminate\Http\Request;
 
 class PagesController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $pages = Page::query()->latest()->paginate();
+        $pages = Page::filter($request->all(), PageFilter::class)->latest()->paginate();
         return view('admin.pages.index', compact('pages'));
     }
 

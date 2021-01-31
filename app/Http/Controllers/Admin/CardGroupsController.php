@@ -4,14 +4,15 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\CardGroupRequest;
+use App\ModelFilters\Admin\CardGroupFilter;
 use App\Models\CardGroup;
 use Illuminate\Http\Request;
 
 class CardGroupsController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        $cardGroups = CardGroup::query()->withCount('cards')->latest()->paginate();
+        $cardGroups = CardGroup::filter($request->all(), CardGroupFilter::class)->withCount('cards')->latest()->paginate();
         return view('admin.card-groups.index', compact('cardGroups'));
     }
 

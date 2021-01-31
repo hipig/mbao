@@ -30,13 +30,23 @@ class SubscriptionFilter extends ModelFilter
         });
     }
 
+    public function plan($plan)
+    {
+        return $this->whereHas('plan', function (Builder $query) use ($plan) {
+            $query->where('plan_id', $plan);
+        });
+    }
+
     public function status($status)
     {
         $now = Carbon::now();
 
         switch ($status) {
             case 'active':
-                $this->where('started_at', '<', $now)->where('ended_at', '>', $now);
+                $this->whereNull('ended_at')
+                    ->orWhere(function (Builder $query) use ($now) {
+                        $query->where('started_at', '<', $now)->where('ended_at', '>', $now);
+                    });
                 break;
             case 'inactive':
                 $this->where('started_at', '>', $now);

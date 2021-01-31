@@ -962,7 +962,7 @@
             "dist": {
                 "type": "path",
                 "url": "packages/laravel-tts",
-                "reference": "a437a25a98fb12f811434b9d6f17234d45084c57"
+                "reference": "17c8d7077b5aba313baa43ae4a80caec1b63d100"
             },
             "require": {
                 "ext-json": "*",

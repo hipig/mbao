@@ -4,7 +4,7 @@ namespace App\ModelFilters\Admin;
 
 use EloquentFilter\ModelFilter;
 
-class PlanFilter extends ModelFilter
+class CardFilter extends ModelFilter
 {
     /**
     * Related Models that have ModelFilters as well as the method on the ModelFilter
@@ -16,7 +16,18 @@ class PlanFilter extends ModelFilter
 
     public function search($search)
     {
-        return $this->where('name', 'like', '%' . $search . '%');
+        return $this->where('name', 'like', '%' . $search . '%')
+            ->orWhere('name_en', 'like', '%' . $search . '%');
+    }
+
+    public function group($group)
+    {
+        return $this->where('group_id', $group);
+    }
+
+    public function color($color)
+    {
+        return $this->where('color', $color);
     }
 
     public function status($status)

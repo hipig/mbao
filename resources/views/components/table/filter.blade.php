@@ -12,8 +12,11 @@
           </span>
           <x-slot name="menu">
             <div class="w-64 rounded-lg shadow-lg py-1 bg-white ring-1 ring-gray-400 ring-opacity-5 divide-y divide-gray-100">
-              <div class="px-5 py-2 text-gray-900">筛选</div>
-              <div class="px-5 py-2 space-y-5">
+              <div class="flex items-center justify-between px-5 py-2">
+                <span class="text-gray-900">筛选</span>
+                <a href="{{ request()->url() }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">重置</a>
+              </div>
+              <div class="px-5 py-2 space-y-4">
                 {{ $slot }}
                 <x-button type="submit" size="text-sm py-1 px-3" class="w-full text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">
                   <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

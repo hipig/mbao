@@ -19,9 +19,9 @@
     <x-slot name="action">
       <x-table.filter>
         <x-form.select label="状态" label-class="text-sm" name="status" placeholder="请选择状态" class="py-1 px-2 text-sm">
-          <option value="all" {{ request()->query('status') === 'all' ? 'selected' : '' }}>全部</option>
-          <option value="enable" {{ request()->query('status') === 'enable' ? 'selected' : '' }}>启用</option>
-          <option value="disable" {{ request()->query('status') === 'disable' ? 'selected' : '' }}>禁用</option>
+          <option value="">全部</option>
+          <option value="enable" {{ request()->input('status') == 'enable' ? 'selected' : '' }}>启用</option>
+          <option value="disable" {{ request()->input('status') == 'disable' ? 'selected' : '' }}>禁用</option>
         </x-form.select>
       </x-table.filter>
     </x-slot>
@@ -83,7 +83,7 @@
         </tbody>
       </table>
       <div class="px-5 py-4">
-        {{ $plans->links('admin.partials.pagination') }}
+        {{ $plans->withQueryString()->links('admin.partials.pagination') }}
       </div>
       <x-table.action-delete title="删除方案" content="存在已生效的订阅记录时，将不能删除"></x-table.action-delete>
     </div>

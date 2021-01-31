@@ -47,7 +47,7 @@ class CardSeeder extends Seeder
                         'spell_us' => $cardItem['spell_ap'],
                         'spell_uk' => $cardItem['spell_ep'],
                         'cover' => $this->putImage($cardItem['img']),
-                        'color' => $colors[$cardItem['back_color_type']] ?? Card::COLOR_INDIGO,
+                        'color' => Arr::random($colors),
                     ]);
                 }
             }

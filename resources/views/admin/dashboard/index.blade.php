@@ -94,7 +94,7 @@
                 </div>
               </div>
             @empty
-              <div class="px-5 py-10 text-gray-500 text-center">暂无数据。</div>
+              <div class="px-5 py-6 border-t border-gray-100 text-gray-500 text-center">暂无数据。</div>
             @endforelse
           </div>
         </div>
@@ -127,7 +127,7 @@
                 </div>
               </div>
             @empty
-              <div class="px-5 py-10 text-gray-500 text-center">暂无数据。</div>
+              <div class="px-5 py-6 border-t border-gray-100 text-gray-500 text-center">暂无数据。</div>
             @endforelse
           </div>
         </div>

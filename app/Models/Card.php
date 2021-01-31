@@ -4,12 +4,13 @@ namespace App\Models;
 
 use App\Models\Traits\CoverAttribute;
 use App\Models\Traits\StatusScope;
+use EloquentFilter\Filterable;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Card extends Model
 {
-    use HasFactory, StatusScope, CoverAttribute;
+    use HasFactory, Filterable, StatusScope, CoverAttribute;
 
     const COLOR_RED = 'red';
     const COLOR_YELLOW = 'yellow';

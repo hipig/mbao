@@ -7,7 +7,7 @@
       @auth
         <x-dropdown>
           <button type="button" class="inline-flex items-center rounded-full bg-white focus:outline-none">
-            <img src="https://www.gravatar.com/avatar/64e1b8d34f425d19e1ee2ea7236d3028" alt="Profile Photo" class="h-8 w-8 object-cover rounded-full">
+            <x-image class="h-8 w-8 rounded-full" src="{{ Auth::user()->avatar_url }}" alt="{{ Auth::user()->nickname }}"></x-image>
             <span class="ml-2 hidden md:block">{{ Auth::user()->nickname }}</span>
           </button>
           <x-slot name="menu">

@@ -54,17 +54,17 @@ class Subscription extends Model
 
     public function active()
     {
-        return is_null($this->ended_at) || Carbon::now()->lte($this->ended_at);
+        return is_null($this->ended_at) || (Carbon::now()->lt($this->ended_at) && Carbon::now()->gt($this->ended_at));
     }
 
     public function expire()
     {
-        return !$this->active();
+        return Carbon::now()->gt($this->ended_at);
     }
 
     public function inactive()
     {
-        return Carbon::now()->gte($this->started_at);
+        return Carbon::now()->lt($this->started_at);
     }
 
     public function getStatusAttribute()

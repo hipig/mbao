@@ -18,10 +18,16 @@
   <x-card title="订阅列表">
     <x-slot name="action">
       <x-table.filter>
+        <x-form.select label="方案" label-class="text-sm" name="plan_id" placeholder="请选择方案" class="py-1 px-2 text-sm">
+          <option value="">全部</option>
+          @foreach($plans as $plan)
+            <option value="{{ $plan->id }}" {{ request()->input('plan_id') == $plan->id ? 'selected' : '' }}>{{ $plan->name }}</option>
+          @endforeach
+        </x-form.select>
         <x-form.select label="状态" label-class="text-sm" name="status" placeholder="请选择状态" class="py-1 px-2 text-sm">
-          <option value="all" {{ request()->query('status') == 'all' ? 'selected' : '' }}>全部</option>
+          <option value="">全部</option>
           @foreach(\App\Models\Subscription::$statusMap as $key => $label)
-            <option value="{{ $key }}" {{ request()->query('status') === $key ? 'selected' : '' }}>{{ $label }}</option>
+            <option value="{{ $key }}" {{ request()->input('status') == $key ? 'selected' : '' }}>{{ $label }}</option>
           @endforeach
         </x-form.select>
       </x-table.filter>
@@ -45,9 +51,7 @@
             </td>
             <td class="px-5 py-3 border-b border-gray-100">
               <div class="flex items-center">
-                <div class="mr-3">
-                  <img class="h-6 w-6 rounded-full" src="{{ Avatar::create($subscription->user->name)->toBase64() }}" alt="{{ $subscription->user->name }}">
-                </div>
+                <x-image class="w-12 h-12 mr-3 rounded-full" src="{{ $subscription->user->avatar_url }}" alt="{{ $subscription->user->nickname }}"></x-image>
                 <a href="{{ route('admin.users.edit', $subscription->user) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $subscription->user->name }}</a>
               </div>
             </td>
@@ -78,7 +82,7 @@
         </tbody>
       </table>
       <div class="px-5 py-4">
-        {{ $subscriptions->links('admin.partials.pagination') }}
+        {{ $subscriptions->withQueryString()->links('admin.partials.pagination') }}
       </div>
     </div>
   </x-card>

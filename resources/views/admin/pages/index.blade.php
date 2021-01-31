@@ -16,6 +16,15 @@
     <x-button to="{{ route('admin.pages.create') }}" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">添加</x-button>
   </div>
   <x-card title="页面列表">
+    <x-slot name="action">
+      <x-table.filter>
+        <x-form.select label="状态" label-class="text-sm" name="status" placeholder="请选择状态" class="py-1 px-2 text-sm">
+          <option value="">全部</option>
+          <option value="enable" {{ request()->input('status') == 'enable' ? 'selected' : '' }}>启用</option>
+          <option value="disable" {{ request()->input('status') == 'disable' ? 'selected' : '' }}>禁用</option>
+        </x-form.select>
+      </x-table.filter>
+    </x-slot>
     <div class="-m-5">
       <table class="table-fixed w-full">
         <thead>
@@ -60,7 +69,7 @@
         </tbody>
       </table>
       <div class="px-5 py-4">
-        {{ $pages->links('admin.partials.pagination') }}
+        {{ $pages->withQueryString()->links('admin.partials.pagination') }}
       </div>
       <x-table.action-delete title="删除页面" content="请确认是否删除页面？"></x-table.action-delete>
     </div>

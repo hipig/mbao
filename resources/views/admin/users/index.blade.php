@@ -16,6 +16,9 @@
     <x-button to="{{ route('admin.users.create') }}" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">添加</x-button>
   </div>
   <x-card title="用户列表">
+    <x-slot name="action">
+      <x-table.filter></x-table.filter>
+    </x-slot>
     <div class="-m-5">
       <table class="w-full whitespace-nowrap border-collapse">
         <thead>
@@ -32,9 +35,7 @@
           <tr>
             <td class="px-5 py-3 border-b border-gray-100">
               <div class="flex items-center">
-                <div class="mr-3">
-                  <img class="h-8 w-8 rounded-full" src="{{ $user->avatar_url }}" alt="{{ $user->name }}">
-                </div>
+                <x-image class="w-12 h-12 mr-3 rounded-full" src="{{ $user->avatar_url }}" alt="{{ $user->nickname }}"></x-image>
                 <div class="flex flex-col">
                   <a href="{{ route('admin.users.edit', $user) }}" class="text-indigo-600 hover:text-indigo-700 hover:underline">{{ $user->name }}</a>
                   <span class="text-gray-500">{{ $user->nickname }}</span>
@@ -58,7 +59,7 @@
         </tbody>
       </table>
       <div class="px-5 py-4">
-        {{ $users->links('admin.partials.pagination') }}
+        {{ $users->withQueryString()->links('admin.partials.pagination') }}
       </div>
     </div>
   </x-card>

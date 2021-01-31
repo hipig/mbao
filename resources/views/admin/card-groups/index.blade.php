@@ -16,6 +16,26 @@
     <x-button to="{{ route('admin.card-groups.create') }}" class="text-white bg-indigo-600 hover:bg-indigo-500 focus:ring-indigo-600">添加</x-button>
   </div>
   <x-card title="卡片分组列表">
+    <x-slot name="action">
+      <x-table.filter>
+        <x-form.select label="颜色样式" label-class="text-sm" name="color" placeholder="请选择颜色样式" class="py-1 px-2 text-sm">
+          <option value="">全部</option>
+          @foreach(\App\Models\CardGroup::$colorMap as $color)
+            <option value="{{ $color }}" {{ request()->input('color') == $color ? 'selected' : '' }}>{{ $color }}</option>
+          @endforeach
+        </x-form.select>
+        <x-form.select label="是否付费" label-class="text-sm" name="is_pro" placeholder="请选择是否付费" class="py-1 px-2 text-sm">
+          <option value="">全部</option>
+          <option value="yes" {{ request()->input('is_pro') == 'yes' ? 'selected' : '' }}>是</option>
+          <option value="no" {{ request()->input('is_pro') == 'no' ? 'selected' : '' }}>否</option>
+        </x-form.select>
+        <x-form.select label="状态" label-class="text-sm" name="status" placeholder="请选择状态" class="py-1 px-2 text-sm">
+          <option value="">全部</option>
+          <option value="enable" {{ request()->input('status') == 'enable' ? 'selected' : '' }}>启用</option>
+          <option value="disable" {{ request()->input('status') == 'disable' ? 'selected' : '' }}>禁用</option>
+        </x-form.select>
+      </x-table.filter>
+    </x-slot>
     <div class="-m-5">
       <table class="w-full whitespace-nowrap border-collapse">
         <thead>
@@ -79,7 +99,7 @@
         </tbody>
       </table>
       <div class="px-5 py-4">
-        {{ $cardGroups->links('admin.partials.pagination') }}
+        {{ $cardGroups->withQueryString()->links('admin.partials.pagination') }}
       </div>
       <x-table.action-delete title="删除卡片分组" content="删除分组，将同时删除分组下的卡片"></x-table.action-delete>
     </div>

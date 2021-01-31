@@ -4,7 +4,7 @@ namespace App\ModelFilters\Admin;
 
 use EloquentFilter\ModelFilter;
 
-class PlanFilter extends ModelFilter
+class PageFilter extends ModelFilter
 {
     /**
     * Related Models that have ModelFilters as well as the method on the ModelFilter
@@ -16,7 +16,8 @@ class PlanFilter extends ModelFilter
 
     public function search($search)
     {
-        return $this->where('name', 'like', '%' . $search . '%');
+        return $this->where('name', 'like', '%' . $search . '%')
+            ->orWhere('key', 'like', '%' . $search . '%');
     }
 
     public function status($status)
